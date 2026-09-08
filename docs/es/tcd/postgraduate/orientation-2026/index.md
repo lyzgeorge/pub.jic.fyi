@@ -27,3 +27,7 @@ Notas de referencia reconstruidas a partir de grabaciones de orientación de Tri
 ## Vivienda compartida
 
 - [Gestión de conflictos en una vivienda compartida](./managing-conflict-shared-housing.md) — normas, responsabilidades, conversaciones constructivas y estilos de resolución.
+
+## Desarrollo de posgrado
+
+- [Tu trayectoria de posgrado en Trinity](./postgraduate-journey.md) — apoyos, desarrollo académico, oportunidades Triple I, IA responsable y gestión de dificultades.

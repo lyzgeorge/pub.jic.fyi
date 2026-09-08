@@ -27,3 +27,7 @@ tags:
 ## 合租生活
 
 - [合租冲突管理](./managing-conflict-shared-housing.md) — 合租规则、责任分工、建设性对话及冲突处理方式。
+
+## 研究生发展
+
+- [Trinity 研究生学习之旅](./postgraduate-journey.md) — 支持体系、学术发展、Triple I 机会、负责任使用 AI 及困难应对。

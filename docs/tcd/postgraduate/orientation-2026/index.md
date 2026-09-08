@@ -27,3 +27,7 @@ Reference notes reconstructed from Trinity College Dublin orientation recordings
 ## Shared housing
 
 - [Managing Conflict in Shared Housing](./managing-conflict-shared-housing.md) — house rules, responsibilities, constructive conversations, and conflict-resolution styles.
+
+## Postgraduate development
+
+- [Your Postgraduate Journey at Trinity](./postgraduate-journey.md) — support structures, scholarly development, Triple I opportunities, responsible AI, and managing difficulties.
