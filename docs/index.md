@@ -7,3 +7,7 @@ A public knowledge notebook for useful context, practical references, and carefu
 ## Sources
 
 This site is a knowledge notebook, not an authority. For decisions involving schools, governments, employers, healthcare, immigration, law, finance, or other time-sensitive topics, check the original source before acting.
+
+## Notes
+
+- [TCD Postgraduate Orientation 2026](./tcd/postgraduate/orientation-2026/index.md)

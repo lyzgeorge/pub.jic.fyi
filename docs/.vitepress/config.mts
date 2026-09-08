@@ -23,7 +23,24 @@ export default defineConfig({
   themeConfig: {
     locales: {
       root: {
-        nav: [{ text: 'Home', link: '/' }]
+        nav: [
+          { text: 'Home', link: '/' },
+          { text: 'TCD', link: '/tcd/postgraduate/orientation-2026/' }
+        ],
+        sidebar: {
+          '/tcd/postgraduate/orientation-2026/': [
+            {
+              text: 'Postgraduate Orientation 2026',
+              items: [
+                { text: 'Overview', link: '/tcd/postgraduate/orientation-2026/' },
+                {
+                  text: 'International Student Orientation',
+                  link: '/tcd/postgraduate/orientation-2026/international-student-orientation'
+                }
+              ]
+            }
+          ]
+        }
       },
       zh: {
         nav: [{ text: '首页', link: '/zh/' }]
