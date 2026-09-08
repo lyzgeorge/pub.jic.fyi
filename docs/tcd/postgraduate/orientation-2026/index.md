@@ -47,3 +47,7 @@ Reference notes reconstructed from Trinity College Dublin orientation recordings
 ## Digital scholarship
 
 - [Generative AI in Postgraduate Study](./genai-postgraduate-studies.md) — permission, privacy, verification, responsible delegation, and academic skill development.
+
+## Fees and finance
+
+- [Postgraduate Fees, Sponsorship, and Student Finance](./fees-and-student-finance.md) — invoices, registration, instalments, sponsorship, payments, refunds, and US aid.

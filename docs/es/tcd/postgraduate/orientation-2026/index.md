@@ -47,3 +47,7 @@ Notas de referencia reconstruidas a partir de grabaciones de orientación de Tri
 ## Actividad académica digital
 
 - [IA generativa en los estudios de posgrado](./genai-postgraduate-studies.md) — permiso, privacidad, verificación, delegación responsable y capacidades académicas.
+
+## Tasas y finanzas
+
+- [Tasas de posgrado, patrocinio y finanzas estudiantiles](./fees-and-student-finance.md) — facturas, matrícula, cuotas, patrocinio, pagos, reembolsos y ayuda estadounidense.
