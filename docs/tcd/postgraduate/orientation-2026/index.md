@@ -19,3 +19,7 @@ Reference notes reconstructed from Trinity College Dublin orientation recordings
 ## International students
 
 - [International Student Orientation](./international-student-orientation.md) — immigration registration, practical setup, safety, campus support, and cultural adaptation.
+
+## Consent and student wellbeing
+
+- [Positive Sexual Experiences, Consent, and Bystander Action](./positive-sexual-experiences.md) — ongoing and freely given consent, online boundaries, bystander intervention, stalking, and Trinity support.

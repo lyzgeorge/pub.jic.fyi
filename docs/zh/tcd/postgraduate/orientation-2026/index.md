@@ -19,3 +19,7 @@ tags:
 ## 国际学生
 
 - [国际学生迎新](./international-student-orientation.md) — 移民登记、生活准备、安全、校园支持与文化适应。
+
+## 同意与学生福祉
+
+- [积极的性体验、同意与旁观者行动](./positive-sexual-experiences.md) — 持续且自由作出的同意、网络边界、旁观者干预、跟踪骚扰及 Trinity 支持。

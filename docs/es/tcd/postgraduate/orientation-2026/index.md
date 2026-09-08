@@ -19,3 +19,7 @@ Notas de referencia reconstruidas a partir de grabaciones de orientación de Tri
 ## Estudiantes internacionales
 
 - [Orientación para estudiantes internacionales](./international-student-orientation.md) — registro migratorio, preparación práctica, seguridad, apoyo universitario y adaptación cultural.
+
+## Consentimiento y bienestar estudiantil
+
+- [Experiencias sexuales positivas, consentimiento y acción de testigos](./positive-sexual-experiences.md) — consentimiento libre y continuo, límites en línea, intervención de testigos, acoso persistente y apoyo de Trinity.

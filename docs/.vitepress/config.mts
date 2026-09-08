@@ -40,6 +40,10 @@ export default defineConfig({
                 {
                   text: 'International Student Orientation',
                   link: '/tcd/postgraduate/orientation-2026/international-student-orientation'
+                },
+                {
+                  text: 'Positive Sexual Experiences',
+                  link: '/tcd/postgraduate/orientation-2026/positive-sexual-experiences'
                 }
               ]
             }
@@ -64,6 +68,10 @@ export default defineConfig({
                 {
                   text: '国际学生迎新',
                   link: '/zh/tcd/postgraduate/orientation-2026/international-student-orientation'
+                },
+                {
+                  text: '积极的性体验与同意',
+                  link: '/zh/tcd/postgraduate/orientation-2026/positive-sexual-experiences'
                 }
               ]
             }
@@ -88,6 +96,10 @@ export default defineConfig({
                 {
                   text: 'Estudiantes internacionales',
                   link: '/es/tcd/postgraduate/orientation-2026/international-student-orientation'
+                },
+                {
+                  text: 'Experiencias sexuales positivas',
+                  link: '/es/tcd/postgraduate/orientation-2026/positive-sexual-experiences'
                 }
               ]
             }
