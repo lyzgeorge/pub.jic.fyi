@@ -12,6 +12,10 @@ tags:
 
 Notas de referencia reconstruidas a partir de grabaciones de orientación de Trinity College Dublin. Cada documento se organiza por conceptos y conserva el enlace a la fuente original.
 
+## Orientación general
+
+- [Orientación general de posgrado](./postgraduate-general-orientation.md) — administración, apoyo académico, bienestar, sistemas del campus, estudios de posgrado y servicios bibliotecarios.
+
 ## Estudiantes internacionales
 
 - [Orientación para estudiantes internacionales](./international-student-orientation.md) — registro migratorio, preparación práctica, seguridad, apoyo universitario y adaptación cultural.

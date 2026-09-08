@@ -58,6 +58,10 @@ export default defineConfig({
               items: [
                 { text: '概览', link: '/zh/tcd/postgraduate/orientation-2026/' },
                 {
+                  text: '研究生综合迎新',
+                  link: '/zh/tcd/postgraduate/orientation-2026/postgraduate-general-orientation'
+                },
+                {
                   text: '国际学生迎新',
                   link: '/zh/tcd/postgraduate/orientation-2026/international-student-orientation'
                 }
@@ -77,6 +81,10 @@ export default defineConfig({
               text: 'Orientación de posgrado 2026',
               items: [
                 { text: 'Resumen', link: '/es/tcd/postgraduate/orientation-2026/' },
+                {
+                  text: 'Orientación general de posgrado',
+                  link: '/es/tcd/postgraduate/orientation-2026/postgraduate-general-orientation'
+                },
                 {
                   text: 'Estudiantes internacionales',
                   link: '/es/tcd/postgraduate/orientation-2026/international-student-orientation'

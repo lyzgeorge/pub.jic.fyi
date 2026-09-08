@@ -12,6 +12,10 @@ tags:
 
 根据 Trinity College Dublin 迎新录像重构的参考笔记。各文档按照知识结构组织，并保留原始资料链接。
 
+## 综合迎新
+
+- [研究生综合迎新](./postgraduate-general-orientation.md) — 行政事务、学术支持、福祉、校园系统、研究生学习与图书馆服务。
+
 ## 国际学生
 
 - [国际学生迎新](./international-student-orientation.md) — 移民登记、生活准备、安全、校园支持与文化适应。
