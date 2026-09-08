@@ -12,6 +12,10 @@ tags:
 
 Reference notes reconstructed from Trinity College Dublin orientation recordings. Each article is organized by concept rather than presentation order and links back to its original source.
 
+## General orientation
+
+- [Postgraduate General Orientation](./postgraduate-general-orientation.md) — administration, academic support, wellbeing, campus systems, postgraduate study, and library services.
+
 ## International students
 
 - [International Student Orientation](./international-student-orientation.md) — immigration registration, practical setup, safety, campus support, and cultural adaptation.

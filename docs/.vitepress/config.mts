@@ -34,6 +34,10 @@ export default defineConfig({
               items: [
                 { text: 'Overview', link: '/tcd/postgraduate/orientation-2026/' },
                 {
+                  text: 'Postgraduate General Orientation',
+                  link: '/tcd/postgraduate/orientation-2026/postgraduate-general-orientation'
+                },
+                {
                   text: 'International Student Orientation',
                   link: '/tcd/postgraduate/orientation-2026/international-student-orientation'
                 }
