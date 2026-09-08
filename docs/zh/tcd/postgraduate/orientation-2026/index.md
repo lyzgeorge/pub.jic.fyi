@@ -31,3 +31,7 @@ tags:
 ## 研究生发展
 
 - [Trinity 研究生学习之旅](./postgraduate-journey.md) — 支持体系、学术发展、Triple I 机会、负责任使用 AI 及困难应对。
+
+## 校园共同体与归属
+
+- [研究生生活中的归属与参与](./belonging-and-participation.md) — 均衡发展、校园共同体、公共责任、学生代表及支持。
