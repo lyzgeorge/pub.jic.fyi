@@ -23,3 +23,7 @@ Notas de referencia reconstruidas a partir de grabaciones de orientación de Tri
 ## Consentimiento y bienestar estudiantil
 
 - [Experiencias sexuales positivas, consentimiento y acción de testigos](./positive-sexual-experiences.md) — consentimiento libre y continuo, límites en línea, intervención de testigos, acoso persistente y apoyo de Trinity.
+
+## Vivienda compartida
+
+- [Gestión de conflictos en una vivienda compartida](./managing-conflict-shared-housing.md) — normas, responsabilidades, conversaciones constructivas y estilos de resolución.

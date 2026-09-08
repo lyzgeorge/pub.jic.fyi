@@ -23,3 +23,7 @@ Reference notes reconstructed from Trinity College Dublin orientation recordings
 ## Consent and student wellbeing
 
 - [Positive Sexual Experiences, Consent, and Bystander Action](./positive-sexual-experiences.md) — ongoing and freely given consent, online boundaries, bystander intervention, stalking, and Trinity support.
+
+## Shared housing
+
+- [Managing Conflict in Shared Housing](./managing-conflict-shared-housing.md) — house rules, responsibilities, constructive conversations, and conflict-resolution styles.

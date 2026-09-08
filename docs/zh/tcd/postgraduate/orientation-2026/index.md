@@ -23,3 +23,7 @@ tags:
 ## 同意与学生福祉
 
 - [积极的性体验、同意与旁观者行动](./positive-sexual-experiences.md) — 持续且自由作出的同意、网络边界、旁观者干预、跟踪骚扰及 Trinity 支持。
+
+## 合租生活
+
+- [合租冲突管理](./managing-conflict-shared-housing.md) — 合租规则、责任分工、建设性对话及冲突处理方式。
