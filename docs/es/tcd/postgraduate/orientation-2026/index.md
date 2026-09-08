@@ -51,3 +51,7 @@ Notas de referencia reconstruidas a partir de grabaciones de orientación de Tri
 ## Tasas y finanzas
 
 - [Tasas de posgrado, patrocinio y finanzas estudiantiles](./fees-and-student-finance.md) — facturas, matrícula, cuotas, patrocinio, pagos, reembolsos y ayuda estadounidense.
+
+## Accesibilidad
+
+- [Adaptaciones razonables y apoyo a la discapacidad](./reasonable-accommodations.md) — registro, exámenes, consentimiento LENS, apoyo y necesidades cambiantes.

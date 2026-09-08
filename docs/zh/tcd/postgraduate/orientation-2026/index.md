@@ -51,3 +51,7 @@ tags:
 ## 学费与财务
 
 - [研究生学费、资助方与学生财务](./fees-and-student-finance.md) — 账单、注册、分期、资助、付款、退款及美国学生资助。
+
+## 无障碍支持
+
+- [合理便利与残障支持](./reasonable-accommodations.md) — 注册、考试安排、LENS 同意、辅助支持及需求变化。

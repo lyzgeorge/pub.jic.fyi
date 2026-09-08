@@ -51,3 +51,7 @@ Reference notes reconstructed from Trinity College Dublin orientation recordings
 ## Fees and finance
 
 - [Postgraduate Fees, Sponsorship, and Student Finance](./fees-and-student-finance.md) — invoices, registration, instalments, sponsorship, payments, refunds, and US aid.
+
+## Accessibility
+
+- [Reasonable Accommodations and Disability Support](./reasonable-accommodations.md) — registration, exam arrangements, LENS consent, assistive support, and changing needs.
