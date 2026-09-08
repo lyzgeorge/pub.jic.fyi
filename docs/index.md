@@ -1,7 +1,13 @@
-# JIC
+# pub.jic.fyi
 
-这是一个逐步整理的公开知识笔记站。内容以个人总结为主；请以学校、政府及其他原始机构页面的最新信息为准。
+Welcome to a public knowledge notebook: a calm place for notes that may be useful later.
 
-## 当前内容
+**JIC** means **just in case**. **FYI** means **for your information**. Together, `pub.jic.fyi` is a small public archive for useful context, practical references, and carefully sourced notes.
 
-- [TCD Orientation 2026：讲座笔记](/tcd/orientation-2026/)
+## Languages
+
+Notes are written primarily in **English**, with **Chinese** as the second language and **Spanish** as the third. Where a note is available in more than one language, English remains the reference version unless it says otherwise.
+
+## A note on sources
+
+This site is a knowledge notebook, not an authority. For decisions involving schools, governments, employers, healthcare, immigration, law, finance, or other time-sensitive topics, check the original source before acting.
