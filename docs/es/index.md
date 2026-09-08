@@ -7,3 +7,7 @@ Un cuaderno público de conocimiento con contexto útil, referencias prácticas 
 ## Fuentes
 
 Este sitio es un cuaderno de conocimiento, no una autoridad. Antes de actuar sobre asuntos relacionados con educación, gobierno, empleo, salud, inmigración, derecho, finanzas u otra información sensible al tiempo, consulta la fuente original.
+
+## Notas
+
+- [Orientación de posgrado de TCD 2026](./tcd/postgraduate/orientation-2026/index.md)

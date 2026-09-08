@@ -43,10 +43,44 @@ export default defineConfig({
         }
       },
       zh: {
-        nav: [{ text: '首页', link: '/zh/' }]
+        nav: [
+          { text: '首页', link: '/zh/' },
+          { text: 'TCD', link: '/zh/tcd/postgraduate/orientation-2026/' }
+        ],
+        sidebar: {
+          '/zh/tcd/postgraduate/orientation-2026/': [
+            {
+              text: '2026 研究生迎新',
+              items: [
+                { text: '概览', link: '/zh/tcd/postgraduate/orientation-2026/' },
+                {
+                  text: '国际学生迎新',
+                  link: '/zh/tcd/postgraduate/orientation-2026/international-student-orientation'
+                }
+              ]
+            }
+          ]
+        }
       },
       es: {
-        nav: [{ text: 'Inicio', link: '/es/' }]
+        nav: [
+          { text: 'Inicio', link: '/es/' },
+          { text: 'TCD', link: '/es/tcd/postgraduate/orientation-2026/' }
+        ],
+        sidebar: {
+          '/es/tcd/postgraduate/orientation-2026/': [
+            {
+              text: 'Orientación de posgrado 2026',
+              items: [
+                { text: 'Resumen', link: '/es/tcd/postgraduate/orientation-2026/' },
+                {
+                  text: 'Estudiantes internacionales',
+                  link: '/es/tcd/postgraduate/orientation-2026/international-student-orientation'
+                }
+              ]
+            }
+          ]
+        }
       }
     },
     socialLinks: [
