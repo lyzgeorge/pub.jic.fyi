@@ -35,3 +35,7 @@ Notas de referencia reconstruidas a partir de grabaciones de orientación de Tri
 ## Comunidad y pertenencia
 
 - [Pertenencia y participación en la vida de posgrado](./belonging-and-participation.md) — desarrollo equilibrado, comunidad, responsabilidad cívica, representación y apoyo.
+
+## Trabajo y carrera
+
+- [Trabajar mientras estudias en Trinity](./working-in-trinity.md) — permiso, derechos laborales, nómina ocasional y empleo universitario.

@@ -35,3 +35,7 @@ Reference notes reconstructed from Trinity College Dublin orientation recordings
 ## Community and belonging
 
 - [Belonging and Participation in Postgraduate Life](./belonging-and-participation.md) — balanced development, community, civic purpose, student representation, and support.
+
+## Work and careers
+
+- [Working While Studying at Trinity](./working-in-trinity.md) — work eligibility, employment rights, casual payroll, and campus job sources.

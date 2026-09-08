@@ -35,3 +35,7 @@ tags:
 ## 校园共同体与归属
 
 - [研究生生活中的归属与参与](./belonging-and-participation.md) — 均衡发展、校园共同体、公共责任、学生代表及支持。
+
+## 工作与职业
+
+- [在 Trinity 就读期间工作](./working-in-trinity.md) — 工作资格、雇佣权益、临时工资流程及校内求职渠道。
