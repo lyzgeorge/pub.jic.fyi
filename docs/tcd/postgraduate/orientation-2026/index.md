@@ -39,3 +39,7 @@ Reference notes reconstructed from Trinity College Dublin orientation recordings
 ## Work and careers
 
 - [Working While Studying at Trinity](./working-in-trinity.md) — work eligibility, employment rights, casual payroll, and campus job sources.
+
+## Research supervision
+
+- [Building an Effective Student–Supervisor Relationship](./student-supervisor-relationship.md) — roles, meetings, feedback, assertive communication, and early support.

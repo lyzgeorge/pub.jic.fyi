@@ -39,3 +39,7 @@ tags:
 ## 工作与职业
 
 - [在 Trinity 就读期间工作](./working-in-trinity.md) — 工作资格、雇佣权益、临时工资流程及校内求职渠道。
+
+## 科研指导
+
+- [建立有效的学生—导师关系](./student-supervisor-relationship.md) — 角色、会议、反馈、坚定沟通及尽早求助。
