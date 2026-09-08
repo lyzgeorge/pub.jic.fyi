@@ -21,84 +21,84 @@ tags:
 >
 > **Fuente:** [Grabación de Panopto](https://tcd.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=63000a95-73d6-4e3e-8898-b4b700e9440e)
 
-La sesión presenta los sistemas administrativos, académicos, de bienestar, del campus y de biblioteca disponibles para estudiantes de posgrado en Trinity College Dublin (TCD).
+Esta guía reúne los principales trámites, recursos académicos, servicios de bienestar, espacios del campus y prestaciones de la biblioteca que conviene conocer al comenzar un posgrado en Trinity College Dublin (TCD).
 
-## Bases administrativas
+## Matrícula y trámites básicos
 
-Complete la configuración administrativa básica antes de que surjan cuestiones más complejas.
+Muchos servicios de la universidad dependen de que los datos del estudiante estén completos y actualizados. Conviene empezar por estos pasos:
 
 1. Matricúlese mediante `my.tcd.ie`, suba una fotografía y recoja la T Card.
 2. Lea y conserve el manual del curso o de investigación. Es la referencia principal para las normas del programa, la evaluación y los hitos.
 3. Use la cuenta de correo de TCD al contactar con oficinas de la universidad e incluya el número de estudiante de ocho dígitos.
 4. Mantenga actualizados la dirección irlandesa y el número de teléfono en `my.tcd.ie`.
-5. Use los canales formales e informales de comentarios para indicar qué funciona y qué necesita mejora.
+5. Utilice las encuestas, los representantes estudiantiles y otros canales de participación para transmitir sugerencias o problemas.
 
 ### Dónde dirigir una consulta
 
 | Servicio | Ámbito | Vía de acceso |
 | --- | --- | --- |
-| **Postgraduate Advisory Service (PAS)** | Asesoramiento confidencial de primera línea, defensa, derivaciones, talleres de habilidades, grupos de apoyo para posgrado y ayuda económica de emergencia limitada | `postgrad.support@tcd.ie`, `@tcdpgadvisory` |
+| **Postgraduate Advisory Service (PAS)** | Orientación confidencial, defensa de los intereses del estudiante, derivación a otros servicios, talleres, grupos de apoyo para posgrado y ayuda económica de emergencia limitada | `postgrad.support@tcd.ie`, `@tcdpgadvisory` |
 | **Academic Registry** | Solicitudes, matrícula, expedientes, tasas, tarjetas de identidad, exámenes, graduación y documentos oficiales | [ask.tcd.ie](https://ask.tcd.ie/) |
-| **Dignity, Respect and Consent Service** | Revelaciones, quejas, consentimiento, conducta sexual inapropiada, acoso escolar y hostigamiento | Servicio de dignidad y respeto de TCD |
+| **Dignity, Respect and Consent Service** | Comunicación de incidentes, reclamaciones, consentimiento, conducta sexual inapropiada, intimidación y acoso | Servicio de dignidad y respeto de TCD |
 | **Equality, Diversity and Inclusion** | Inclusión, discriminación, formación sobre igualdad y recursos relacionados | Servicio de igualdad de TCD |
 | **Policies Hub** | Procedimientos y políticas de la universidad, incluidas quejas estudiantiles, alcohol y drogas, salud mental y protección infantil | Sitio web de políticas de TCD |
 
-Academic Registry emite certificados de matrícula y de dirección. La sesión indica un plazo normal de dos días laborables, que aumenta a cuatro durante los periodos de mayor actividad.
+Academic Registry expide certificados de matrícula y de domicilio. El plazo habitual es de dos días laborables y puede llegar a cuatro en periodos de mayor demanda.
 
-## Sistema operativo académico
+## Organización de los estudios
 
-### Planificar hacia atrás desde los requisitos
+### Organizar el trabajo a partir de las fechas límite
 
-El trabajo de posgrado exige controlar plazos y expectativas antes de la gestión de tareas de última hora.
+En un posgrado suelen coincidir varias entregas, evaluaciones y gestiones administrativas. Planificarlas con antelación evita concentrar todo el trabajo en los últimos días.
 
 - Registre fechas de evaluación, hitos, materiales obligatorios y plazos administrativos.
-- Trabaje hacia atrás desde cada plazo y divídalo en entregables más pequeños.
+- Parta de cada fecha límite y divida el trabajo en pasos más pequeños.
 - Fije objetivos realistas y reserve tiempo para investigar, leer, escribir y revisar.
 - Aclare las expectativas académicas con docentes o supervisores en lugar de inferirlas.
-- Identifique pronto la formación en habilidades necesaria.
+- Determine con tiempo qué talleres o formación complementaria puede necesitar.
 
-Las personas que necesiten ajustes razonables deben registrarse con el disAbility Service mediante `my.tcd.ie`. La sesión señala el último viernes de octubre como fecha antes de la cual el servicio procura tener listos los ajustes de examen del primer semestre; las solicitudes posteriores siguen siendo posibles, pero podrían no aplicarse a tiempo.
+Los estudiantes que necesiten adaptaciones razonables deben registrarse en el disAbility Service mediante `my.tcd.ie`. Para que las adaptaciones de los exámenes del primer semestre estén listas a tiempo, se recomienda completar la solicitud antes del último viernes de octubre. También se aceptan solicitudes posteriores, aunque quizá no puedan aplicarse durante ese semestre.
 
 ### Servicios de apoyo académico
 
 | Servicio | Función |
 | --- | --- |
-| **Bibliotecario/a de materia** | Búsqueda específica por disciplina, bases de datos, material de listas de lectura y orientación para la investigación |
+| **Bibliotecario de la materia** | Búsquedas especializadas, bases de datos, bibliografía del curso y orientación para la investigación |
 | **Student Learning Development** | Talleres, recursos en línea, consultas individuales, escritura académica, construcción de argumentos y métodos de estudio |
 | **Academic Writing Centre** | Comentarios sobre muestras breves de escritura |
-| **Careers Advisory Service** | Planificación profesional, talleres, ferias, clínicas de CV y entrevistas, y oportunidades a través de MyCareer |
+| **Careers Advisory Service** | Orientación profesional, talleres, ferias, revisión de CV, preparación de entrevistas y oportunidades publicadas en MyCareer |
 | **disAbility Service** | Evaluación de necesidades, tecnología de apoyo, apoyo académico y ajustes de examen |
 
-## El bienestar como infraestructura de estudio
+## El bienestar como base para estudiar
 
-El rendimiento académico y el bienestar se afectan mutuamente. La sesión trata el ejercicio, la alimentación, la hidratación, el sueño, la salud mental, el apoyo espiritual y la atención durante la enfermedad como parte de un sistema de estudio sostenible.
+Mantener un ritmo de estudio sostenible también implica cuidar el descanso, la alimentación, la hidratación, el ejercicio y la salud mental. La universidad ofrece apoyo médico, psicológico y espiritual cuando sea necesario.
 
 | Servicio | Prestación |
 | --- | --- |
-| **College Health Centre** | Atención primaria para estudiantes mediante médicos y enfermería, clínicas de salud sexual y fisioterapia con tarifa reducida |
+| **College Health Centre** | Atención primaria para estudiantes, con consultas médicas y de enfermería, servicios de salud sexual y fisioterapia a precio reducido |
 | **Student Counselling Services** | Orientación individual, grupos de apoyo, talleres, grupos de apoyo para posgrado y programas en línea |
 | **Sports Centre** | Gimnasio, piscina, muro de escalada, clases de fitness, deporte social e instalaciones al aire libre; se activa el acceso con la T Card |
-| **Chaplaincy** | Capellanes, vínculos con comunidades de distintas religiones, espacios de oración y apoyo abierto a estudiantes de cualquier religión o de ninguna |
+| **Chaplaincy** | Capellanes, contacto con comunidades religiosas, espacios de oración y apoyo para estudiantes de cualquier religión o sin afiliación religiosa |
 
-Para escucha y apoyo en crisis fuera de horario, la sesión menciona **Text About It** en `50808` y el servicio gestionado por estudiantes **NiteLine**.
+Fuera del horario habitual, quienes necesiten hablar con alguien o recibir apoyo en una crisis pueden recurrir a **Text About It** en el `50808` o al servicio estudiantil **NiteLine**.
 
-## Participación y representación
+## Participación y representación estudiantil
 
-La participación de posgrado va más allá de las clases y los grupos de investigación.
+La vida de posgrado también incluye oportunidades para conocer gente, participar en el campus y trasladar propuestas a la universidad.
 
 - Los **representantes de clase y de escuela** comunican las opiniones de posgrado a los programas y a la universidad.
-- **TCD Students' Union** es legalmente independiente de la universidad y ofrece representación, apoyo de bienestar y educación, campañas y una persona responsable de posgrado.
+- **TCD Students' Union** es jurídicamente independiente de la universidad y ofrece representación, apoyo académico y de bienestar, campañas y una persona responsable de los asuntos de posgrado.
 - **Global Room** apoya a estudiantes internacionales con información migratoria, apoyo entre pares y eventos culturales.
 - Los **clubes deportivos** abarcan aproximadamente 50 actividades y admiten participantes desde nivel principiante hasta competitivo.
 - Las **sociedades estudiantiles** cubren disciplinas académicas, culturas, identidades, publicaciones, artes y otros intereses.
 
-Un patrón práctico inicial es una sociedad relacionada con la disciplina, una actividad conocida y una actividad nueva. El estudiantado de posgrado también puede influir en clubes y sociedades proponiendo eventos para su cohorte.
+Para empezar, puede resultar útil elegir una sociedad relacionada con la titulación, mantener una actividad conocida y probar otra nueva. Los estudiantes de posgrado también pueden proponer a los clubes y sociedades actividades dirigidas específicamente a su grupo.
 
-## Sistemas del campus
+## Servicios y recursos del campus
 
 ### Acceso a TI
 
-La secuencia de orientación de TI cubre:
+La orientación de TI ayuda a completar estas tareas:
 
 1. activar la cuenta informática y el correo;
 2. conectarse al Wi-Fi estudiantil;
@@ -110,54 +110,54 @@ La secuencia de orientación de TI cubre:
 
 ### T Card
 
-La **T Card** sirve como identificación estudiantil, credencial de acceso a edificios, inicio de sesión para impresoras y fotocopiadoras, y tarjeta de pago sin efectivo en el campus. También puede utilizarse para solicitar descuentos de estudiante dentro y fuera del campus. La sesión indica que el pago con T Card recibe un descuento del 10 % en los puntos de restauración del campus.
+La **T Card** es a la vez carné de estudiante, tarjeta de acceso a determinados edificios, identificación para impresoras y fotocopiadoras y medio de pago en el campus. También permite acreditar la condición de estudiante para solicitar descuentos. Al pagar con ella en los establecimientos de restauración del campus se aplica un 10 % de descuento.
 
 ### Comida y espacios estudiantiles
 
 Las opciones de comida del campus incluyen Buttery, Dining Hall, Forum, Perch, la cafetería y tiendas de la Students' Union, y Pavilion. Dining Hall y Buttery sirven la misma comida en entornos distintos; la mayoría de los puntos de restauración cierran antes de la tarde, mientras que Pavilion ofrece comida caliente más tarde.
 
-TCD no tiene un único centro de estudiantes. En su lugar, ofrece una red de espacios estudiantiles. **Common Room** y **1937 Reading Room** son espacios exclusivos para posgrado; otros lugares atienden a partes concretas del campus.
+TCD no concentra la vida estudiantil en un único edificio: dispone de varios espacios repartidos por el campus. **Common Room** y **1937 Reading Room** son espacios exclusivos para posgrado; otros lugares atienden a partes concretas del campus.
 
 ![Mapa de los espacios para estudiantes de posgrado y estudiantes en general en el campus principal de Trinity.](/assets/tcd/postgraduate/orientation-2026/postgraduate-general-orientation/student-spaces-map.jpg)
 
-*Los espacios para estudiantes de posgrado y estudiantes en general están distribuidos por el campus, en vez de concentrarse en un único centro de estudiantes.*
+*Los espacios de uso general y los reservados para posgrado se encuentran repartidos por todo el campus.*
 
 ### Transporte y sostenibilidad
 
 La sesión recomienda caminar, ir en bicicleta y utilizar el transporte público para desplazarse por Dublín. La aplicación TFI Live ofrece información de rutas y tarifas, mientras que las tarjetas Young Adult y Student Leap ofrecen descuentos en transporte público según la edad y la condición de estudiante.
 
-Las prácticas de sostenibilidad del campus incluyen apagar equipos no utilizados, usar puntos de recarga y vasos reutilizables, separar el reciclaje y devolver envases elegibles mediante máquinas expendedoras inversas. Los mapas de sostenibilidad de TCD identifican instalaciones como puntos de reciclaje, fuentes de agua, baños y opciones de comida sostenible.
+Entre las prácticas recomendadas están apagar los equipos que no se utilicen, rellenar botellas, usar vasos reutilizables, separar correctamente los residuos y devolver en las máquinas de depósito los envases incluidos en el sistema de reembolso. El mapa de sostenibilidad de TCD señala puntos de reciclaje, fuentes de agua, aseos y opciones de comida sostenible.
 
 ## Seguridad
 
-**SafeZone** conecta directamente a sus usuarios con TCD Security. Permite solicitar primeros auxilios, asistencia de seguridad y ayuda de emergencia, y realizar el registro de personas que trabajan solas en el campus. Si alguien se registra pero no finaliza el registro, Security puede hacer seguimiento.
+La aplicación **SafeZone** permite contactar directamente con TCD Security para solicitar primeros auxilios, asistencia de seguridad o ayuda de emergencia. Quienes trabajen solos en el campus pueden registrar su presencia; si no cierran el registro, el personal de seguridad puede comprobar que se encuentran bien.
 
 | Contacto | Número |
 | --- | --- |
 | College Security | `01 896 1317` |
 | Emergencia en el campus | `01 896 1999` |
 
-En emergencias en el campus, la sesión indica al estudiantado usar SafeZone o el número de emergencia del campus para que TCD Security pueda coordinar el acceso de los equipos de emergencia. Las alarmas de incendio deben considerarse reales: hay que salir por la ruta de emergencia señalizada, sin esperar confirmación.
+Ante una emergencia en el campus, utilice SafeZone o llame al número de emergencia para que TCD Security coordine la entrada de los servicios de asistencia. Si suena la alarma de incendios, salga inmediatamente por la ruta de evacuación señalizada.
 
-## Prácticas de estudio de posgrado
+## Hábitos para cursar un posgrado
 
-### Construir una red de pares
+### Crear una red de apoyo entre compañeros
 
-Los estudios de posgrado pueden aislar, especialmente durante la investigación individual. Mantenga relaciones dentro y fuera del programa, incluidas personas compañeras que comprendan los mismos plazos y el contexto institucional.
+El posgrado puede resultar aislante, sobre todo durante las etapas de investigación individual. Conviene mantener relaciones dentro y fuera del programa y seguir en contacto con compañeros que comparten los mismos plazos y conocen el entorno de la universidad.
 
-### Tratar el estudio como trabajo a tiempo completo con límites
+### Organizar el posgrado como un trabajo a tiempo completo y reservar tiempo para descansar
 
-La sesión presenta los estudios de posgrado como algo ampliamente comparable a un empleo a tiempo completo. Trabajar hasta tarde puede ser necesario en ocasiones, pero debe ser una excepción y no una rutina.
+La dedicación de un posgrado es comparable, en términos generales, a la de un empleo a tiempo completo. En momentos concretos puede ser necesario trabajar hasta tarde, pero no debería convertirse en la rutina habitual.
 
-- Organice un horario repetible.
-- Proteja suficiente tiempo para el trabajo académico sin asumir compromisos excesivos.
-- Mantenga aficiones, ejercicio, amistades y tiempo lejos del escritorio.
-- Tome una pausa breve cuando el trabajo deje de ser productivo y vuelva con una visión más clara del problema.
-- Espere periodos de frustración sin tratarlos como evidencia de que el programa ha fracasado.
+- Establezca un horario que pueda mantener durante el semestre.
+- Reserve suficiente tiempo para leer, investigar y escribir sin llenar en exceso la agenda.
+- Mantenga sus aficiones, el ejercicio, las amistades y los descansos fuera del escritorio.
+- Cuando deje de avanzar, haga una pausa breve y retome el problema con más claridad.
+- Acepte que habrá etapas frustrantes; forman parte del proceso y no significan que el posgrado vaya mal.
 
-### Navegar la cultura académica irlandesa
+### Adaptarse a la cultura académica irlandesa
 
-La comunicación social irlandesa suele ser informal, pero los roles académicos siguen teniendo expectativas.
+En Irlanda la comunicación cotidiana suele ser informal, aunque en el ámbito académico siguen aplicándose ciertas normas de cortesía.
 
 | Contexto | Convención descrita en la sesión |
 | --- | --- |
@@ -167,44 +167,44 @@ La comunicación social irlandesa suele ser informal, pero los roles académicos
 | Títulos académicos | Use `Dr`, `Professor` o el título pertinente hasta que le inviten a usar el nombre de pila |
 | Lenguaje informal | El vocabulario específico de Irlanda y Trinity puede diferir de otras formas de inglés; pregunte cuando un término no sea claro |
 
-## Sistema de biblioteca
+## Uso de la biblioteca
 
-La biblioteca de TCD es una biblioteca de investigación de depósito legal con aproximadamente siete millones de materiales físicos, 1,3 millones de libros electrónicos, 150.000 revistas electrónicas y más de 3.000 puestos de estudio.
+La biblioteca de TCD es una biblioteca de investigación con depósito legal. Reúne aproximadamente siete millones de documentos físicos, 1,3 millones de libros electrónicos y 150.000 revistas electrónicas, además de ofrecer más de 3.000 puestos de estudio.
 
 ### Espacios y acceso
 
 - **1937 Reading Room** es un espacio de estudio de posgrado abierto 24 horas con sala de informática, sala de conversación, cocina pequeña y taquillas.
 - **Kinsella Hall** es otro espacio de estudio abierto 24 horas para todo el estudiantado.
-- Los escritorios exclusivos para posgrado de las bibliotecas Lecky, Ussher y Boland se asignan a estudiantes de doctorado y de máster por investigación, no de máster impartido.
-- Las salas de grupo reservables y los espacios adaptados sensorialmente se distribuyen por el sistema de biblioteca.
+- Los escritorios reservados para posgrado en las bibliotecas Lecky, Ussher y Boland se asignan a doctorandos y estudiantes de máster de investigación, no a quienes cursan un máster con docencia.
+- En distintas bibliotecas hay salas de trabajo en grupo que pueden reservarse y espacios adaptados para personas con necesidades sensoriales.
 
-### Préstamo y recuperación
+### Préstamo y solicitud de materiales
 
-La sesión indica que el estudiantado de títulos superiores puede tomar prestados hasta 50 libros de préstamo general a la vez durante 12 semanas, con una renovación adicional de 12 semanas cuando no haya una solicitud de recuperación.
+Los estudiantes de posgrado pueden tomar prestados hasta 50 libros de la colección general durante 12 semanas. Si otra persona no ha solicitado el ejemplar, el préstamo puede renovarse una vez por otras 12 semanas.
 
-Use la signatura del catálogo para encontrar un libro impreso. Como buena parte de la colección se almacena en lugar de estar en estanterías abiertas, la función **Click and Collect** del catálogo puede enviar el material al mostrador de servicio adecuado. Los artículos en estantería suelen estar disponibles en 24 horas; los almacenados suelen estarlo el siguiente día laborable.
+Para localizar un libro impreso, consulte su signatura en el catálogo. Una parte importante de los fondos se guarda en depósitos cerrados; mediante **Click and Collect** puede solicitar que el material se envíe al mostrador correspondiente. Los ejemplares de estantería abierta suelen prepararse en un plazo de 24 horas y los conservados en depósito, para el siguiente día laborable.
 
-### Distinción entre tipos de libros electrónicos
+### Tipos de libros electrónicos
 
 | Tipo de ebook | Acceso |
 | --- | --- |
-| Ebook adquirido regular | Disponible a distancia conforme a las condiciones normales de acceso de la biblioteca |
-| Ebook de depósito legal electrónico del Reino Unido | Disponible solo en ordenadores designados de la biblioteca debido a restricciones de depósito legal |
+| Libro electrónico adquirido por la biblioteca | Suele estar disponible a distancia según las condiciones habituales de acceso |
+| Libro electrónico del depósito legal del Reino Unido | Solo puede consultarse en los ordenadores designados de la biblioteca |
 
-Cada disciplina tiene una persona bibliotecaria de materia. Las sesiones Library HITS cubren fundamentos de biblioteca, bases de datos, plagio, referencias, gestión de referencias, revisiones de literatura, escritura académica, lectura crítica y habilidades de investigación relacionadas.
+Cada disciplina cuenta con un bibliotecario especializado. Las sesiones Library HITS cubren fundamentos de biblioteca, bases de datos, plagio, referencias, gestión de referencias, revisiones de literatura, escritura académica, lectura crítica y habilidades de investigación relacionadas.
 
-## Secuencia práctica
+## Orden recomendado
 
 | Etapa | Acción |
 | --- | --- |
 | Configuración inicial | Matricularse, recoger la T Card, leer el manual, actualizar los datos de contacto y activar TI y Wi-Fi |
 | Planificación académica | Registrar plazos, identificar expectativas, reunirse con el/la bibliotecario/a de materia e inscribirse para el apoyo o los ajustes necesarios |
 | Configuración del campus | Localizar espacios de posgrado, instalar SafeZone y aprender los sistemas de T Card, transporte, comida y sostenibilidad |
-| Durante el semestre | Usar PAS o Academic Registry para la cuestión pertinente, mantener un horario de estudio con límites y conservar el vínculo con pares |
-| Investigación y tareas | Usar recuperación por catálogo, bases de datos, bibliotecarios/as de materia, Student Learning Development y formación Library HITS |
+| Durante el semestre | Acudir a PAS o Academic Registry según el tipo de consulta, mantener un ritmo de estudio sostenible y seguir en contacto con los compañeros |
+| Investigación y trabajos | Utilizar el catálogo, las bases de datos, los bibliotecarios especializados, Student Learning Development y la formación Library HITS |
 | Cuando se necesite apoyo | Contactar con salud, orientación, PAS, Students' Union, Security u otro servicio especializado en vez de esperar a que el problema aumente |
 
-## Recursos vinculados a la fuente
+## Recursos relacionados
 
 - [Postgraduate Advisory Service](https://www.tcd.ie/seniortutor/postgraduate-students/)
 - [Academic Registry support](https://ask.tcd.ie/)

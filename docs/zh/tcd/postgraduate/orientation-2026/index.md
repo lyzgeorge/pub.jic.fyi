@@ -14,7 +14,7 @@ tags:
 
 ## 综合迎新
 
-- [研究生综合迎新](./postgraduate-general-orientation.md) — 行政事务、学术支持、福祉、校园系统、研究生学习与图书馆服务。
+- [研究生综合迎新指南](./postgraduate-general-orientation.md) — 注册手续、学业支持、身心健康、校园生活和图书馆服务。
 
 ## 国际学生
 

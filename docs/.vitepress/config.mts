@@ -58,7 +58,7 @@ export default defineConfig({
               items: [
                 { text: '概览', link: '/zh/tcd/postgraduate/orientation-2026/' },
                 {
-                  text: '研究生综合迎新',
+                  text: '研究生综合迎新指南',
                   link: '/zh/tcd/postgraduate/orientation-2026/postgraduate-general-orientation'
                 },
                 {
