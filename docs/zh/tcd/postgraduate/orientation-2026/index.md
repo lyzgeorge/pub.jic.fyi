@@ -43,3 +43,7 @@ tags:
 ## 科研指导
 
 - [建立有效的学生—导师关系](./student-supervisor-relationship.md) — 角色、会议、反馈、坚定沟通及尽早求助。
+
+## 数字学术
+
+- [研究生学习中的生成式 AI](./genai-postgraduate-studies.md) — 许可、隐私、核查、负责任任务委托及学术能力培养。

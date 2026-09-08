@@ -43,3 +43,7 @@ Notas de referencia reconstruidas a partir de grabaciones de orientación de Tri
 ## Supervisión investigadora
 
 - [Construir una relación eficaz entre estudiante y supervisor](./student-supervisor-relationship.md) — funciones, reuniones, comentarios, comunicación asertiva y apoyo.
+
+## Actividad académica digital
+
+- [IA generativa en los estudios de posgrado](./genai-postgraduate-studies.md) — permiso, privacidad, verificación, delegación responsable y capacidades académicas.

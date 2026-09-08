@@ -43,3 +43,7 @@ Reference notes reconstructed from Trinity College Dublin orientation recordings
 ## Research supervision
 
 - [Building an Effective Student–Supervisor Relationship](./student-supervisor-relationship.md) — roles, meetings, feedback, assertive communication, and early support.
+
+## Digital scholarship
+
+- [Generative AI in Postgraduate Study](./genai-postgraduate-studies.md) — permission, privacy, verification, responsible delegation, and academic skill development.
