@@ -87,3 +87,7 @@ Notas de referencia reconstruidas a partir de grabaciones de orientación de Tri
 - [Matrícula y Academic Registry](./academic-registry-registration.md) — proceso de matrícula, expediente, documentos, TCard y apoyo administrativo.
 
 - [Integridad académica: citas, similitud y gestión de referencias](./academic-integrity.md) — plagio, paráfrasis, Turnitin, estilos, IA y gestión bibliográfica.
+
+## Deporte y actividad física
+
+- [Trinity Sport: clubes, actividad recreativa, instalaciones y participación inclusiva](./trinity-sport.md) — clubes, programas recreativos, abonos, instalaciones, alto rendimiento y participación inclusiva.

@@ -44,6 +44,10 @@ export default defineConfig({
                 {
                   text: 'Positive Sexual Experiences',
                   link: '/tcd/postgraduate/orientation-2026/positive-sexual-experiences'
+                },
+                {
+                  text: 'Trinity Sport',
+                  link: '/tcd/postgraduate/orientation-2026/trinity-sport'
                 }
               ]
             }
@@ -72,6 +76,10 @@ export default defineConfig({
                 {
                   text: '积极的性体验与同意',
                   link: '/zh/tcd/postgraduate/orientation-2026/positive-sexual-experiences'
+                },
+                {
+                  text: 'Trinity Sport',
+                  link: '/zh/tcd/postgraduate/orientation-2026/trinity-sport'
                 }
               ]
             }
@@ -100,6 +108,10 @@ export default defineConfig({
                 {
                   text: 'Experiencias sexuales positivas',
                   link: '/es/tcd/postgraduate/orientation-2026/positive-sexual-experiences'
+                },
+                {
+                  text: 'Trinity Sport',
+                  link: '/es/tcd/postgraduate/orientation-2026/trinity-sport'
                 }
               ]
             }

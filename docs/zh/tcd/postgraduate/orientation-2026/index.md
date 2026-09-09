@@ -87,3 +87,7 @@ tags:
 - [注册手续与 Academic Registry](./academic-registry-registration.md) — 完成注册、维护学籍、获取证明和 TCard，并处理行政问题。
 
 - [学术诚信：引用、相似度与文献管理](./academic-integrity.md) — 抄袭、改写、Turnitin、引用体系、AI 声明与文献工作流。
+
+## 体育与身体活动
+
+- [Trinity Sport：体育社团、休闲活动、场馆与包容参与](./trinity-sport.md) — 体育社团、休闲项目、会员资格、场馆、高水平运动支持与包容参与。

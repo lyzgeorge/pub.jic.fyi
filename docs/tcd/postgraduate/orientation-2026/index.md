@@ -87,3 +87,7 @@ Reference notes reconstructed from Trinity College Dublin orientation recordings
 - [Registration and the Academic Registry](./academic-registry-registration.md) — completing registration, student records, documents, TCard, and administrative support.
 
 - [Academic Integrity: Citation, Similarity, and Reference Management](./academic-integrity.md) — plagiarism, paraphrasing, Turnitin, citation systems, AI acknowledgement, and reference workflows.
+
+## Sport and physical activity
+
+- [Trinity Sport: Clubs, Recreation, Facilities, and Inclusive Participation](./trinity-sport.md) — sports clubs, recreational programmes, memberships, facilities, high-performance support, and inclusive participation.
