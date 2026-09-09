@@ -81,3 +81,5 @@ tags:
 - [Trinity 的平等、多元、公平与包容](./equality-diversity-inclusion.md) — 核心概念、受保护事由、交叉性、政策和支持渠道。
 
 - [在 Trinity 与都柏林的 LGBTQ+ 学习和生活](./lgbtq-trinity-dublin.md) — 权利、学术与学生社群、学籍变更、专业支持、夜间安全及城市资源。
+
+- [培养韧性：压力、应对与自我关怀](./developing-resilience.md) — 压力调节、容忍窗口、认知解离、生活平衡、坚定沟通与自我关怀。

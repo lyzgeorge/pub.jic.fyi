@@ -81,3 +81,5 @@ Notas de referencia reconstruidas a partir de grabaciones de orientación de Tri
 - [Igualdad, diversidad, equidad e inclusión en Trinity](./equality-diversity-inclusion.md) — conceptos, motivos protegidos, interseccionalidad, políticas y apoyo.
 
 - [Ser LGBTQ+ en Trinity y en Dublín](./lgbtq-trinity-dublin.md) — derechos, comunidades, cambios en el expediente, apoyo especializado, ocio nocturno seguro y recursos urbanos.
+
+- [Desarrollar resiliencia: estrés, afrontamiento y autocompasión](./developing-resilience.md) — regulación del estrés, ventana de tolerancia, defusión, equilibrio, asertividad y autocompasión.
