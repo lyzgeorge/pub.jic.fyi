@@ -67,3 +67,5 @@ Notas de referencia reconstruidas a partir de grabaciones de orientación de Tri
 - [Fe, espiritualidad y comunidad en Trinity](./faith-and-spirituality.md) — capellanía, espacios, sociedades espirituales y participación respetuosa.
 
 - [Diseñar un espacio de trabajo que apoye el estudio](./designing-workspace.md) — entornos físicos, sensoriales, virtuales y sociales, campus y apoyo.
+
+- [Salud y bienestar durante el posgrado](./health-and-wellbeing.md) — determinantes, alimentación, movimiento, salud mental, apoyo social y atención.

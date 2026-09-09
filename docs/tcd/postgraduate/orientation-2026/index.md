@@ -67,3 +67,5 @@ Reference notes reconstructed from Trinity College Dublin orientation recordings
 - [Faith, Spirituality, and Community at Trinity](./faith-and-spirituality.md) — chaplaincy, worship and reflection spaces, spiritual societies, and respectful participation.
 
 - [Designing a Workspace That Supports Study](./designing-workspace.md) — physical, sensory, virtual, and social environments; campus spaces; and tailored support.
+
+- [Health and Wellbeing During Postgraduate Study](./health-and-wellbeing.md) — determinants of health, food, movement, mental health, social support, and campus care.

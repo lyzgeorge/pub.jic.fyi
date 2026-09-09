@@ -67,3 +67,5 @@ tags:
 - [Trinity 的信仰、灵性与共同体](./faith-and-spirituality.md) — 校牧、礼拜与安静空间、宗教社团及尊重参与。
 
 - [设计真正支持学习的工作空间](./designing-workspace.md) — 物理、感官、虚拟和社交环境，校园空间及个性化支持。
+
+- [研究生阶段的健康与福祉](./health-and-wellbeing.md) — 健康决定因素、饮食、活动、心理健康、社会支持及校园医疗。
