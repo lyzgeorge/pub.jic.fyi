@@ -85,3 +85,5 @@ tags:
 - [培养韧性：压力、应对与自我关怀](./developing-resilience.md) — 压力调节、容忍窗口、认知解离、生活平衡、坚定沟通与自我关怀。
 
 - [注册手续与 Academic Registry](./academic-registry-registration.md) — 完成注册、维护学籍、获取证明和 TCard，并处理行政问题。
+
+- [学术诚信：引用、相似度与文献管理](./academic-integrity.md) — 抄袭、改写、Turnitin、引用体系、AI 声明与文献工作流。

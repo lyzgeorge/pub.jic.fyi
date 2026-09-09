@@ -85,3 +85,5 @@ Notas de referencia reconstruidas a partir de grabaciones de orientación de Tri
 - [Desarrollar resiliencia: estrés, afrontamiento y autocompasión](./developing-resilience.md) — regulación del estrés, ventana de tolerancia, defusión, equilibrio, asertividad y autocompasión.
 
 - [Matrícula y Academic Registry](./academic-registry-registration.md) — proceso de matrícula, expediente, documentos, TCard y apoyo administrativo.
+
+- [Integridad académica: citas, similitud y gestión de referencias](./academic-integrity.md) — plagio, paráfrasis, Turnitin, estilos, IA y gestión bibliográfica.

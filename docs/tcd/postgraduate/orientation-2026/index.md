@@ -85,3 +85,5 @@ Reference notes reconstructed from Trinity College Dublin orientation recordings
 - [Developing Resilience: Stress, Coping, and Self-Compassion](./developing-resilience.md) — stress regulation, the window of tolerance, thought diffusion, balance, assertiveness, and self-compassion.
 
 - [Registration and the Academic Registry](./academic-registry-registration.md) — completing registration, student records, documents, TCard, and administrative support.
+
+- [Academic Integrity: Citation, Similarity, and Reference Management](./academic-integrity.md) — plagiarism, paraphrasing, Turnitin, citation systems, AI acknowledgement, and reference workflows.
