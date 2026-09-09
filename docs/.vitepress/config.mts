@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   lang: 'en-US',
-  title: 'Just In Case - A Public Knowledge Notebook',
+  title: 'Just In Case',
   description: 'A public knowledge notebook.',
   locales: {
     root: {
