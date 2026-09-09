@@ -73,3 +73,7 @@ Reference notes reconstructed from Trinity College Dublin orientation recordings
 ## Sustainability
 
 - [Sustainability at Trinity](./sustainability.md) — strategy, teaching and research, campus operations, circular resources, and student participation.
+
+## Equality, diversity, and inclusion
+
+- [Equality, Diversity, Equity, and Inclusion at Trinity](./equality-diversity-inclusion.md) — core concepts, protected grounds, intersectionality, policy, and support routes.

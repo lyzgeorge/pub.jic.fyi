@@ -73,3 +73,7 @@ tags:
 ## 可持续发展
 
 - [Trinity 可持续发展实践](./sustainability.md) — 战略、教学科研、校园运营、循环利用和学生参与。
+
+## 平等、多元与包容
+
+- [Trinity 的平等、多元、公平与包容](./equality-diversity-inclusion.md) — 核心概念、受保护事由、交叉性、政策和支持渠道。
