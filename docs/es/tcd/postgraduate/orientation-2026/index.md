@@ -55,3 +55,7 @@ Notas de referencia reconstruidas a partir de grabaciones de orientación de Tri
 ## Accesibilidad
 
 - [Adaptaciones razonables y apoyo a la discapacidad](./reasonable-accommodations.md) — registro, exámenes, consentimiento LENS, apoyo y necesidades cambiantes.
+
+## Práctica investigadora
+
+- [Práctica investigadora en Trinity: evidencia, ética, perfiles y financiación](./research-practice.md) — Biblioteca, políticas, ética REAMS, perfiles y financiación.

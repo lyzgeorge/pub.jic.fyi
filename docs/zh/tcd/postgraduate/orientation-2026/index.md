@@ -55,3 +55,7 @@ tags:
 ## 无障碍支持
 
 - [合理便利与残障支持](./reasonable-accommodations.md) — 注册、考试安排、LENS 同意、辅助支持及需求变化。
+
+## 研究实践
+
+- [Trinity 研究实践：证据、伦理、研究档案与经费](./research-practice.md) — 图书馆支持、政策、REAMS 伦理、研究档案和经费发展。

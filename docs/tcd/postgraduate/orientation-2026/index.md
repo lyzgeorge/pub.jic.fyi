@@ -55,3 +55,7 @@ Reference notes reconstructed from Trinity College Dublin orientation recordings
 ## Accessibility
 
 - [Reasonable Accommodations and Disability Support](./reasonable-accommodations.md) — registration, exam arrangements, LENS consent, assistive support, and changing needs.
+
+## Research practice
+
+- [Research Practice at Trinity: Evidence, Ethics, Profiles, and Funding](./research-practice.md) — Library support, policy, REAMS ethics, research profiles, and funding development.
