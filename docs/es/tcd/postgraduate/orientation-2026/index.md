@@ -59,3 +59,5 @@ Notas de referencia reconstruidas a partir de grabaciones de orientación de Tri
 ## Práctica investigadora
 
 - [Práctica investigadora en Trinity: evidencia, ética, perfiles y financiación](./research-practice.md) — Biblioteca, políticas, ética REAMS, perfiles y financiación.
+
+- [Presupuesto estudiantil y asistencia económica](./budgeting-and-assistance.md) — presupuesto sostenible, reducción de costes, pruebas SAF, becas y emergencias.

@@ -59,3 +59,5 @@ Reference notes reconstructed from Trinity College Dublin orientation recordings
 ## Research practice
 
 - [Research Practice at Trinity: Evidence, Ethics, Profiles, and Funding](./research-practice.md) — Library support, policy, REAMS ethics, research profiles, and funding development.
+
+- [Student Budgeting and Financial Assistance](./budgeting-and-assistance.md) — sustainable budgeting, cost reduction, SAF evidence, bursaries, and emergency support.
