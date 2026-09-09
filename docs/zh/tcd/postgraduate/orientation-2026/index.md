@@ -65,3 +65,5 @@ tags:
 ## 信仰与灵性
 
 - [Trinity 的信仰、灵性与共同体](./faith-and-spirituality.md) — 校牧、礼拜与安静空间、宗教社团及尊重参与。
+
+- [设计真正支持学习的工作空间](./designing-workspace.md) — 物理、感官、虚拟和社交环境，校园空间及个性化支持。
