@@ -69,3 +69,7 @@ Notas de referencia reconstruidas a partir de grabaciones de orientación de Tri
 - [Diseñar un espacio de trabajo que apoye el estudio](./designing-workspace.md) — entornos físicos, sensoriales, virtuales y sociales, campus y apoyo.
 
 - [Salud y bienestar durante el posgrado](./health-and-wellbeing.md) — determinantes, alimentación, movimiento, salud mental, apoyo social y atención.
+
+## Sostenibilidad
+
+- [Sostenibilidad en Trinity](./sustainability.md) — estrategia, docencia e investigación, operaciones, circularidad y participación estudiantil.

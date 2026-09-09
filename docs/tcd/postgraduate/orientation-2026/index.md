@@ -69,3 +69,7 @@ Reference notes reconstructed from Trinity College Dublin orientation recordings
 - [Designing a Workspace That Supports Study](./designing-workspace.md) — physical, sensory, virtual, and social environments; campus spaces; and tailored support.
 
 - [Health and Wellbeing During Postgraduate Study](./health-and-wellbeing.md) — determinants of health, food, movement, mental health, social support, and campus care.
+
+## Sustainability
+
+- [Sustainability at Trinity](./sustainability.md) — strategy, teaching and research, campus operations, circular resources, and student participation.
