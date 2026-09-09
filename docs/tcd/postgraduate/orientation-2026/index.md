@@ -61,3 +61,7 @@ Reference notes reconstructed from Trinity College Dublin orientation recordings
 - [Research Practice at Trinity: Evidence, Ethics, Profiles, and Funding](./research-practice.md) — Library support, policy, REAMS ethics, research profiles, and funding development.
 
 - [Student Budgeting and Financial Assistance](./budgeting-and-assistance.md) — sustainable budgeting, cost reduction, SAF evidence, bursaries, and emergency support.
+
+## Faith and spirituality
+
+- [Faith, Spirituality, and Community at Trinity](./faith-and-spirituality.md) — chaplaincy, worship and reflection spaces, spiritual societies, and respectful participation.

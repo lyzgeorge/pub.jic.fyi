@@ -61,3 +61,7 @@ tags:
 - [Trinity 研究实践：证据、伦理、研究档案与经费](./research-practice.md) — 图书馆支持、政策、REAMS 伦理、研究档案和经费发展。
 
 - [学生预算与经济援助](./budgeting-and-assistance.md) — 可持续预算、降低成本、SAF 证明、助学金及紧急支持。
+
+## 信仰与灵性
+
+- [Trinity 的信仰、灵性与共同体](./faith-and-spirituality.md) — 校牧、礼拜与安静空间、宗教社团及尊重参与。
