@@ -32,9 +32,11 @@ Reference notes reconstructed from Trinity College Dublin orientation recordings
 
 - [Your Postgraduate Journey at Trinity](./postgraduate-journey.md) — support structures, scholarly development, Triple I opportunities, responsible AI, and managing difficulties.
 
-## Community and belonging
+## Community, representation, and belonging
 
 - [Belonging and Participation in Postgraduate Life](./belonging-and-participation.md) — balanced development, community, civic purpose, student representation, and support.
+
+- [Trinity Students’ Union: Representation, Support, and Participation](./students-union.md) — advocacy, casework, practical services, representative structures, postgraduate roles, and events.
 
 ## Work and careers
 

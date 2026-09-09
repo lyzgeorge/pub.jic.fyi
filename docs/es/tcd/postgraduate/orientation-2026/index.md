@@ -32,9 +32,11 @@ Notas de referencia reconstruidas a partir de grabaciones de orientación de Tri
 
 - [Tu trayectoria de posgrado en Trinity](./postgraduate-journey.md) — apoyos, desarrollo académico, oportunidades Triple I, IA responsable y gestión de dificultades.
 
-## Comunidad y pertenencia
+## Comunidad, representación y pertenencia
 
 - [Pertenencia y participación en la vida de posgrado](./belonging-and-participation.md) — desarrollo equilibrado, comunidad, responsabilidad cívica, representación y apoyo.
+
+- [El Students’ Union de Trinity: representación, apoyo y participación](./students-union.md) — defensa, casos individuales, servicios, órganos representativos, puestos de posgrado y actividades.
 
 ## Trabajo y carrera
 
