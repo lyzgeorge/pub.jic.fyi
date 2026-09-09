@@ -79,3 +79,5 @@ tags:
 ## 平等、多元与包容
 
 - [Trinity 的平等、多元、公平与包容](./equality-diversity-inclusion.md) — 核心概念、受保护事由、交叉性、政策和支持渠道。
+
+- [在 Trinity 与都柏林的 LGBTQ+ 学习和生活](./lgbtq-trinity-dublin.md) — 权利、学术与学生社群、学籍变更、专业支持、夜间安全及城市资源。

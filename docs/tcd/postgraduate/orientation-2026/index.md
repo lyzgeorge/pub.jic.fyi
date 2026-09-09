@@ -79,3 +79,5 @@ Reference notes reconstructed from Trinity College Dublin orientation recordings
 ## Equality, diversity, and inclusion
 
 - [Equality, Diversity, Equity, and Inclusion at Trinity](./equality-diversity-inclusion.md) — core concepts, protected grounds, intersectionality, policy, and support routes.
+
+- [Being LGBTQ+ at Trinity and in Dublin](./lgbtq-trinity-dublin.md) — rights, academic and student communities, record changes, specialist support, safer nights out, and city resources.
