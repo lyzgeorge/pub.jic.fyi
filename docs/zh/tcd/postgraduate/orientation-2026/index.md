@@ -83,3 +83,5 @@ tags:
 - [在 Trinity 与都柏林的 LGBTQ+ 学习和生活](./lgbtq-trinity-dublin.md) — 权利、学术与学生社群、学籍变更、专业支持、夜间安全及城市资源。
 
 - [培养韧性：压力、应对与自我关怀](./developing-resilience.md) — 压力调节、容忍窗口、认知解离、生活平衡、坚定沟通与自我关怀。
+
+- [注册手续与 Academic Registry](./academic-registry-registration.md) — 完成注册、维护学籍、获取证明和 TCard，并处理行政问题。

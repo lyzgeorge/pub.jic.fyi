@@ -83,3 +83,5 @@ Notas de referencia reconstruidas a partir de grabaciones de orientación de Tri
 - [Ser LGBTQ+ en Trinity y en Dublín](./lgbtq-trinity-dublin.md) — derechos, comunidades, cambios en el expediente, apoyo especializado, ocio nocturno seguro y recursos urbanos.
 
 - [Desarrollar resiliencia: estrés, afrontamiento y autocompasión](./developing-resilience.md) — regulación del estrés, ventana de tolerancia, defusión, equilibrio, asertividad y autocompasión.
+
+- [Matrícula y Academic Registry](./academic-registry-registration.md) — proceso de matrícula, expediente, documentos, TCard y apoyo administrativo.

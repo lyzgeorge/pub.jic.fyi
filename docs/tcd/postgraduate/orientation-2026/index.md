@@ -83,3 +83,5 @@ Reference notes reconstructed from Trinity College Dublin orientation recordings
 - [Being LGBTQ+ at Trinity and in Dublin](./lgbtq-trinity-dublin.md) — rights, academic and student communities, record changes, specialist support, safer nights out, and city resources.
 
 - [Developing Resilience: Stress, Coping, and Self-Compassion](./developing-resilience.md) — stress regulation, the window of tolerance, thought diffusion, balance, assertiveness, and self-compassion.
+
+- [Registration and the Academic Registry](./academic-registry-registration.md) — completing registration, student records, documents, TCard, and administrative support.
