@@ -58,6 +58,7 @@ Recursos para cuidar la salud, responder al estrés, crear condiciones de estudi
 
 Vías para encontrar comunidad, participar en la representación estudiantil y acceder a apoyo relacionado con igualdad, identidad o fe.
 
+- [Vivir y tener citas en Dublín: guía práctica para estudiantes](./living-and-dating-in-dublin.md) — seguridad, sanidad, transporte, alquiler, vida social, consentimiento y citas más seguras.
 - [Pertenencia y participación en la vida de posgrado](./belonging-and-participation.md) — desarrollo equilibrado, comunidad, responsabilidad cívica, representación y apoyo.
 - [El Students’ Union de Trinity: representación, apoyo y participación](./students-union.md) — defensa, casos individuales, servicios, órganos representativos, puestos de posgrado y actividades.
 - [Igualdad, diversidad, equidad e inclusión en Trinity](./equality-diversity-inclusion.md) — conceptos, motivos protegidos, interseccionalidad, políticas y apoyo.

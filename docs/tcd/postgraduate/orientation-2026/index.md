@@ -58,6 +58,7 @@ Resources for maintaining health, responding to stress, creating supportive stud
 
 Ways to find community, exercise student representation, understand inclusion policy, and access identity- or faith-related support.
 
+- [Living and Dating in Dublin: A Practical Student Guide](./living-and-dating-in-dublin.md) — safety, healthcare, transport, renting, social life, consent, and safer dating.
 - [Belonging and Participation in Postgraduate Life](./belonging-and-participation.md) — balanced development, community, civic purpose, student representation, and support.
 - [Trinity Students’ Union: Representation, Support, and Participation](./students-union.md) — advocacy, casework, practical services, representative structures, postgraduate roles, and events.
 - [Equality, Diversity, Equity, and Inclusion at Trinity](./equality-diversity-inclusion.md) — core concepts, protected grounds, intersectionality, policy, and support routes.
