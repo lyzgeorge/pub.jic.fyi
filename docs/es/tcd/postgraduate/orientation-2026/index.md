@@ -2,7 +2,7 @@
 title: Orientación de posgrado de TCD 2026
 description: Notas de referencia reconstruidas a partir de las sesiones de orientación de posgrado de Trinity College Dublin.
 date: 2026-09-08
-updated: 2026-09-09
+updated: 2026-09-10
 tags:
   - trinity-college-dublin
   - postgraduate
@@ -37,6 +37,7 @@ Información práctica sobre tasas, gastos cotidianos, trabajo durante los estud
 
 - [Tasas de posgrado, patrocinio y finanzas estudiantiles](./fees-and-student-finance.md) — facturas, cuotas, patrocinio, pagos, reembolsos y ayuda estadounidense.
 - [Presupuesto estudiantil y asistencia económica](./budgeting-and-assistance.md) — presupuesto sostenible, reducción de costes, pruebas SAF, becas y emergencias.
+- [Presupuesto y Fondo de Asistencia para Estudiantes de Posgrado (jueves)](./budgeting-assistance-thursday.md) — presupuesto práctico, ahorro, solicitud PG-SAF, pruebas y otras ayudas.
 - [Trabajar mientras estudias en Trinity](./working-in-trinity.md) — permiso, derechos laborales, nómina ocasional y empleo universitario.
 - [Gestión de conflictos en una vivienda compartida](./managing-conflict-shared-housing.md) — normas, responsabilidades, conversaciones constructivas y estilos de resolución.
 

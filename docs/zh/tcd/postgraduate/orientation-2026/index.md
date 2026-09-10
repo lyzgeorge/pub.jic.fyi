@@ -2,7 +2,7 @@
 title: TCD 2026 研究生迎新
 description: 基于 Trinity College Dublin 研究生迎新活动整理的结构化参考笔记。
 date: 2026-09-08
-updated: 2026-09-09
+updated: 2026-09-10
 tags:
   - trinity-college-dublin
   - postgraduate
@@ -37,6 +37,7 @@ tags:
 
 - [研究生学费、资助方与学生财务](./fees-and-student-finance.md) — 账单、分期、资助、付款、退款及美国学生资助。
 - [学生预算与经济援助](./budgeting-and-assistance.md) — 可持续预算、降低成本、SAF 证明、助学金及紧急支持。
+- [学生预算与研究生援助基金（周四场）](./budgeting-assistance-thursday.md) — 实用预算、节省开支、PG-SAF 申请、证明材料及其他援助。
 - [在 Trinity 就读期间工作](./working-in-trinity.md) — 工作资格、雇佣权益、临时工资流程及校内求职渠道。
 - [合租冲突管理](./managing-conflict-shared-housing.md) — 合租规则、责任分工、建设性对话及冲突处理方式。
 
