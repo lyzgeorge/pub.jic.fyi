@@ -17,6 +17,7 @@ tags:
 
 先通过这些指南完成学生资料设置、了解研究生学习环境，并找到负责不同问题的服务部门。
 
+- [在 Trinity 读研究生：学生与顾问的实用建议](./postgraduate-student-qa-advisory-service.md) — 预算、可持续节奏、学术期望、健康与主动求助。
 - [研究生综合迎新指南](./postgraduate-general-orientation.md) — 注册手续、学业支持、身心健康、校园系统、研究生学习和图书馆服务。
 - [国际学生迎新](./international-student-orientation.md) — 移民登记、生活准备、安全、校园支持与文化适应。
 - [注册手续与 Academic Registry](./academic-registry-registration.md) — 注册任务、学籍资料、官方证明、TCard 和行政支持。

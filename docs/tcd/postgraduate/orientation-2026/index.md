@@ -17,6 +17,7 @@ Reference notes reconstructed from Trinity College Dublin orientation recordings
 
 Use these guides first to set up your student record, understand the postgraduate environment, and find the right service.
 
+- [Being a Postgraduate Student at Trinity: Practical Advice from Students and Advisers](./postgraduate-student-qa-advisory-service.md) — budgeting, sustainable pace, academic expectations, wellbeing, and asking for help.
 - [Postgraduate General Orientation](./postgraduate-general-orientation.md) — registration, academic support, wellbeing, campus systems, postgraduate study, and library services.
 - [International Student Orientation](./international-student-orientation.md) — immigration registration, practical setup, safety, campus support, and cultural adaptation.
 - [Registration and the Academic Registry](./academic-registry-registration.md) — registration tasks, student records, official documents, the TCard, and administrative support.

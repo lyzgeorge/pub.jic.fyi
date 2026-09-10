@@ -17,6 +17,7 @@ Estas notas se han reconstruido a partir de grabaciones de orientación de Trini
 
 Utiliza primero estas guías para configurar tu expediente, entender el entorno de posgrado y localizar el servicio adecuado.
 
+- [Ser estudiante de posgrado en Trinity: consejos prácticos de estudiantes y asesores](./postgraduate-student-qa-advisory-service.md) — presupuesto, ritmo sostenible, expectativas académicas, bienestar y cómo pedir ayuda.
 - [Orientación general de posgrado](./postgraduate-general-orientation.md) — matrícula, apoyo académico, bienestar, sistemas del campus, estudios de posgrado y Biblioteca.
 - [Orientación para estudiantes internacionales](./international-student-orientation.md) — registro migratorio, preparación práctica, seguridad, apoyo universitario y adaptación cultural.
 - [Matrícula y Academic Registry](./academic-registry-registration.md) — tareas de matrícula, expediente, documentos oficiales, TCard y apoyo administrativo.
