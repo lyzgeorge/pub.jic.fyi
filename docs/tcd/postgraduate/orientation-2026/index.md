@@ -38,6 +38,7 @@ Practical guidance for paying fees, managing living costs, working during study,
 - [Postgraduate Fees, Sponsorship, and Student Finance](./fees-and-student-finance.md) — invoices, instalments, sponsorship, payments, refunds, and US aid.
 - [Student Budgeting and Financial Assistance](./budgeting-and-assistance.md) — sustainable budgeting, cost reduction, SAF evidence, bursaries, and emergency support.
 - [Budgeting and the Postgraduate Student Assistance Fund (Thursday)](./budgeting-assistance-thursday.md) — practical budgeting, cost-saving choices, PG-SAF applications, evidence, and other support.
+- [Career Development at Trinity](./your-career.md) — careers-service routes, MyCareer, planning, mentoring, PhD modules, and the Career Skills Award.
 - [Working While Studying at Trinity](./working-in-trinity.md) — work eligibility, employment rights, casual payroll, and campus job sources.
 - [Managing Conflict in Shared Housing](./managing-conflict-shared-housing.md) — house rules, responsibilities, constructive conversations, and conflict-resolution styles.
 
