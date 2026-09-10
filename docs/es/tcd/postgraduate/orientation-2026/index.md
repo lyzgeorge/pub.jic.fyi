@@ -26,6 +26,7 @@ Utiliza primero estas guías para configurar tu expediente, entender el entorno 
 
 Orientación para producir trabajo académico, asumir responsabilidades de investigación y colaborar con supervisores y herramientas digitales.
 
+- [Competencias académicas para cursar con éxito un posgrado](./academic-skills-postgraduate-study.md) — planificación, aprendizaje activo, escritura académica, citas y pensamiento crítico.
 - [Construir una relación eficaz entre estudiante y supervisor](./student-supervisor-relationship.md) — funciones, reuniones, comentarios, comunicación asertiva y apoyo temprano.
 - [Innovación y emprendimiento en Trinity](./innovation-entrepreneurship.md) — espacios, alianzas multidisciplinares, transferencia, apoyo empresarial y acceso al Innovation Hub.
 - [Práctica investigadora en Trinity: evidencia, ética, perfiles y financiación](./research-practice.md) — Biblioteca, políticas, ética REAMS, perfiles y financiación.

@@ -26,6 +26,7 @@ Use these guides first to set up your student record, understand the postgraduat
 
 Guidance for producing academic work, managing research responsibilities, and working effectively with supervisors and digital tools.
 
+- [Academic Skills for Successful Postgraduate Study](./academic-skills-postgraduate-study.md) — planning, active learning, academic writing, referencing, and critical thinking.
 - [Building an Effective Student–Supervisor Relationship](./student-supervisor-relationship.md) — roles, meetings, feedback, assertive communication, and early support.
 - [Innovation and Entrepreneurship at Trinity](./innovation-entrepreneurship.md) — Innovation Hub workspace, multidisciplinary partnerships, knowledge transfer, venture support, and practical access.
 - [Research Practice at Trinity: Evidence, Ethics, Profiles, and Funding](./research-practice.md) — Library support, policy, REAMS ethics, research profiles, and funding development.

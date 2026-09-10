@@ -26,6 +26,7 @@ tags:
 
 涵盖学术成果、研究责任、导师协作，以及数字工具的规范使用。
 
+- [成功完成研究生学习所需的学术技能](./academic-skills-postgraduate-study.md) — 规划、主动学习、学术写作、引用与批判性思维。
 - [建立有效的学生—导师关系](./student-supervisor-relationship.md) — 角色、会议、反馈、坚定沟通及尽早求助。
 - [Trinity 创新与创业指南](./innovation-entrepreneurship.md) — Innovation Hub 共享空间、跨学科合作、知识转移、创业支持及使用方式。
 - [Trinity 研究实践：证据、伦理、研究档案与经费](./research-practice.md) — 图书馆支持、政策、REAMS 伦理、研究档案和经费发展。
