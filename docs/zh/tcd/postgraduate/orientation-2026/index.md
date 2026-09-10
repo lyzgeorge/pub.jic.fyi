@@ -27,6 +27,7 @@ tags:
 涵盖学术成果、研究责任、导师协作，以及数字工具的规范使用。
 
 - [建立有效的学生—导师关系](./student-supervisor-relationship.md) — 角色、会议、反馈、坚定沟通及尽早求助。
+- [Trinity 创新与创业指南](./innovation-entrepreneurship.md) — Innovation Hub 共享空间、跨学科合作、知识转移、创业支持及使用方式。
 - [Trinity 研究实践：证据、伦理、研究档案与经费](./research-practice.md) — 图书馆支持、政策、REAMS 伦理、研究档案和经费发展。
 - [学术诚信：引用、相似度与文献管理](./academic-integrity.md) — 抄袭、改写、Turnitin、引用体系、AI 声明与文献工作流。
 - [研究生学习中的生成式 AI](./genai-postgraduate-studies.md) — 许可、隐私、核查、负责任任务委托及学术能力培养。
