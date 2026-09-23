@@ -128,6 +128,8 @@ Si tus logros "simplemente se sintieron como trabajo", recupéralos con el méto
 
 ## 8.3 Influencia sin autoridad: puntos de presión, ACT y cuidado
 
+![Secuencia ACT para influir: aportar evidencia matizada, contextualizar con prueba social y proponer una acción pequeña](/assets/career/day-day-up-playbook/chapter-8/01-flowchart-act-influence.png)
+
 ### El concepto
 
 Influir sin autoridad es difícil porque "estás intercambiando nada por influencia": no controlas ni el salario ni la promoción; solo controlas dónde aplicas presión. La historia del coach: su equipo de bizops recibió del CPO la tarea de renovar un proceso lento de contratación técnica. El equipo de reclutamiento se sintió amenazado; una gerente de reclutamiento evitaba reuniones y se ponía a la defensiva; explicar marcos y datos ("ser más modernos, más basados en datos") hacía que se alejaran aún más. Cuando dejó de perseguirlos, se dio cuenta de que la presión estaba dispersa sobre las personas equivocadas. El punto de presión real era la VP de I+D, quien fijaba la visión para ingeniería y ciencia de datos. Abrió con una pregunta, no con una propuesta: "¿Qué significa para ti una buena contratación? No lo que significa para nuestro CPO, solo lo que a ti te importa." Su respuesta fue diversidad e inclusión, y ser vista como una líder moderna centrada en las personas, nada del lenguaje de embudo o tiempo-para-oferta. Así que lanzaron una campaña de referidos para candidatos subrepresentados y enviaron mensajes directos a perfiles de LinkedIn hasta tarde en la noche. Una vez que ella se sintió apoyada, los defendió en reuniones de liderazgo, y la resistencia del equipo de reclutamiento se desvaneció.
@@ -395,6 +397,8 @@ No tienes que jugar el juego del extrovertido. "No necesito ser ruidoso para lid
 ---
 
 ## 8.9 Conseguir la promoción: la escalera de KPI y la caja negra
+
+![Ruta de decisión para un ascenso: identificar a quien decide, reunir pruebas y hacerlas visibles](/assets/career/day-day-up-playbook/chapter-8/02-framework-promotion-decision-path.png)
 
 ### Parte A — tu KPI cambió
 

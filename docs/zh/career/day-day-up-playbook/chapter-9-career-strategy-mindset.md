@@ -47,6 +47,8 @@ tags: [career, mindset]
 
 ## 9.3 只承担你能够从中学到东西、且承受得起的风险
 
+![有边界的职业尝试与无边界风险的对比：限制损失、积累经验并保留选择](/assets/career/day-day-up-playbook/chapter-9/02-comparison-bounded-career-risks.png)
+
 教练把成长描述为 **拉伸 × 停留（Stretch × Stay）**：尝试超出当前舒适区的工作，并停留足够长的时间，让能力真正得到发展。把这当作一个比喻来理解，而不是一个精确的金融公式。
 
 在做出一次改变之前，先明确可能的下行风险、限制这种风险的因素、这次经历能带来的学习价值，以及在什么条件下应该及时止损。优先选择那些能保留退路的尝试：一个范围明确的项目、一次小规模的商业测试，或一笔有针对性的技能投资。
@@ -61,7 +63,7 @@ tags: [career, mindset]
 
 教练提出的"花园"模型，区分出了成长的三个来源：
 
-![职业花园模型：种子代表技能与兴趣，土壤代表上级、公司和团队，气候代表行业、地域与时机](../../public/assets/career/day-day-up-playbook/01-infographic-career-garden-model.png)
+![职业花园模型：种子代表技能与兴趣，土壤代表上级、公司和团队，气候代表行业、地域与时机](/assets/career/day-day-up-playbook/01-infographic-career-garden-model.png)
 
 | 层次 | 需要问的问题 | 可能的行动 |
 |---|---|---|

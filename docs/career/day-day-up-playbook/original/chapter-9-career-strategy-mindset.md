@@ -151,6 +151,8 @@ Two videos apply the same logic to money. First, the scarcity trap: a candidate 
 
 ## 9.4 Take the right risks: Stretch × Stay, smart vs. stupid
 
+![Bounded career experiment versus unbounded risk: limit downside, learn, and preserve options](/assets/career/day-day-up-playbook/chapter-9/02-comparison-bounded-career-risks.png)
+
 ### The concept
 
 "Work harder, earn more" is a lie: construction workers, nurses and taxi drivers grind longer hours than anyone and don't earn more. Earnings are "how far you can stretch multiplied by how long you can stay". The same idea underlies the performance-review truths: "Performance has nothing to do with how hard you work. Effort is just an input, and inputs don't matter", and "Hard work alone isn't the answer; if you're irreplaceable, you're unpromotable".

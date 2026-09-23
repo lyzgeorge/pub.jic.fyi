@@ -79,6 +79,8 @@ tags: [career, job-search, workplace]
 
 ## 4.2 面试官类型与轮次逻辑
 
+![面试轮次：招聘专员看匹配度与安排，用人经理关注团队问题，高层领导考察判断力与取舍。](/assets/career/day-day-up-playbook/chapter-4/01-framework-interview-rounds.png)
+
 ### 三种原型
 
 | 类型 | 通常是谁 | 行为特点 | 你的应对 |
@@ -378,6 +380,8 @@ VEA 清单（价值观 → 经历 → 成就，与公司价值观一一对应）
 ---
 
 ## 4.8 面试之后：感谢信、反馈、招聘专员与沉默期
+
+![面试后跟进信的“感谢→需求→贡献”结构。](/assets/career/day-day-up-playbook/chapter-4/02-flowchart-follow-up.png)
 
 ### 概念
 

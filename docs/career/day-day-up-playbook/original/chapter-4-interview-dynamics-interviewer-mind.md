@@ -75,6 +75,8 @@ Level 1: not listening, reciting ("when you recite, perfect becomes the enemy of
 
 ## 4.2 Interviewer types and round logic
 
+![Interview rounds: recruiter checks fit and logistics, hiring manager explores team problems, senior leader tests judgment and trade-offs.](/assets/career/day-day-up-playbook/chapter-4/01-framework-interview-rounds.png)
+
 ### Three archetypes
 
 | Type | Who | Behaviour | Your response |
@@ -374,6 +376,8 @@ Whatever the signal: send a thank-you email, reflect and write down what to impr
 ---
 
 ## 4.8 After the interview: thank-you, feedback, recruiters and silence
+
+![The Gratitude, Gap, Gift sequence for a useful interview follow-up.](/assets/career/day-day-up-playbook/chapter-4/02-flowchart-follow-up.png)
 
 ### The concept
 

@@ -31,6 +31,8 @@ tags: [career, workplace, promotion]
 
 ## 8.2 理解对方真正想保护的是什么
 
+![ACT 影响力步骤：说明有分寸的证据、提供他人实践的背景，并促成一个小行动](/assets/career/day-day-up-playbook/chapter-8/01-flowchart-act-influence.png)
+
 在尝试说服别人之前，先弄清楚谁能真正影响这个决策，以及他们在意的是什么。
 
 1. 问对方如何定义"成功"，以及他们担心的风险是什么。
@@ -105,6 +107,8 @@ tags: [career, workplace, promotion]
 > 这个结果由你负责。成功的标准是[具体标准]，截止日期是[日期]。我们先就限制条件和检查节点达成一致，之后具体的实现方式由你来选择。
 
 ## 8.7 把晋升变成一次具体的讨论
+
+![晋升决策路径：找到决策者、明确证据，并让证据被看见](/assets/career/day-day-up-playbook/chapter-8/02-framework-promotion-decision-path.png)
 
 问清楚三个问题：
 

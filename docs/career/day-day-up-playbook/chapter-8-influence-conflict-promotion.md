@@ -28,6 +28,8 @@ Keep the supporting evidence in the record described in Chapter 7; do not mainta
 
 ## 8.2 Understand what the other person is protecting
 
+![ACT influence sequence: assert nuanced evidence, contextualize with social proof, and trigger a small action](/assets/career/day-day-up-playbook/chapter-8/01-flowchart-act-influence.png)
+
 Before trying to persuade, identify who can influence the decision and what matters to them.
 
 1. Ask how they define success and what risk concerns them.
@@ -102,6 +104,8 @@ For delegation, specify the outcome and constraints rather than prescribing ever
 > You own [outcome]. Success means [criteria], by [date]. Let’s agree on constraints and checkpoints, then you can choose the approach.
 
 ## 8.7 Make promotion a concrete discussion
+
+![Promotion decision path: find the decision maker, establish the evidence, and make it visible](/assets/career/day-day-up-playbook/chapter-8/02-framework-promotion-decision-path.png)
 
 Ask three questions:
 

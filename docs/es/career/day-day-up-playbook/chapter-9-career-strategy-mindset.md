@@ -47,6 +47,8 @@ Vuelve a contar el evento con justicia, incluyendo tu propia contribución y las
 
 ## 9.3 Asume riesgos de los que puedas permitirte aprender
 
+![Experimento profesional acotado frente a riesgo sin límites: limitar pérdidas, aprender y conservar opciones](/assets/career/day-day-up-playbook/chapter-9/02-comparison-bounded-career-risks.png)
+
 El coach describe el crecimiento como **Stretch × Stay** (estirarse y permanecer): intenta un trabajo más allá de tu zona de confort actual y permanece el tiempo suficiente para desarrollar la capacidad. Tómalo como una metáfora, no como una fórmula financiera exacta.
 
 Antes de dar un paso, identifica el posible lado negativo, qué lo limita, el valor de aprendizaje y las condiciones para detenerte. Favorece experimentos que preserven opciones: un proyecto acotado, una prueba de negocio pequeña o una inversión enfocada en una habilidad.

@@ -78,6 +78,8 @@ The reverse mistake is trying to sound polished. "Polish serves the speaker, not
 
 ## 6.2 Sound like a leader, not an intern — conclusion-first structures
 
+![Scissor method: replace a tangled status history with the main point, cause, and decision request.](/assets/career/day-day-up-playbook/chapter-6/01-comparison-scissor-update.png)
+
 ### The concept
 
 The coach's own turning point was a manager's note after a VP presentation: "John, you're smart. But we need to work on your executive communication." On his team, unstructured talk made the manager pull out his phone and pretend to scroll. The principle: "Leaders don't care about your vocabulary. They care whether your ideas are clear, structured, and help them to make decisions faster... Stop trying to impress. Start helping them decide".
@@ -157,6 +159,8 @@ A presentation is for the audience, not the presenter (the coach's P&G manager c
 ---
 
 ## 6.3 Calibrating claims — commit to your recommendation, don't claim more than you know
+
+![A precise recommendation links an evidence limit, a directional signal, and a next step.](/assets/career/day-day-up-playbook/chapter-6/02-framework-calibrated-recommendation.png)
 
 ### The concept
 

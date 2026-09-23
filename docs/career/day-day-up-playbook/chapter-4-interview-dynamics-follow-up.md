@@ -12,6 +12,8 @@ Use the conversation to learn what matters, show how you work, and establish cle
 
 ## 4.1 Adapt to the interviewer and the round
 
+![Interview rounds: recruiter checks fit and logistics, hiring manager explores team problems, senior leader tests judgment and trade-offs.](/assets/career/day-day-up-playbook/chapter-4/01-framework-interview-rounds.png)
+
 | Round | Likely focus | Your emphasis |
 |---|---|---|
 | Recruiter | Basic fit, motivation, compensation alignment, logistics. | A concise fit summary and clear practical answers. |
@@ -65,6 +67,8 @@ Briefly connect their priorities to your strengths, thank them for something spe
 Do not overinterpret closing phrases. Questions about start dates may be encouraging; vague timelines may be routine. Neither is an offer or a rejection.
 
 ## 4.5 Follow up with something specific
+
+![The Gratitude, Gap, Gift sequence for a useful interview follow-up.](/assets/career/day-day-up-playbook/chapter-4/02-flowchart-follow-up.png)
 
 The coach’s thank-you structure is **Gratitude → Gap → Gift**: appreciation, the need you heard, and a useful connection to your experience.
 

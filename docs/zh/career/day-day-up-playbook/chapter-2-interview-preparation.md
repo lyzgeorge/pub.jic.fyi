@@ -13,6 +13,9 @@ tags: [career, job-search]
 
 准备工作应该产出一套关于自己是否契合的清晰论证，以及一小批可以灵活调用的证据，而不是为每一个可能出现的问题都准备一套台词。
 
+
+
+![面试评估背后的三个问题](/assets/career/day-day-up-playbook/chapter-2/01-framework-three-interview-questions.png)
 ## 2.1 为真正被考察的内容做准备
 
 素材中反复出现的，其实是面试官在以不同方式问的三个问题：
@@ -57,6 +60,9 @@ AI 可以帮助翻译行业黑话、建议可能的优先事项。但要把它�
 
 把了解到的信息记录下来，并据此调整你的准备。只有当答案真的会影响你的选择时，向别人打听信息才有意义。
 
+
+
+![将故事与能力对应的故事库矩阵](/assets/career/day-day-up-playbook/chapter-2/02-framework-story-bank-matrix.png)
 ## 2.4 建立一个精简的故事库
 
 先准备三个有力的成就案例。只有在某项重要能力仍然没有被覆盖到时，才再增加一个。

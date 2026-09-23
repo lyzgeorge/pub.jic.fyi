@@ -15,6 +15,8 @@ tags: [career, workplace, communication]
 
 ## 6.1 先确定要传达的信息，再打磨措辞
 
+![“剪刀法”：把冗长的进度背景整理成要点、原因和所需决策。](/assets/career/day-day-up-playbook/chapter-6/01-comparison-scissor-update.png)
+
 在发送一条重要信息之前，先回答这三个问题：
 
 1. 对方需要知道什么？
@@ -54,6 +56,8 @@ tags: [career, workplace, communication]
 制作幻灯片时，把结论直接放在标题里。"因为客户结构变化，利润率正在改善"比"第四季度分析"能传达更多信息。每一页幻灯片都应该只支撑一个观点。
 
 ## 6.3 对自己的建议保持自信，对证据保持精确
+
+![精准的建议把证据限制、趋势信号与下一步行动连接起来。](/assets/career/day-day-up-playbook/chapter-6/02-framework-calibrated-recommendation.png)
 
 把观察、解读和建议区分开来。在给出明确方向的同时，也要清楚地展示重要的局限性。
 

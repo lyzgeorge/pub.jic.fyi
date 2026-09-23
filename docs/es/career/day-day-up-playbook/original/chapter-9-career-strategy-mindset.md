@@ -155,6 +155,8 @@ Dos videos aplican la misma lógica al dinero. Primero, la trampa de la escasez:
 
 ## 9.4 Toma los riesgos correctos: Estiramiento × Permanencia, riesgos inteligentes vs. estúpidos
 
+![Experimento profesional acotado frente a riesgo sin límites: limitar pérdidas, aprender y conservar opciones](/assets/career/day-day-up-playbook/chapter-9/02-comparison-bounded-career-risks.png)
+
 ### El concepto
 
 "Trabaja más duro, gana más" es una mentira: los trabajadores de construcción, las enfermeras y los taxistas trabajan más horas que nadie y no ganan más. Las ganancias son "hasta dónde puedes estirarte multiplicado por cuánto tiempo puedes permanecer". La misma idea subyace en las verdades de la evaluación de desempeño: "el desempeño no tiene nada que ver con cuánto trabajas. El esfuerzo es solo un insumo, y los insumos no importan", y "el trabajo duro solo no es la respuesta; si eres irremplazable, eres no promovible".

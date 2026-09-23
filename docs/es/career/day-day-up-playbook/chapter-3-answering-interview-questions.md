@@ -13,6 +13,9 @@ tags: [career, job-search]
 
 Elige la forma de respuesta adecuada, haz que tu contribución sea clara y conecta tu evidencia con el puesto. Usa los guiones como punto de partida, no como líneas para recitar.
 
+
+
+![Relaciona cada pregunta con la forma de respuesta adecuada](/assets/career/day-day-up-playbook/chapter-3/01-flowchart-question-triage.png)
 ## 3.1 Ajusta la forma de tu respuesta a la pregunta
 
 | Pregunta | Forma de respuesta |
@@ -28,6 +31,9 @@ Si no está claro qué enfoque busca la otra persona, pregunta directamente:
 
 Después responde a ese enfoque concreto. Evita soltar una historia completa ya preparada solo porque una palabra clave te resultó familiar.
 
+
+
+![Marco HEALER para una historia de entrevista convincente](/assets/career/day-day-up-playbook/chapter-3/02-flowchart-healer-story.png)
 ## 3.2 Da a tu historia riesgo, decisiones y resultado
 
 STAR sigue siendo una lista útil para comprobar que la respuesta está completa. El marco **HEALER** del coach añade énfasis en por qué el trabajo fue difícil y por qué el resultado importa:

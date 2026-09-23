@@ -107,6 +107,8 @@ tags: [career, job-search, workplace]
 
 ## 5.3 第二、三回合：口头offer、书面offer与条件式收尾
 
+![Offer 的三个阶段：确认薪资范围、就口头 offer 谈判、核对书面条款，再接受。](/assets/career/day-day-up-playbook/chapter-5/01-flowchart-offer-stages.png)
+
 **概念。** 一旦你拿到了offer，游戏规则就变了："要求上限"，然后以"如果……我就签"来收尾。贯穿这三个回合的唯一原则是：在你真正准备把它当作最终定论之前，绝不要说"我接受"。
 
 ### 第二回合——口头offer电话
@@ -226,6 +228,8 @@ HR会打电话给你。"他们的语气听起来热情、兴奋，为你感到�
 ---
 
 ## 5.6 在多个offer之间做选择：什么拿不走，以及你未来将为谁工作
+
+![从工作与技能、保底薪酬、经理与自主权、可持续性比较 offer，并明确收益、取舍和待解问题。](/assets/career/day-day-up-playbook/chapter-5/02-framework-offer-decision.png)
 
 **概念。**"聪明的候选人不会去追逐offer，他们是在选择offer。"这一节提供两个视角：一份offer中哪些属性是"持久的"，以及你未来的经理到底是什么样的人。
 

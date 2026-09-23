@@ -15,6 +15,8 @@ tags: [career, workplace, manager]
 
 ## 7.1 把一对一沟通变成一次对齐会议
 
+![一对一沟通的四项对齐：期望、优先事项、资源和发展，最终形成共同的下一步行动](/assets/career/day-day-up-playbook/chapter-7/01-framework-four-alignments.png)
+
 如果需要，把常规的进展更新单独通过其他方式发送。把面对面沟通的时间，用在决策、优先事项、支持和职业发展上。
 
 | 话题 | 可以问或带来的内容 |
@@ -33,6 +35,8 @@ tags: [career, workplace, manager]
 在结束时，双方对下一步的行动、责任人和预期结果要有共同的理解。
 
 ## 7.2 提供可预测的进展更新，并尽早升级问题
+
+![便于决策的进展更新：状态、风险、选项、建议和下次更新时间](/assets/career/day-day-up-playbook/chapter-7/02-flowchart-decision-ready-update.png)
 
 不应该让上级在截止日期已经错过之后才发现问题。提前约定好他们需要的信息详细程度和更新频率。
 

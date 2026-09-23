@@ -12,6 +12,8 @@ Use the relationship to establish shared expectations, make progress predictable
 
 ## 7.1 Make the 1:1 an alignment meeting
 
+![Four-part 1:1 alignment map: expectations, priorities, resources, and development lead to a shared next action](/assets/career/day-day-up-playbook/chapter-7/01-framework-four-alignments.png)
+
 Send routine status separately when useful. Spend conversation time on decisions, priorities, support, and development.
 
 | Topic | Ask or bring |
@@ -30,6 +32,8 @@ Surface disagreement while there is still time to act. Private disagreement comb
 End with a shared understanding of the next action, owner, and expected outcome.
 
 ## 7.2 Give predictable updates and escalate early
+
+![Decision-ready update: status, risk, options, recommendation, and next update](/assets/career/day-day-up-playbook/chapter-7/02-flowchart-decision-ready-update.png)
 
 Your manager should not have to discover a missed deadline after it has passed. Agree on the level of detail and update cadence they need.
 

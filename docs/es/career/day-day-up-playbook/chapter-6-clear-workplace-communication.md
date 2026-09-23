@@ -15,6 +15,8 @@ Optimiza para que te entiendan y obtener una respuesta útil. Un lenguaje simple
 
 ## 6.1 Decide el mensaje antes de pulir las palabras
 
+![Método de las tijeras: sustituir un historial confuso por el punto principal, la causa y la decisión solicitada.](/assets/career/day-day-up-playbook/chapter-6/01-comparison-scissor-update.png)
+
 Antes de un mensaje importante, responde:
 
 1. ¿Qué necesita saber esta persona?
@@ -54,6 +56,8 @@ Prepárate para explicar las disyuntivas y la incertidumbre. Una recomendación 
 En las diapositivas, pon la conclusión en el título. "El margen está mejorando por el cambio en la mezcla de clientes" le dice más a la audiencia que "Análisis del cuarto trimestre". Cada diapositiva debe respaldar una sola idea.
 
 ## 6.3 Sé firme con tu recomendación y preciso con la evidencia
+
+![Una recomendación precisa conecta el límite de la evidencia, una señal de tendencia y el siguiente paso.](/assets/career/day-day-up-playbook/chapter-6/02-framework-calibrated-recommendation.png)
 
 Distingue entre observación, interpretación y propuesta. Comprométete con una dirección mientras haces visibles los límites importantes.
 

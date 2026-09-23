@@ -21,6 +21,9 @@ tags: [career, job-search, workplace]
 
 ---
 
+
+
+![Impact bullet: turn a duty into measurable business impact](/assets/career/day-day-up-playbook/chapter-1/01-comparison-impact-bullet.png)
 ## 1.1 What a resume is for: a sales document read in six seconds
 
 **The concept.** The coach returns to one sentence in almost every resume video: the resume "is not a legal document. It is a sales document". It is not a history textbook, not a passport, and nobody audits it. Its only job is to make one person decide "we need to talk".
@@ -194,6 +197,9 @@ Some red flags stay on the page — short tenures, gaps, a departure from a desi
 
 ---
 
+
+
+![Four job-search channels that lead to conversations](/assets/career/day-day-up-playbook/chapter-1/02-framework-search-channels.png)
 ## 1.5 Reading the job description and deciding to apply
 
 **The concept.** A JD is "a wish list, not a checklist". Hiring managers write unreasonable ones by copying what every similar posting asks for, so everyone ends up "chasing the same single unicorn." The coach's own JD for a strategy & ops role asked for investment-banking or consulting background, 5–7 years, people management and tech exposure; he hired someone with five years at a big bank and none of the rest — "the best person that I could get".

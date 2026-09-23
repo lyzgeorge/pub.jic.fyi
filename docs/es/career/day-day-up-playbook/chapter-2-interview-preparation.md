@@ -13,6 +13,9 @@ tags: [career, job-search]
 
 La preparación debe producir un caso claro sobre tu encaje con el puesto y un pequeño banco de evidencia que puedas adaptar. No debe producir un guion para cada pregunta posible.
 
+
+
+![Tres preguntas detrás de la evaluación de una entrevista](/assets/career/day-day-up-playbook/chapter-2/01-framework-three-interview-questions.png)
 ## 2.1 Prepárate para la evaluación real
 
 En todo el material original, quienes entrevistan preguntan variaciones de tres preguntas:
@@ -57,6 +60,9 @@ Cuando sea apropiado, pregúntale a alguien que haya desempeñado antes ese pues
 
 Registra lo que aprendas y ajusta tu preparación en consecuencia. Pedir información solo tiene sentido si la respuesta afecta tus decisiones.
 
+
+
+![Matriz del banco de historias y competencias](/assets/career/day-day-up-playbook/chapter-2/02-framework-story-bank-matrix.png)
 ## 2.4 Construye un pequeño banco de historias
 
 Empieza con tres logros sólidos. Añade otro solo cuando quede sin cubrir una competencia importante.

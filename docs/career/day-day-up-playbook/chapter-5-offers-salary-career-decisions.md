@@ -24,6 +24,8 @@ If their range works, say so. If it does not, clarify the gap rather than contin
 
 ## 5.2 Negotiate before saying yes
 
+![Offer stages: check range alignment, negotiate a verbal offer, verify the written terms, then accept.](/assets/career/day-day-up-playbook/chapter-5/01-flowchart-offer-stages.png)
+
 Express enthusiasm without treating an initial figure as final. Separate three stages:
 
 1. **Initial discussion:** Establish whether the range is broadly workable.
@@ -57,6 +59,8 @@ Do not assume a standard 10% cushion or zero risk. Ask respectfully, evaluate th
 Separate guaranteed compensation from potential upside. Ask about mismatches rather than assuming the recruiter’s explanation will appear in the final contract.
 
 ## 5.4 Compare offers against your priorities
+
+![Compare offers by role and skills, guaranteed pay, manager and autonomy, and sustainability; name the benefit, trade-off and open question.](/assets/career/day-day-up-playbook/chapter-5/02-framework-offer-decision.png)
 
 The coach often prioritizes title between comparable companies because it can affect future opportunities. Treat that as his preference, not a rule for every career.
 

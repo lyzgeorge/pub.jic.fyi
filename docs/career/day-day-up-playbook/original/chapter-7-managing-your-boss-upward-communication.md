@@ -24,6 +24,8 @@ tags: [career, job-search, workplace]
 
 ## 7.1 The alignment model: what a 1:1 is actually for
 
+![Four-part 1:1 alignment map: expectations, priorities, resources, and development lead to a shared next action](/assets/career/day-day-up-playbook/chapter-7/01-framework-four-alignments.png)
+
 ### The concept
 
 Most people use their 1:1 to report: "I finished X, I'm working on Y, next week Z." The coach, who led a team of twenty, calls status updates "the lowest value of our time" and "the feeling of this could have been an email, personified." A status-only 1:1 signals that you are "obsessively focused on tasks, not outcomes." The result is that the manager quietly doubts whether you understand what matters, you leave feeling unappreciated, and "trust is going to erode quietly."
@@ -89,6 +91,8 @@ Do you think solution B aligns with our priorities, or is there another perspect
 ---
 
 ## 7.2 Reducing your manager's anxiety: updates, escalation and blame
+
+![Decision-ready update: status, risk, options, recommendation, and next update](/assets/career/day-day-up-playbook/chapter-7/02-flowchart-decision-ready-update.png)
 
 ### The concept
 

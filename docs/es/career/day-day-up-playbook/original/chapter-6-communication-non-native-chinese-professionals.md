@@ -82,6 +82,8 @@ El error inverso es intentar sonar pulido. "Pulir el lenguaje sirve al que habla
 
 ## 6.2 Suena como un líder, no como un pasante — estructuras que empiezan por la conclusión
 
+![Método de las tijeras: sustituir un historial confuso por el punto principal, la causa y la decisión solicitada.](/assets/career/day-day-up-playbook/chapter-6/01-comparison-scissor-update.png)
+
 ### El concepto
 
 El punto de inflexión del propio coach fue la nota de un manager tras una presentación ante una vicepresidenta: "John, eres inteligente. Pero tenemos que trabajar en tu comunicación ejecutiva." En su equipo, hablar sin estructura hacía que el manager sacara el teléfono y fingiera desplazarse por la pantalla. El principio: "A los líderes no les importa tu vocabulario. Les importa si tus ideas son claras, están estructuradas, y les ayudan a decidir más rápido... Deja de intentar impresionar. Empieza a ayudarles a decidir".
@@ -161,6 +163,8 @@ Una presentación es para la audiencia, no para el presentador (el manager del c
 ---
 
 ## 6.3 Calibrando afirmaciones — comprométete con tu recomendación, no afirmes más de lo que sabes
+
+![Una recomendación precisa conecta el límite de la evidencia, una señal de tendencia y el siguiente paso.](/assets/career/day-day-up-playbook/chapter-6/02-framework-calibrated-recommendation.png)
 
 ### El concepto
 

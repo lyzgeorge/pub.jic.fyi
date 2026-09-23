@@ -28,6 +28,8 @@ tags: [career, job-search, workplace]
 
 ## 7.1 对齐模型：一对一到底是为了什么
 
+![一对一沟通的四项对齐：期望、优先事项、资源和发展，最终形成共同的下一步行动](/assets/career/day-day-up-playbook/chapter-7/01-framework-four-alignments.png)
+
 ### 概念
 
 多数人把一对一开成汇报会："我做完了 X，正在做 Y，下周做 Z。"教练曾带过二十人的团队，他把这种进度汇报称为"我们时间里价值最低的部分"，是"'这本来一封邮件就能说清楚'这句话的真人版"。只谈进度的一对一，传递的信号是你"执着于任务本身，而不是结果"。结果就是：上级会悄悄怀疑你是否真的懂得什么才重要，你会觉得自己的付出没被看见，而"信任会在不知不觉中流失"。
@@ -91,6 +93,8 @@ tags: [career, job-search, workplace]
 ---
 
 ## 7.2 降低上级的焦虑：进展更新、升级问题与责任归属
+
+![便于决策的进展更新：状态、风险、选项、建议和下次更新时间](/assets/career/day-day-up-playbook/chapter-7/02-flowchart-decision-ready-update.png)
 
 ### 概念
 

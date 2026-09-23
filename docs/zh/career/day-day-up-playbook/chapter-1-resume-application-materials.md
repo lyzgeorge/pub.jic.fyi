@@ -13,6 +13,9 @@ tags: [career, job-search]
 
 让你的相关价值容易被看到，然后通过多条渠道触达招聘方。
 
+
+
+![影响力要点：把职责转化为可衡量的业务成果](/assets/career/day-day-up-playbook/chapter-1/01-comparison-impact-bullet.png)
 ## 1.1 写出体现影响力的条目
 
 一条"职责描述"说明这份工作涉及什么。一条"影响力条目"则说明因为你的工作发生了什么改变。
@@ -70,6 +73,9 @@ tags: [career, job-search]
 
 **示例：** 一名从银行业转向科技行业的会计，可以保留会计这个职能角色，同时学习新的行业知识。同时更换行业和职能，则需要更多可迁移技能的证据。
 
+
+
+![通往沟通机会的四条求职渠道](/assets/career/day-day-up-playbook/chapter-1/02-framework-search-channels.png)
 ## 1.5 使用四条求职渠道
 
 | 渠道 | 行动 | 有效之处 |

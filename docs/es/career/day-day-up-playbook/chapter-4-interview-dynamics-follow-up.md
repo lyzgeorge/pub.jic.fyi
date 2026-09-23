@@ -15,6 +15,8 @@ Usa la conversación para aprender qué es lo que realmente importa, mostrar có
 
 ## 4.1 Adáptate a quien entrevista y a la ronda
 
+![Rondas de entrevista: selección evalúa encaje y logística; gerencia, problemas del equipo; dirección, criterio y decisiones.](/assets/career/day-day-up-playbook/chapter-4/01-framework-interview-rounds.png)
+
 | Ronda | Enfoque probable | Tu énfasis |
 |---|---|---|
 | Reclutador | Encaje básico, motivación, alineación salarial, logística. | Un resumen de encaje conciso y respuestas prácticas claras. |
@@ -68,6 +70,8 @@ Conecta brevemente sus prioridades con tus fortalezas, agradece algo específico
 No sobreinterpretes las frases de cierre. Las preguntas sobre fechas de inicio pueden ser alentadoras; los plazos vagos pueden ser simplemente rutina. Ninguna de las dos cosas es una oferta ni un rechazo.
 
 ## 4.5 Da seguimiento con algo específico
+
+![Secuencia Gratitud, Necesidad y Aporte para un seguimiento útil tras la entrevista.](/assets/career/day-day-up-playbook/chapter-4/02-flowchart-follow-up.png)
 
 La estructura de agradecimiento del coach es **Gratitud → Necesidad → Aporte**: reconocimiento, la necesidad que escuchaste y una conexión útil con tu experiencia.
 

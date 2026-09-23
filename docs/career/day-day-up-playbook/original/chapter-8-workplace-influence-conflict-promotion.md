@@ -123,6 +123,8 @@ If your wins "just felt like work," recover them with the three-step "Career CPR
 
 ## 8.3 Influence without authority: pressure points, ACT, and care
 
+![ACT influence sequence: assert nuanced evidence, contextualize with social proof, and trigger a small action](/assets/career/day-day-up-playbook/chapter-8/01-flowchart-act-influence.png)
+
 ### The concept
 
 Influence without authority is hard because "you're trading nothing for influence" — you control neither salary nor promotion; you control only where you apply pressure. The coach's story: his bizops team was tasked by the CPO to revamp a slow technical-hiring process. The recruiting team felt threatened; a recruiting manager dodged meetings and got defensive; explaining frameworks and data ("be more modern, more data-informed") made them lean further away. When he stopped chasing, he realized the pressure was spread across the wrong people. The real pressure point was the VP of R&D, who set the vision for engineering and data science. He opened with a question, not a pitch: "What does good hiring mean to you? Not what it means to our CPO, just what you care about?" Her answer was diversity and inclusion and being seen as a modern, people-first leader — none of the funnel or time-to-offer language. So they ran a referral campaign for underrepresented candidates and DM'd LinkedIn profiles late at night. Once she felt supported, she championed them into leadership meetings and the recruiting team's resistance faded.
@@ -388,6 +390,8 @@ You don't have to play the extrovert's game. "I don't need to be loud to lead. I
 ---
 
 ## 8.9 Getting promoted: the KPI ladder and the black box
+
+![Promotion decision path: find the decision maker, establish the evidence, and make it visible](/assets/career/day-day-up-playbook/chapter-8/02-framework-promotion-decision-path.png)
 
 ### Part A — your KPI changed
 

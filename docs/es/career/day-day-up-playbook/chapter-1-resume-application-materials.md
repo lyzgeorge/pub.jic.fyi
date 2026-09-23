@@ -13,6 +13,9 @@ tags: [career, job-search]
 
 Haz que tu valor relevante sea fácil de encontrar y luego usa varias vías para llegar a quienes contratan.
 
+
+
+![Viñeta de impacto: convierte una tarea en resultado medible](/assets/career/day-day-up-playbook/chapter-1/01-comparison-impact-bullet.png)
 ## 1.1 Escribe viñetas de impacto
 
 Una responsabilidad describe en qué consistía el trabajo. Una viñeta de impacto explica qué cambió gracias a tu trabajo.
@@ -70,6 +73,9 @@ La "regla del tercio de coincidencia" del coach busca animarte a no autodescarta
 
 **Ejemplo:** Un contador que pasa de la banca a la tecnología puede conservar el rol de contabilidad mientras aprende sobre la nueva industria. Cambiar de industria y de función al mismo tiempo requiere más evidencia de habilidades transferibles.
 
+
+
+![Cuatro canales de búsqueda que llevan a conversaciones](/assets/career/day-day-up-playbook/chapter-1/02-framework-search-channels.png)
 ## 1.5 Usa cuatro canales de búsqueda
 
 | Canal | Acción | Qué lo hace útil |

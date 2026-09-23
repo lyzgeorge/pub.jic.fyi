@@ -28,6 +28,8 @@ tags: [career, job-search, workplace]
 
 ## 7.1 El modelo de alineación: para qué sirve realmente una reunión uno a uno
 
+![Mapa de alineación del 1:1: expectativas, prioridades, recursos y desarrollo llevan a un próximo paso compartido](/assets/career/day-day-up-playbook/chapter-7/01-framework-four-alignments.png)
+
 ### El concepto
 
 La mayoría de las personas usa su reunión uno a uno para reportar: "Terminé X, estoy trabajando en Y, la próxima semana Z." El coach, que lideró un equipo de veinte personas, llama a las actualizaciones de estatus "el uso de menor valor de nuestro tiempo" y "la personificación de 'esto pudo haber sido un correo.'" Una reunión uno a uno centrada solo en el estatus indica que estás "obsesivamente enfocado en tareas, no en resultados." El resultado es que el jefe empieza a dudar en silencio si realmente entiendes lo que importa, tú te vas sintiéndote poco valorado, y "la confianza se erosiona silenciosamente."
@@ -91,6 +93,8 @@ Sin embargo, me encantaría tu opinión sobre este enfoque para asegurarme de es
 ---
 
 ## 7.2 Reducir la ansiedad de tu jefe: actualizaciones, escalamiento y responsabilidad
+
+![Actualización para decidir: estado, riesgo, opciones, recomendación y próxima actualización](/assets/career/day-day-up-playbook/chapter-7/02-flowchart-decision-ready-update.png)
 
 ### El concepto
 

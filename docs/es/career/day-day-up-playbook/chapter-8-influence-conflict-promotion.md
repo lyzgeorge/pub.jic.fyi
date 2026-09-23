@@ -31,6 +31,8 @@ Mantén la evidencia de respaldo en el registro descrito en el Capítulo 7; no m
 
 ## 8.2 Entiende qué está protegiendo la otra persona
 
+![Secuencia ACT para influir: aportar evidencia matizada, contextualizar con prueba social y proponer una acción pequeña](/assets/career/day-day-up-playbook/chapter-8/01-flowchart-act-influence.png)
+
 Antes de intentar persuadir, identifica quién puede influir en la decisión y qué le importa.
 
 1. Pregunta cómo define el éxito y qué riesgo le preocupa.
@@ -105,6 +107,8 @@ Al delegar, especifica el resultado y las restricciones en lugar de prescribir c
 > Tú eres responsable de [resultado]. El éxito significa [criterios], para [fecha]. Acordemos las restricciones y los puntos de control, y luego tú eliges el enfoque.
 
 ## 8.7 Convierte la promoción en una conversación concreta
+
+![Ruta de decisión para un ascenso: identificar a quien decide, reunir pruebas y hacerlas visibles](/assets/career/day-day-up-playbook/chapter-8/02-framework-promotion-decision-path.png)
 
 Haz tres preguntas:
 

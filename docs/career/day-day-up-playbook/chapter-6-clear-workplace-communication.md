@@ -12,6 +12,8 @@ Optimize for understanding and a useful response. Simple language, a clear point
 
 ## 6.1 Decide the message before editing the words
 
+![Scissor method: replace a tangled status history with the main point, cause, and decision request.](/assets/career/day-day-up-playbook/chapter-6/01-comparison-scissor-update.png)
+
 Before an important message, answer:
 
 1. What does this person need to know?
@@ -51,6 +53,8 @@ Be ready to explain trade-offs and uncertainty. A clear recommendation does not 
 For slides, put the conclusion in the title. “Margin is improving because of customer mix” tells the audience more than “Q4 analysis.” Each slide should support one idea.
 
 ## 6.3 Be confident about your recommendation and precise about evidence
+
+![A precise recommendation links an evidence limit, a directional signal, and a next step.](/assets/career/day-day-up-playbook/chapter-6/02-framework-calibrated-recommendation.png)
 
 Distinguish observation, interpretation, and proposal. Commit to a direction while making important limits visible.
 

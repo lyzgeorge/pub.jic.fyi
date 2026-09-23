@@ -13,6 +13,9 @@ tags: [career, job-search]
 
 选择合适的回答形式，让自己的贡献清晰可见，并把证据与岗位需求对应起来。把范例脚本当作起点，而不是需要背诵的台词。
 
+
+
+![将面试问题匹配到合适的回答形式](/assets/career/day-day-up-playbook/chapter-3/01-flowchart-question-triage.png)
 ## 3.1 让回答形式匹配问题类型
 
 | 问题 | 回答形式 |
@@ -28,6 +31,9 @@ tags: [career, job-search]
 
 然后针对那个重点作答。不要因为听到一个熟悉的关键词，就照搬整套准备好的故事。
 
+
+
+![用于有说服力面试故事的 HEALER 框架](/assets/career/day-day-up-playbook/chapter-3/02-flowchart-healer-story.png)
 ## 3.2 让故事包含风险、决策与结果
 
 STAR 仍然是检查完整性的实用清单。教练提出的 **HEALER** 框架则更强调这件事为什么难、结果为什么重要：

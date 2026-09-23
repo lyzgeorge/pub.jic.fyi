@@ -15,6 +15,8 @@ Usa la relación para establecer expectativas compartidas, hacer que el avance s
 
 ## 7.1 Convierte el 1:1 en una reunión de alineación
 
+![Mapa de alineación del 1:1: expectativas, prioridades, recursos y desarrollo llevan a un próximo paso compartido](/assets/career/day-day-up-playbook/chapter-7/01-framework-four-alignments.png)
+
 Envía las actualizaciones rutinarias por separado cuando sea útil hacerlo. Dedica el tiempo de conversación a decisiones, prioridades, apoyo y desarrollo.
 
 | Tema | Qué preguntar o llevar |
@@ -33,6 +35,8 @@ Saca a la luz los desacuerdos mientras aún hay tiempo de actuar. Un desacuerdo 
 Termina con un entendimiento compartido sobre la próxima acción, quién la ejecuta y el resultado esperado.
 
 ## 7.2 Da actualizaciones predecibles y escala pronto
+
+![Actualización para decidir: estado, riesgo, opciones, recomendación y próxima actualización](/assets/career/day-day-up-playbook/chapter-7/02-flowchart-decision-ready-update.png)
 
 Tu jefe no debería enterarse de una fecha límite incumplida después de que ya pasó. Acuerda el nivel de detalle y la frecuencia de actualización que necesita.
 

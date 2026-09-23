@@ -103,6 +103,8 @@ tags: [career, job-search, workplace]
 
 ## 5.3 Rounds two and three: the verbal offer, the written offer, and the conditional close
 
+![Offer stages: check range alignment, negotiate a verbal offer, verify the written terms, then accept.](/assets/career/day-day-up-playbook/chapter-5/01-flowchart-offer-stages.png)
+
 **The concept.** Once you have an offer, the game changes: "ask for the max" and then close with "I will sign if". The one rule across all three rounds is never to say "I accept" until you mean it as the final word.
 
 ### Round two — the verbal offer call
@@ -222,6 +224,8 @@ What he should have said:
 ---
 
 ## 5.6 Choosing between offers: what can't be taken away, and who you'll work for
+
+![Compare offers by role and skills, guaranteed pay, manager and autonomy, and sustainability; name the benefit, trade-off and open question.](/assets/career/day-day-up-playbook/chapter-5/02-framework-offer-decision.png)
 
 **The concept.** "Smart candidates don't chase offers. They choose them". Two lenses from the corpus: which attributes of an offer are *durable*, and who the manager really is.
 

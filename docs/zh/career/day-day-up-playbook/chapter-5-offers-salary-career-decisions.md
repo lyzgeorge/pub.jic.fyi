@@ -27,6 +27,8 @@ tags: [career, negotiation]
 
 ## 5.2 在答应之前先谈判
 
+![Offer 的三个阶段：确认薪资范围、就口头 offer 谈判、核对书面条款，再接受。](/assets/career/day-day-up-playbook/chapter-5/01-flowchart-offer-stages.png)
+
 表达出真诚的兴趣，但不要把最初报出的数字当作最终结果。把这个过程分成三个阶段：
 
 1. **初步沟通：** 确认这个薪资区间大致是否可行。
@@ -60,6 +62,8 @@ tags: [career, negotiation]
 把有保证的薪酬和存在不确定性的潜在收益区分开来。如果发现哪里对不上，主动去询问，而不是想当然地认为招聘专员的口头解释一定会体现在最终合同里。
 
 ## 5.4 根据自己的优先事项比较不同的offer
+
+![从工作与技能、保底薪酬、经理与自主权、可持续性比较 offer，并明确收益、取舍和待解问题。](/assets/career/day-day-up-playbook/chapter-5/02-framework-offer-decision.png)
 
 在同等量级的公司之间做选择时，教练往往更看重头衔，因为它可能会影响未来的机会。但要把这当作他个人的偏好，而不是适用于每个人职业发展的普遍规则。
 

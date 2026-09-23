@@ -107,6 +107,8 @@ tags: [career, job-search, workplace]
 
 ## 5.3 Rondas dos y tres: la oferta verbal, la oferta escrita y el cierre condicional
 
+![Etapas de la oferta: alinear el rango, negociar la oferta verbal, verificar los términos escritos y aceptar.](/assets/career/day-day-up-playbook/chapter-5/01-flowchart-offer-stages.png)
+
 **El concepto.** Una vez que tienes una oferta, el juego cambia: "pide el máximo" y luego cierra con "firmaré si...". La única regla que atraviesa las tres rondas es nunca decir "acepto" hasta que lo digas como la palabra final.
 
 ### Ronda dos — la llamada de la oferta verbal
@@ -226,6 +228,8 @@ Lo que debió haber dicho:
 ---
 
 ## 5.6 Elegir entre ofertas: lo que no se te puede quitar, y para quién vas a trabajar
+
+![Compara trabajo y habilidades, salario garantizado, gerencia y autonomía, y sostenibilidad; identifica beneficio, renuncia y duda pendiente.](/assets/career/day-day-up-playbook/chapter-5/02-framework-offer-decision.png)
 
 **El concepto.** "Los candidatos inteligentes no persiguen ofertas. Las eligen." Dos lentes del material: qué atributos de una oferta son *duraderos*, y quién es realmente el gerente.
 

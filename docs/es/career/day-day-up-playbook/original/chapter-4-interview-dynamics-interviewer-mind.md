@@ -79,6 +79,8 @@ Nivel 1: no escuchar, recitar ("cuando recitas, lo perfecto se convierte en el e
 
 ## 4.2 Tipos de entrevistador y lógica de las rondas
 
+![Rondas de entrevista: selección evalúa encaje y logística; gerencia, problemas del equipo; dirección, criterio y decisiones.](/assets/career/day-day-up-playbook/chapter-4/01-framework-interview-rounds.png)
+
 ### Tres arquetipos
 
 | Tipo | Quién | Comportamiento | Tu respuesta |
@@ -378,6 +380,8 @@ Sea cual sea la señal: envía un correo de agradecimiento, reflexiona y anota q
 ---
 
 ## 4.8 Después de la entrevista: agradecimiento, retroalimentación, reclutadores y silencio
+
+![Secuencia Gratitud, Necesidad y Aporte para un seguimiento útil tras la entrevista.](/assets/career/day-day-up-playbook/chapter-4/02-flowchart-follow-up.png)
 
 ### El concepto
 

@@ -44,6 +44,8 @@ Retell the event fairly, including your contribution and constraints, without de
 
 ## 9.3 Take risks you can afford to learn from
 
+![Bounded career experiment versus unbounded risk: limit downside, learn, and preserve options](/assets/career/day-day-up-playbook/chapter-9/02-comparison-bounded-career-risks.png)
+
 The coach describes growth as **Stretch × Stay**: attempt work beyond your current comfort and remain long enough to develop capability. Treat this as a metaphor, not a financial formula.
 
 Before a move, identify the possible downside, what limits it, the learning value, and the conditions for stopping. Favor experiments that preserve options: a bounded project, a small business test, or a targeted skill investment.

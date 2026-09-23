@@ -27,6 +27,8 @@ Si su rango te funciona, dilo directamente. Si no, aclara la diferencia en lugar
 
 ## 5.2 Negocia antes de decir que sí
 
+![Etapas de la oferta: alinear el rango, negociar la oferta verbal, verificar los términos escritos y aceptar.](/assets/career/day-day-up-playbook/chapter-5/01-flowchart-offer-stages.png)
+
 Expresa entusiasmo sin tratar una cifra inicial como definitiva. Separa el proceso en tres etapas:
 
 1. **Conversación inicial:** Establece si el rango es, en términos generales, viable.
@@ -60,6 +62,8 @@ No asumas un margen estándar del 10% ni que pedir no tiene ningún riesgo. Preg
 Separa la compensación garantizada del potencial incierto. Pregunta sobre cualquier discrepancia en lugar de asumir que la explicación del reclutador aparecerá en el contrato final.
 
 ## 5.4 Compara las ofertas según tus prioridades
+
+![Compara trabajo y habilidades, salario garantizado, gerencia y autonomía, y sostenibilidad; identifica beneficio, renuncia y duda pendiente.](/assets/career/day-day-up-playbook/chapter-5/02-framework-offer-decision.png)
 
 El coach suele priorizar el título entre empresas comparables porque puede afectar oportunidades futuras. Trata eso como su preferencia personal, no como una regla válida para cualquier carrera.
 

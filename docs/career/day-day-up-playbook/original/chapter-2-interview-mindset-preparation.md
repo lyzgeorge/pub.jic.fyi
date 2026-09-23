@@ -22,6 +22,9 @@ tags: [career, job-search, workplace]
 
 ---
 
+
+
+![Three questions behind an interview evaluation](/assets/career/day-day-up-playbook/chapter-2/01-framework-three-interview-questions.png)
 ## 2.1 Mindset: the interview is not an exam, and nerves are a preparation problem
 
 ### The concept
@@ -228,6 +231,9 @@ In the coach's own JD, "projects you could work on" were literally the predecess
 
 ---
 
+
+
+![Story bank matrix matching examples to competencies](/assets/career/day-day-up-playbook/chapter-2/02-framework-story-bank-matrix.png)
 ## 2.4 The fifteen-minute homework: company, values, interviewer, small talk
 
 ### The concept

@@ -23,6 +23,9 @@ tags: [career, job-search, workplace]
 
 # Part A — Universal frameworks and storytelling
 
+
+
+![Match each interview question to the right answer form](/assets/career/day-day-up-playbook/chapter-3/01-flowchart-question-triage.png)
 ## 3.1 Read the question beneath the question
 
 ### The concept
@@ -72,6 +75,9 @@ Asking for a moment to think is also legitimate: it "shows the interviewer that 
 
 ---
 
+
+
+![HEALER framework for a persuasive interview story](/assets/career/day-day-up-playbook/chapter-3/02-flowchart-healer-story.png)
 ## 3.2 Stories that sell, not reports: from STAR to HEALER
 
 ### The concept
