@@ -61,7 +61,7 @@ tags: [career, mindset]
 
 教练提出的"花园"模型，区分出了成长的三个来源：
 
-![职业花园模型：种子代表技能与兴趣，土壤代表上级、公司和团队，气候代表行业、地域与时机](../../../public/assets/career/day-day-up-playbook/01-infographic-career-garden-model.png)
+![职业花园模型：种子代表技能与兴趣，土壤代表上级、公司和团队，气候代表行业、地域与时机](../../public/assets/career/day-day-up-playbook/01-infographic-career-garden-model.png)
 
 | 层次 | 需要问的问题 | 可能的行动 |
 |---|---|---|
