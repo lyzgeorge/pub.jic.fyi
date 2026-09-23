@@ -11,3 +11,4 @@ Este sitio es un cuaderno de conocimiento, no una autoridad. Antes de actuar sob
 ## Notas
 
 - [Orientación de posgrado de TCD 2026](./tcd/postgraduate/orientation-2026/index.md)
+- [Guía de carrera Day Day Up en Acción](./career/day-day-up-playbook/index.md)

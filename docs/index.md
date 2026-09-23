@@ -11,3 +11,4 @@ This site is a knowledge notebook, not an authority. For decisions involving sch
 ## Notes
 
 - [TCD Postgraduate Orientation 2026](./tcd/postgraduate/orientation-2026/index.md)
+- [The Day Day Up Career Playbook in Action](./career/day-day-up-playbook/index.md)
