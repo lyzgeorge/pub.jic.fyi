@@ -1,13 +1,13 @@
 ---
-title: Capítulo 1 — Currículum y materiales de postulación
+title: Capítulo 1 - Currículum y materiales de postulación
 description: Haz que tu valor relevante sea fácil de encontrar y llega a quienes contratan por varias vías a la vez.
 date: 2026-09-23
-source_title: Chapter 1 — Resume & Application Materials
+source_title: Chapter 1 - Resume & Application Materials
 tags: [career, job-search]
 ---
-# Capítulo 1 — Currículum y materiales de postulación
+# Capítulo 1 - Currículum y materiales de postulación
 
-> **Título original:** Chapter 1 — Resume & Application Materials
+> **Título original:** Chapter 1 - Resume & Application Materials
 >
 > **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los videos de asesoría profesional de Jonathan Lee
 
@@ -54,7 +54,7 @@ Usa un proyecto paralelo relevante, un encargo freelance o una simulación dise�
 
 **Patrón para el currículum:**
 
-> [Nombre del programa] — Simulación laboral: usé [herramientas] para analizar [problema] y produje [entregable].
+> [Nombre del programa] - Simulación laboral: usé [herramientas] para analizar [problema] y produje [entregable].
 
 Que la marca sea reconocible es secundario frente a poder explicar qué hiciste realmente.
 

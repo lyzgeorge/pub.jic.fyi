@@ -54,7 +54,7 @@ El acuerdo debe ser realista y revisable. Algo aceptable antes de convivir puede
 
 Las dificultades habituales incluyen distintos niveles de limpieza, comida tomada sin permiso, horarios incompatibles, ruido, tabaco u otras sustancias, uso desigual de zonas comunes, dinero y una pareja que pasa tanto tiempo en la casa que se convierte de hecho en otro residente.
 
-Muchos conflictos nacen de supuestos no expresados. Una necesidad concreta —por ejemplo, silencio después de las 22:00— permite actuar. Pedir permiso antes de una fiesta tampoco equivale a disculparse después: el aviso permite negociar con quien tenga un examen u otra necesidad.
+Muchos conflictos nacen de supuestos no expresados. Una necesidad concreta -por ejemplo, silencio después de las 22:00- permite actuar. Pedir permiso antes de una fiesta tampoco equivale a disculparse después: el aviso permite negociar con quien tenga un examen u otra necesidad.
 
 En un alquiler privado, las finanzas requieren especial precisión. Los residentes pueden pagar por separado, elegir a una persona responsable que reúna el alquiler o asignar una factura a cada uno. En todos los casos hay que registrar vencimientos y transferir a tiempo el dinero a la cuenta que recibirá el cargo.
 
@@ -97,7 +97,7 @@ El estilo puede cambiar según el asunto. La prueba práctica es si resuelve el 
 
 Apagar luces, desenchufar aparatos y suspender dispositivos reduce la factura eléctrica y el consumo energético. Estas medidas pueden incorporarse al acuerdo doméstico.
 
-Si la situación supera las diferencias normales —sobre todo si hay conducta insegura, gravemente irrazonable o imposible de resolver mediante diálogo— la sesión recomienda consultar al responsable de bienestar del sindicato de estudiantes.
+Si la situación supera las diferencias normales -sobre todo si hay conducta insegura, gravemente irrazonable o imposible de resolver mediante diálogo- la sesión recomienda consultar al responsable de bienestar del sindicato de estudiantes.
 
 ## Lista práctica
 

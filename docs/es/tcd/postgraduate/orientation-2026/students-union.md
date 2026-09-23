@@ -30,7 +30,7 @@ Entre las campañas recientes citadas figuran el acceso de estudiantes palestino
 
 ## Casos individuales: convertir un problema en un siguiente paso
 
-Tres cargos a tiempo completo atienden casos. La Education Officer se ocupa sobre todo de asuntos académicos de grado y colabora en casos de posgrado. El Welfare and Equality Officer atiende cuestiones de bienestar y alojamiento. El Graduate Officer —el primero a tiempo completo en este puesto— apoya tanto a estudiantes de máster con docencia como a investigadores de posgrado en asuntos académicos y de bienestar.
+Tres cargos a tiempo completo atienden casos. La Education Officer se ocupa sobre todo de asuntos académicos de grado y colabora en casos de posgrado. El Welfare and Equality Officer atiende cuestiones de bienestar y alojamiento. El Graduate Officer -el primero a tiempo completo en este puesto- apoya tanto a estudiantes de máster con docencia como a investigadores de posgrado en asuntos académicos y de bienestar.
 
 Estos cargos pueden representar al estudiante, aclarar un procedimiento o derivarlo a un servicio especializado. Por eso, el sindicato es un buen primer contacto cuando todavía no está claro quién debe resolver el problema. No sustituye a los servicios profesionales, pero ayuda a concretar una vía de actuación.
 

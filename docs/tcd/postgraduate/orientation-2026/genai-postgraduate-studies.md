@@ -35,7 +35,7 @@ Privacy, GDPR, research ethics, confidentiality agreements, and intellectual-pro
 
 Academic risks include fabricated facts and citations, no reliable access to paywalled literature, generic prose, loss of originality, and academic-misconduct consequences. Overreliance can prevent development of critical thinking, synthesis, expression, source evaluation, and the ability to form an independent position.
 
-Wider concerns include disinformation, energy use, appropriation of human-created work, exploitative data acquisition, bias and discrimination, unequal access, and weak cybersecurity safeguards. These are reasons to make a deliberate decision about whether AI belongs in a task—not merely reasons to write a better prompt.
+Wider concerns include disinformation, energy use, appropriation of human-created work, exploitative data acquisition, bias and discrimination, unequal access, and weak cybersecurity safeguards. These are reasons to make a deliberate decision about whether AI belongs in a task-not merely reasons to write a better prompt.
 
 ## Decide what to delegate
 
@@ -43,7 +43,7 @@ A task may involve defining the question, finding evidence, understanding concep
 
 Potential uses mentioned in the session include explaining terminology, creating a starting mind map, identifying candidate themes, testing understanding, prioritising tasks, revising syntax, or reviewing a draft. Results vary, especially for summaries, key-point extraction, theory explanations, and factual validation.
 
-![Slide listing possible GenAI strengths—summarising, key-point extraction, explanation, task initiation, language revision, and mind mapping—with a warning that results vary](/assets/tcd/postgraduate/orientation-2026/genai-postgraduate-studies/strengths-opportunities.jpg)
+![Slide listing possible GenAI strengths-summarising, key-point extraction, explanation, task initiation, language revision, and mind mapping-with a warning that results vary](/assets/tcd/postgraduate/orientation-2026/genai-postgraduate-studies/strengths-opportunities.jpg)
 
 Every output should be checked against primary or authoritative sources. A generated citation is only a search lead until the cited work is found, read, and verified.
 
@@ -63,7 +63,7 @@ The **4D framework** governs the larger decision:
 
 | Dimension | Question |
 | --- | --- |
-| Delegation | What should remain the student’s work, and what—if anything—can be delegated? |
+| Delegation | What should remain the student’s work, and what-if anything-can be delegated? |
 | Description | Have the goal and constraints been expressed clearly enough to elicit useful behaviour? |
 | Discernment | Can the output’s accuracy, relevance, bias, and quality be judged in context? |
 | Diligence | Has the user verified, acknowledged, protected data, and accepted responsibility? |

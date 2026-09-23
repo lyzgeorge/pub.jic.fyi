@@ -23,7 +23,7 @@ Postgraduate students arrive with existing expertise, achievements, and lived ex
 
 Academic progress matters, but the session defines a successful postgraduate experience more broadly. Development also happens through friendships, sport, societies, volunteering, internships, study abroad, civic activity, and new interests. More than 50 sports clubs and around 120 societies were cited as routes into community.
 
-Balance does not mean neglecting study. It means planning time so that family, friends, health, and meaningful activities are not abandoned. Continuing a previous interest—or trying a new one—can reduce isolation and make an intensive programme sustainable.
+Balance does not mean neglecting study. It means planning time so that family, friends, health, and meaningful activities are not abandoned. Continuing a previous interest-or trying a new one-can reduce isolation and make an intensive programme sustainable.
 
 ## Belonging may take time
 
@@ -42,7 +42,7 @@ Students are therefore encouraged to speak, contribute, and challenge constructi
 
 ## Make use of the wider institution
 
-Academic staff—lecturers, tutors, supervisors, and demonstrators—support the formal programme. A much larger group of professional staff maintains services including Academic Registry, Counselling, Health, Disability Services, and the day nursery. Student representatives connect individual experience with institutional decisions.
+Academic staff-lecturers, tutors, supervisors, and demonstrators-support the formal programme. A much larger group of professional staff maintains services including Academic Registry, Counselling, Health, Disability Services, and the day nursery. Student representatives connect individual experience with institutional decisions.
 
 The practical message is to reach out rather than remain alone when study becomes overwhelming. Support exists both for academic processes and for the personal circumstances that affect learning.
 

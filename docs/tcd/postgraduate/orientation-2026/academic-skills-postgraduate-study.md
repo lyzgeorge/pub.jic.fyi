@@ -30,7 +30,7 @@ Priority depends on both importance and urgency. Important and urgent work needs
 
 ![A four-quadrant priority matrix comparing importance and urgency](/assets/tcd/postgraduate/orientation-2026/academic-skills-postgraduate-study/priority-matrix.jpg)
 
-The matrix makes the central distinction visible: planning protects important work that is not yet urgent. Time blocking can then turn priorities into action. The session suggests the Pomodoro pattern—25 minutes of focused work, a 5-minute break, and a longer break after four cycles—as one optional structure.
+The matrix makes the central distinction visible: planning protects important work that is not yet urgent. Time blocking can then turn priorities into action. The session suggests the Pomodoro pattern-25 minutes of focused work, a 5-minute break, and a longer break after four cycles-as one optional structure.
 
 ## Use active learning rather than passive exposure
 
@@ -48,7 +48,7 @@ Postgraduate academic writing should be formal, clear and cohesive, detached and
 4. **Evidence-based:** draw on a range of authors and appropriate disciplinary evidence, then connect sources with explicit signposting and transitions.
 5. **Critical and analytical:** question assumptions, evaluate information, identify bias, and show the reasoning that links evidence to a conclusion.
 
-Research begins with knowing where suitable evidence is found—such as disciplinary databases and subject-librarian guidance—and keeping a reliable record of sources from the start. Writers represent other authors through paraphrase, summary, quotation, and synthesis. Reporting verbs should communicate the writer’s relationship to a source rather than treating every claim as equally certain.
+Research begins with knowing where suitable evidence is found-such as disciplinary databases and subject-librarian guidance-and keeping a reliable record of sources from the start. Writers represent other authors through paraphrase, summary, quotation, and synthesis. Reporting verbs should communicate the writer’s relationship to a source rather than treating every claim as equally certain.
 
 Referencing credits ideas, avoids plagiarism, supports arguments, demonstrates breadth of reading, and lets readers locate the original material. It is therefore part of the reasoning, not merely a formatting step.
 

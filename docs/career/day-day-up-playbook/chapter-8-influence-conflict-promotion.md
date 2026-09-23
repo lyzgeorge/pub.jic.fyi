@@ -1,10 +1,10 @@
 ---
-title: Chapter 8 — Influence, Conflict & Promotion
+title: Chapter 8 - Influence, Conflict & Promotion
 description: Make valuable work visible, drive proposals with the ACT framework, and turn promotion into a concrete conversation.
 date: 2026-09-23
 tags: [career, workplace]
 ---
-# Chapter 8 — Influence, Conflict & Promotion
+# Chapter 8 - Influence, Conflict & Promotion
 
 > **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on Jonathan Lee's career-coaching videos.
 

@@ -1,10 +1,10 @@
 ---
-title: Chapter 9 — Career Strategy & Mindset
+title: Chapter 9 - Career Strategy & Mindset
 description: Weigh reward against cost, build confidence from evidence, and separate skill, environment, and market problems.
 date: 2026-09-23
 tags: [career, workplace]
 ---
-# Chapter 9 — Career Strategy & Mindset
+# Chapter 9 - Career Strategy & Mindset
 
 > **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on Jonathan Lee's career-coaching videos.
 
@@ -74,7 +74,7 @@ Change one variable at a time where possible. It makes the move easier to explai
 
 ## 9.5 Set your pace and know when to leave
 
-The coach recommends periodically interviewing externally—roughly every two years in his own practice—to test your market value and avoid letting one company set your entire pace. Use a cadence appropriate to your situation, not an automatic resignation schedule.
+The coach recommends periodically interviewing externally-roughly every two years in his own practice-to test your market value and avoid letting one company set your entire pace. Use a cadence appropriate to your situation, not an automatic resignation schedule.
 
 When deciding whether to stay, consider:
 
@@ -86,7 +86,7 @@ When deciding whether to stay, consider:
 
 The useful question is **“What is staying doing to me?”** Pair it with **“What would leaving require?”** A poor month and a persistently damaging role call for different responses.
 
-If the role’s value is unclear, ask how it contributes and what success should look like. The coach’s more direct backfill question—“If I left, would you replace this role?”—can reveal concerns, but use it with awareness of the conversation it may start.
+If the role’s value is unclear, ask how it contributes and what success should look like. The coach’s more direct backfill question-“If I left, would you replace this role?”-can reveal concerns, but use it with awareness of the conversation it may start.
 
 ## 9.6 Find direction through work, not labels alone
 
@@ -117,6 +117,6 @@ Choose the appropriate level for your role. Explain the problem, your use of AI,
 
 The coach’s stakes test is useful: **If this goes wrong, how bad is it?** Routine drafts may need light review; consequential decisions need stronger verification and human judgment. Confidentiality still matters even when the task appears low stakes.
 
-Build on capabilities others already value in you—judgment, domain context, relationships, communication—and use AI to free time or improve those capabilities. For writing and interview preparation, retain ownership of the message and verify the output.
+Build on capabilities others already value in you-judgment, domain context, relationships, communication-and use AI to free time or improve those capabilities. For writing and interview preparation, retain ownership of the message and verify the output.
 
 **Career decision standard:** You can explain what you are pursuing, why it fits, what it costs, what evidence supports it, and what would cause you to reconsider.

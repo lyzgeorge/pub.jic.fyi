@@ -1,13 +1,13 @@
 ---
-title: Capítulo 2 — Preparación para la entrevista
+title: Capítulo 2 - Preparación para la entrevista
 description: La preparación debe producir un caso claro sobre tu encaje y un pequeño banco de evidencia adaptable, no un guion para cada posible pregunta.
 date: 2026-09-23
-source_title: Chapter 2 — Interview Preparation
+source_title: Chapter 2 - Interview Preparation
 tags: [career, job-search]
 ---
-# Capítulo 2 — Preparación para la entrevista
+# Capítulo 2 - Preparación para la entrevista
 
-> **Título original:** Chapter 2 — Interview Preparation
+> **Título original:** Chapter 2 - Interview Preparation
 >
 > **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los videos de asesoría profesional de Jonathan Lee
 

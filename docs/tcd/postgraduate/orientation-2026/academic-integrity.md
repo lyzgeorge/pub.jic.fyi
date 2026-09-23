@@ -43,7 +43,7 @@ A citation style governs which bibliographic elements appear, their order and pu
 - **Numbered styles** assign references numbers in order of first mention and reuse the same number for the same source. Vancouver is a common example.
 - **Footnote styles** place an ascending note number in the text and fuller details at the bottom of the page; Chicago Notes and Bibliography is a prominent example.
 
-The same source looks different in each system. Consistency includes capitalization, italics, author order, page ranges, DOI presentation, and punctuation—not just the in-text marker.
+The same source looks different in each system. Consistency includes capitalization, italics, author order, page ranges, DOI presentation, and punctuation-not just the in-text marker.
 
 ## Generative AI requires permission and acknowledgement
 

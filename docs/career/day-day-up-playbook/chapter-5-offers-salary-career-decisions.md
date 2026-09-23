@@ -1,10 +1,10 @@
 ---
-title: Chapter 5 — Offers, Salary & Career Decisions
+title: Chapter 5 - Offers, Salary & Career Decisions
 description: Negotiate before accepting, read the whole offer, and compare options against your own priorities.
 date: 2026-09-23
 tags: [career, job-search]
 ---
-# Chapter 5 — Offers, Salary & Career Decisions
+# Chapter 5 - Offers, Salary & Career Decisions
 
 > **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on Jonathan Lee's career-coaching videos.
 

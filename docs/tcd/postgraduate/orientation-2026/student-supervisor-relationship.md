@@ -45,7 +45,7 @@ The goal is not to find one universally “ideal” style but to understand the 
 
 ## Direct the feedback you need
 
-A vague request—“please give feedback on my chapter”—forces the supervisor to guess the draft’s maturity and the student’s priorities.
+A vague request-“please give feedback on my chapter”-forces the supervisor to guess the draft’s maturity and the student’s priorities.
 
 ![Slide explaining how a student can direct feedback by identifying draft stage, strengths, weaknesses, uncertainties, and next steps](/assets/tcd/postgraduate/orientation-2026/student-supervisor-relationship/directing-feedback.jpg)
 
@@ -73,7 +73,7 @@ Before leaving, schedule the next meeting. Afterwards, send a concise recap reco
 
 Because it is the student’s degree, respectful questioning is legitimate. Useful phrases include:
 
-- “I want to make sure I understand—could you repeat the point about…?”
+- “I want to make sure I understand-could you repeat the point about…?”
 - “Could you explain what you mean by…?”
 - “I am not sure I agree; may I explain my reasoning?”
 - “Is there anything else I need to know about my progress at this stage?”

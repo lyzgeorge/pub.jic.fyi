@@ -32,7 +32,7 @@ Recent campaigning cited in the session included access to education for Palesti
 
 ## Casework: where individual problems become actionable
 
-Three full-time officers undertake casework. The Education Officer primarily handles undergraduate academic matters and supports postgraduate academic cases. The Welfare and Equality Officer handles welfare and accommodation concerns. The Graduate Officer—the first full-time holder of this role—supports both taught and research postgraduates across academic and welfare issues.
+Three full-time officers undertake casework. The Education Officer primarily handles undergraduate academic matters and supports postgraduate academic cases. The Welfare and Equality Officer handles welfare and accommodation concerns. The Graduate Officer-the first full-time holder of this role-supports both taught and research postgraduates across academic and welfare issues.
 
 Caseworkers may advocate directly, explain procedures, or signpost another service. The union is therefore a useful first contact when a student does not yet know which office owns a problem. It does not replace specialist services, but helps students identify a workable next step.
 
@@ -64,7 +64,7 @@ Representation moves from a course-level concern toward School, Faculty, postgra
 | Part-time officer | A defined constituency or issue | Leads work in areas such as international students, the environment, off-campus students, taught postgraduates, or postgraduate research |
 | Union council | Union-wide | Sets policy and decides how the union operates; the session described seven meetings per year |
 
-A class representative is the lowest-threshold formal role. Representatives can aggregate problems that are hard to solve individually—for example, clustered deadlines—and bring them to course administration. The session cited law representatives securing a clearer lecture-recording policy as an example of collective representation producing a concrete change.
+A class representative is the lowest-threshold formal role. Representatives can aggregate problems that are hard to solve individually-for example, clustered deadlines-and bring them to course administration. The session cited law representatives securing a clearer lecture-recording policy as an example of collective representation producing a concrete change.
 
 ## Postgraduate routes into the union
 

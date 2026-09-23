@@ -20,7 +20,7 @@ tags: [trinity-college-dublin, careers, employability, postgraduate]
 
 ![Map My Future 职业发展框架](/assets/tcd/postgraduate/orientation-2026/your-career/map-my-future.jpg)
 
-**Map My Future** 将职业规划分为六项相互关联的工作：从当前处境出发、看清外部环境、探索行业与招聘方式、培养能力、通过人际联系和实践创造机会，以及维护适合自己的职业—生活平衡。
+**Map My Future** 将职业规划分为六项相互关联的工作：从当前处境出发、看清外部环境、探索行业与招聘方式、培养能力、通过人际联系和实践创造机会，以及维护适合自己的职业-生活平衡。
 
 ## 先选对职业服务
 

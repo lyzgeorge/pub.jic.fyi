@@ -56,7 +56,7 @@ Many roles are advertised by email or within a department. Building a profession
 
 ## Protect study and immigration limits
 
-Multiple jobs may be possible, but total working hours—not hours per employer—must remain within any immigration restriction. More than one employer can also complicate tax allocation. Students should monitor Revenue records and review whether tax was overpaid.
+Multiple jobs may be possible, but total working hours-not hours per employer-must remain within any immigration restriction. More than one employer can also complicate tax allocation. Students should monitor Revenue records and review whether tax was overpaid.
 
 Before taking a role, compare its timetable with classes, laboratory work, supervision, and deadlines. Flexible campus work can be useful, but the academic programme remains the primary basis of student immigration permission.
 

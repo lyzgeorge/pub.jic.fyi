@@ -48,7 +48,7 @@ La escritura de posgrado debe ser formal, clara y cohesionada, objetiva, basada 
 4. **Basada en pruebas:** recurrir a varios autores y a evidencia pertinente para la disciplina, conectando las fuentes mediante transiciones explícitas.
 5. **Crítica y analítica:** cuestionar supuestos, evaluar información, detectar sesgos y mostrar cómo la evidencia conduce a una conclusión.
 
-Investigar implica saber dónde encontrar evidencia apropiada —por ejemplo, bases de datos de la disciplina y orientación del bibliotecario temático— y registrar las fuentes desde el principio. Las ideas ajenas se presentan mediante paráfrasis, resumen, cita y síntesis. Los verbos introductorios deben expresar con precisión la relación del autor con la afirmación.
+Investigar implica saber dónde encontrar evidencia apropiada -por ejemplo, bases de datos de la disciplina y orientación del bibliotecario temático- y registrar las fuentes desde el principio. Las ideas ajenas se presentan mediante paráfrasis, resumen, cita y síntesis. Los verbos introductorios deben expresar con precisión la relación del autor con la afirmación.
 
 Referenciar atribuye las ideas, evita el plagio, respalda los argumentos, demuestra amplitud de lectura y permite localizar el original. Es parte del razonamiento, no un trámite de formato.
 

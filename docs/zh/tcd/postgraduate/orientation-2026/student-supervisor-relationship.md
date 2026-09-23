@@ -1,5 +1,5 @@
 ---
-title: 建立有效的学生—导师关系
+title: 建立有效的学生-导师关系
 description: 研究生科研中角色、预期、会议、反馈、专业沟通和尽早求助的实用框架。
 date: 2026-09-08
 updated: 2026-09-08
@@ -9,7 +9,7 @@ source_type: Panopto recording
 tags: [trinity-college-dublin, postgraduate-research, supervision, feedback]
 ---
 
-# 建立有效的学生—导师关系
+# 建立有效的学生-导师关系
 
 > **原始标题：** The Student-Supervisor Relationship
 >

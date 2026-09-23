@@ -1,10 +1,10 @@
 ---
-title: Chapter 4 — Interview Dynamics & Follow-up
+title: Chapter 4 - Interview Dynamics & Follow-up
 description: Adjust strategy by interview round, ask questions that reveal the truth, and follow up with specific content.
 date: 2026-09-23
 tags: [career, job-search]
 ---
-# Chapter 4 — Interview Dynamics & Follow-up
+# Chapter 4 - Interview Dynamics & Follow-up
 
 > **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on Jonathan Lee's career-coaching videos.
 

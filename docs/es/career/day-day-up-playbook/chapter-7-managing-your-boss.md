@@ -1,13 +1,13 @@
 ---
-title: Capítulo 7 — Cómo gestionar a tu jefe
+title: Capítulo 7 - Cómo gestionar a tu jefe
 description: Usa la relación para establecer expectativas compartidas, hacer que el avance sea predecible y plantear temas difíciles antes de que se conviertan en sorpresas.
 date: 2026-09-23
-source_title: Chapter 7 — Managing Your Boss
+source_title: Chapter 7 - Managing Your Boss
 tags: [career, workplace, manager]
 ---
-# Capítulo 7 — Cómo gestionar a tu jefe
+# Capítulo 7 - Cómo gestionar a tu jefe
 
-> **Título original:** Chapter 7 — Managing Your Boss
+> **Título original:** Chapter 7 - Managing Your Boss
 >
 > **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los videos de asesoría profesional de Jonathan Lee
 

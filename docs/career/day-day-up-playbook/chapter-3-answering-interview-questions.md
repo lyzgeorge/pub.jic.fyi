@@ -1,10 +1,10 @@
 ---
-title: Chapter 3 — Answering Interview Questions
+title: Chapter 3 - Answering Interview Questions
 description: Match answer structure to question type, tell stories with the HEALER framework, and handle weakness and experience-gap questions.
 date: 2026-09-23
 tags: [career, job-search]
 ---
-# Chapter 3 — Answering Interview Questions
+# Chapter 3 - Answering Interview Questions
 
 > **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on Jonathan Lee's career-coaching videos.
 

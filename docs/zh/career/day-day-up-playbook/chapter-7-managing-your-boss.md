@@ -1,13 +1,13 @@
 ---
-title: 第七章 — 管理你的上级
+title: 第七章 - 管理你的上级
 description: 利用这段关系建立共同的预期、让工作进展更可预测，并在困难问题变成意外之前提前提出。
 date: 2026-09-23
-source_title: Chapter 7 — Managing Your Boss
+source_title: Chapter 7 - Managing Your Boss
 tags: [career, workplace, manager]
 ---
-# 第七章 — 管理你的上级
+# 第七章 - 管理你的上级
 
-> **原文标题：** Chapter 7 — Managing Your Boss
+> **原文标题：** Chapter 7 - Managing Your Boss
 >
 > **来源：** 摘译自基于 Jonathan Lee 职业辅导视频整理的《The Day Day Up Career Playbook》精简版
 

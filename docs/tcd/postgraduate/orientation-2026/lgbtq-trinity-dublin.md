@@ -36,7 +36,7 @@ That distinction matters because inclusion is not limited to people whose topic 
 
 ## Finding community through QSoc
 
-QSoc, founded in 1983, is described as Ireland’s oldest LGBTQ+ student society. It offers ordinary social events, daily coffee hours, and identity-specific **Closed Spaces**. A Closed Space is confidential and limited to people who hold—or are questioning—the identity under discussion, so participants can compare experiences without needing to explain the basic context.
+QSoc, founded in 1983, is described as Ireland’s oldest LGBTQ+ student society. It offers ordinary social events, daily coffee hours, and identity-specific **Closed Spaces**. A Closed Space is confidential and limited to people who hold-or are questioning-the identity under discussion, so participants can compare experiences without needing to explain the basic context.
 
 The society’s inclusion scheme reduces the barrier of attending alone. A student can contact the Inclusions Officer, arrange a conversation or coffee beforehand, and enter an event already knowing someone. This is especially useful for newcomers, international students, postgraduates, and anyone still deciding how openly they wish to participate.
 
@@ -57,7 +57,7 @@ The slide distinguishes two routes:
 - **With a gender-recognition certificate or other supporting document:** complete the Change of Details form and bring it, the evidence, and the student ID card to Academic Registry.
 - **Without supporting documentation:** complete the form, meet the Postgraduate Advisory Service (PAS), have PAS co-sign it, and submit it with the student ID card to Academic Registry.
 
-The PAS meeting is not an assessment of identity. Its purpose is to make sure the student understands where the changed details will appear—for example, in correspondence or on the graduation parchment. The source stated that Academic Registry issues a replacement card in the new name without a charge.
+The PAS meeting is not an assessment of identity. Its purpose is to make sure the student understands where the changed details will appear-for example, in correspondence or on the graduation parchment. The source stated that Academic Registry issues a replacement card in the new name without a charge.
 
 ## A map of Trinity support
 

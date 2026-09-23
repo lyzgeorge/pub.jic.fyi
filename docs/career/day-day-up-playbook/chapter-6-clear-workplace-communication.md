@@ -1,10 +1,10 @@
 ---
-title: Chapter 6 — Clear Workplace Communication
+title: Chapter 6 - Clear Workplace Communication
 description: Use the "scissors method" to lead with the point, pick the right structure, and make commitments explicit.
 date: 2026-09-23
 tags: [career, workplace]
 ---
-# Chapter 6 — Clear Workplace Communication
+# Chapter 6 - Clear Workplace Communication
 
 > **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on Jonathan Lee's career-coaching videos.
 

@@ -1,13 +1,13 @@
 ---
-title: 第二章 — 面试准备
+title: 第二章 - 面试准备
 description: 准备的目标是形成一套清晰的契合度论证和一小批可灵活调用的证据，而不是为每个可能问题都写好台词。
 date: 2026-09-23
-source_title: Chapter 2 — Interview Preparation
+source_title: Chapter 2 - Interview Preparation
 tags: [career, job-search]
 ---
-# 第二章 — 面试准备
+# 第二章 - 面试准备
 
-> **原文标题：** Chapter 2 — Interview Preparation
+> **原文标题：** Chapter 2 - Interview Preparation
 >
 > **来源：** 摘译自基于 Jonathan Lee 职业辅导视频整理的《The Day Day Up Career Playbook》精简版
 

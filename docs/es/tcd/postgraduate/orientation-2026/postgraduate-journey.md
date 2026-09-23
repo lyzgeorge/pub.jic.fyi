@@ -70,7 +70,7 @@ Las autorizaciones cambian entre tareas, cursos, disciplinas y etapas doctorales
 
 ## Cuando aparecen dificultades
 
-Los problemas pueden ser académicos, administrativos, económicos, personales, de salud o de supervisión. Comunicarlos pronto conserva más opciones. Las solicitudes formales —por ejemplo, pasar a *off books*— suelen tramitarse mediante la dirección del curso en PGT o el supervisor en PGR; después puede intervenir la dirección de posgrado de la School.
+Los problemas pueden ser académicos, administrativos, económicos, personales, de salud o de supervisión. Comunicarlos pronto conserva más opciones. Las solicitudes formales -por ejemplo, pasar a *off books*- suelen tramitarse mediante la dirección del curso en PGT o el supervisor en PGR; después puede intervenir la dirección de posgrado de la School.
 
 Postgraduate Advisory Support Service y el sindicato pueden explicar opciones de forma independiente. Pedir ayuda forma parte de gestionar un posgrado.
 

@@ -54,7 +54,7 @@ The main Sports Centre is at the far end of the central campus and is the base f
 
 Other central-campus facilities include rugby and tennis areas, a futsal court at Botany Bay, College Park, and facilities described at Printing House Square, including squash courts, a handball alley, and an Olympic target range. Off-campus training locations include Islandbridge Boathouse for rowing and boat clubs, Iveagh Sports Grounds in Crumlin, and Santry Sports Grounds.
 
-Participation does not always require joining a club or structured course. Students can use the app to book facilities—for example, a hall for badminton with friends—and Trinity Sport may provide equipment for the session.
+Participation does not always require joining a club or structured course. Students can use the app to book facilities-for example, a hall for badminton with friends-and Trinity Sport may provide equipment for the session.
 
 ## Performance and inclusion have dedicated support
 

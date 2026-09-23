@@ -1,13 +1,13 @@
 ---
-title: Capítulo 3 — Cómo responder preguntas de entrevista
+title: Capítulo 3 - Cómo responder preguntas de entrevista
 description: Elige la forma de respuesta adecuada según el tipo de pregunta, haz visible tu contribución y conecta tu evidencia con el puesto.
 date: 2026-09-23
-source_title: Chapter 3 — Answering Interview Questions
+source_title: Chapter 3 - Answering Interview Questions
 tags: [career, job-search]
 ---
-# Capítulo 3 — Cómo responder preguntas de entrevista
+# Capítulo 3 - Cómo responder preguntas de entrevista
 
-> **Título original:** Chapter 3 — Answering Interview Questions
+> **Título original:** Chapter 3 - Answering Interview Questions
 >
 > **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los videos de asesoría profesional de Jonathan Lee
 

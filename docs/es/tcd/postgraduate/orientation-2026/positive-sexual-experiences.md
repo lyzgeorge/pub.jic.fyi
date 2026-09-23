@@ -59,7 +59,7 @@ La sesión indica que en Irlanda la edad de consentimiento para la actividad sex
 
 ## Consentimiento e imágenes íntimas
 
-En internet rigen los mismos principios. Consentir la creación o el envío privado de una imagen íntima no autoriza su redistribución. La sesión denomina «abuso sexual basado en imágenes» al hecho de compartir —o amenazar con compartir— imágenes íntimas fuera del destinatario previsto, y señala que constituye un delito en Irlanda.
+En internet rigen los mismos principios. Consentir la creación o el envío privado de una imagen íntima no autoriza su redistribución. La sesión denomina «abuso sexual basado en imágenes» al hecho de compartir -o amenazar con compartir- imágenes íntimas fuera del destinatario previsto, y señala que constituye un delito en Irlanda.
 
 El material privado debe seguir siendo privado salvo que la persona afectada acepte expresamente otro uso. Recibir una imagen nunca concede permiso para reenviarla, publicarla o enseñarla.
 
@@ -81,7 +81,7 @@ La seguridad es prioritaria. Quedarse paralizado o decidir no intervenir en el m
 
 ## Reconocer el acoso persistente
 
-La sesión usa **FOUR** para describir el *stalking*: conducta **Fixated, Obsessive, Unwanted, Repeated** —fijada, obsesiva, no deseada y repetida—.
+La sesión usa **FOUR** para describir el *stalking*: conducta **Fixated, Obsessive, Unwanted, Repeated** -fijada, obsesiva, no deseada y repetida-.
 
 ![Diapositiva que define el stalking como conducta fijada, obsesiva, no deseada y repetida](/assets/tcd/postgraduate/orientation-2026/positive-sexual-experiences/stalking-four.jpg)
 

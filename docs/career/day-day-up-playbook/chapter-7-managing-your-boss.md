@@ -1,10 +1,10 @@
 ---
-title: Chapter 7 — Managing Your Boss
+title: Chapter 7 - Managing Your Boss
 description: Turn 1:1s into real alignment, escalate risk early, and keep evidence for your performance review.
 date: 2026-09-23
 tags: [career, workplace]
 ---
-# Chapter 7 — Managing Your Boss
+# Chapter 7 - Managing Your Boss
 
 > **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on Jonathan Lee's career-coaching videos.
 

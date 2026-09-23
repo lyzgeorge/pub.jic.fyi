@@ -21,7 +21,7 @@ La resiliencia no consiste en eliminar el malestar. Es la capacidad de reconocer
 
 ## Por qué el estrés reduce el margen de respuesta
 
-Las dificultades aumentan cuando necesidades como seguridad, aceptación o conexión quedan insatisfechas, o cuando las exigencias superan los recursos disponibles. El sistema nervioso puede pasar a hiperactivación —agitación, desbordamiento emocional y pensamiento confuso— o a hipoactivación —apatía, entumecimiento, retirada o bloqueo—.
+Las dificultades aumentan cuando necesidades como seguridad, aceptación o conexión quedan insatisfechas, o cuando las exigencias superan los recursos disponibles. El sistema nervioso puede pasar a hiperactivación -agitación, desbordamiento emocional y pensamiento confuso- o a hipoactivación -apatía, entumecimiento, retirada o bloqueo-.
 
 ![Ventana de tolerancia: hiperactivación por encima del margen funcional e hipoactivación por debajo](/assets/tcd/postgraduate/orientation-2026/developing-resilience/window-of-tolerance.jpg)
 
@@ -77,7 +77,7 @@ Primero se anotan con exactitud las palabras de la autocrítica; después se sus
 - ¿Estoy dentro de mi margen funcional, por encima o por debajo?
 - ¿Qué emoción o necesidad debo reconocer?
 - ¿Estoy tratando un pensamiento como un hecho?
-- ¿Qué acción pequeña —respirar, moverme, comer, descansar, conectar, ganar perspectiva o marcar un límite— puede devolverme flexibilidad?
+- ¿Qué acción pequeña -respirar, moverme, comer, descansar, conectar, ganar perspectiva o marcar un límite- puede devolverme flexibilidad?
 - ¿Mi voz interna facilita el aprendizaje o solo castiga?
 - ¿Necesito apoyo profesional, académico, médico o urgente?
 

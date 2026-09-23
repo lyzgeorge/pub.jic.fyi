@@ -1,13 +1,13 @@
 ---
-title: 第三章 — 回答面试问题
+title: 第三章 - 回答面试问题
 description: 按问题类型选择正确的回答结构，让自己的贡献清晰可见，并把证据与岗位需求对应起来。
 date: 2026-09-23
-source_title: Chapter 3 — Answering Interview Questions
+source_title: Chapter 3 - Answering Interview Questions
 tags: [career, job-search]
 ---
-# 第三章 — 回答面试问题
+# 第三章 - 回答面试问题
 
-> **原文标题：** Chapter 3 — Answering Interview Questions
+> **原文标题：** Chapter 3 - Answering Interview Questions
 >
 > **来源：** 摘译自基于 Jonathan Lee 职业辅导视频整理的《The Day Day Up Career Playbook》精简版
 

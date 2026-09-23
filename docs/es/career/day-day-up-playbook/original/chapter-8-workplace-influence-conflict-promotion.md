@@ -1,17 +1,17 @@
 ---
-title: Capítulo 8 — Influencia, conflicto y promoción en el trabajo
+title: Capítulo 8 - Influencia, conflicto y promoción en el trabajo
 description: Capítulo completo, estilo cátedra, sobre cómo hacer visible el trabajo de valor, el marco ACT para propuestas, el manejo de conflictos y cómo convertir la promoción en una conversación concreta.
 date: 2026-09-23
-source_title: Chapter 8 — Workplace Influence, Conflict & Promotion
+source_title: Chapter 8 - Workplace Influence, Conflict & Promotion
 tags: [career, job-search, workplace]
 ---
 
-# Capítulo 8 — Influencia, conflicto y promoción en el trabajo
+# Capítulo 8 - Influencia, conflicto y promoción en el trabajo
 
-> **Título original:** Chapter 8 — Workplace Influence, Conflict & Promotion
+> **Título original:** Chapter 8 - Workplace Influence, Conflict & Promotion
 > **Fuente:** Traducción del capítulo correspondiente de la edición original completa (en inglés) de *The Day Day Up Career Playbook in Action*.
 
-> Este capítulo cubre la parte del trabajo para la que ni tu carrera de ingeniería, ni tu MBA, ni las lecciones en la mesa de tus padres te prepararon: lograr que tu trabajo se *vea*, mover a personas que no te reportan, discrepar sin dañar la relación, absorber responsabilidad sin absorber la culpa, y convertir un "lo estás haciendo genial" en una promoción real. El diagnóstico central del coach atraviesa todos los videos aquí citados: a los profesionales chinos y otros no nativos en Norteamérica se les entrena para hacer un 10/10 y comunicar un 5/10, mientras que sus colegas occidentales hacen un 5/10 y dicen un 11/10. La brecha no es el inglés ni el talento. Es un conjunto de habilidades que se pueden aprender —visibilidad, influencia, desacuerdo calibrado, higiene de la propiedad (ownership), lectura política y mecánica de las promociones— y este capítulo las enseña como hábitos, con guiones incluidos.
+> Este capítulo cubre la parte del trabajo para la que ni tu carrera de ingeniería, ni tu MBA, ni las lecciones en la mesa de tus padres te prepararon: lograr que tu trabajo se *vea*, mover a personas que no te reportan, discrepar sin dañar la relación, absorber responsabilidad sin absorber la culpa, y convertir un "lo estás haciendo genial" en una promoción real. El diagnóstico central del coach atraviesa todos los videos aquí citados: a los profesionales chinos y otros no nativos en Norteamérica se les entrena para hacer un 10/10 y comunicar un 5/10, mientras que sus colegas occidentales hacen un 5/10 y dicen un 11/10. La brecha no es el inglés ni el talento. Es un conjunto de habilidades que se pueden aprender -visibilidad, influencia, desacuerdo calibrado, higiene de la propiedad (ownership), lectura política y mecánica de las promociones- y este capítulo las enseña como hábitos, con guiones incluidos.
 
 **Lo que podrás hacer**
 
@@ -31,7 +31,7 @@ tags: [career, job-search, workplace]
 
 La afirmación inicial del coach es directa: el factor número uno en quién es promovido no es la capacidad, sino la visibilidad. Cita un estudio de HBR con más de 240 líderes en el que la visibilidad quedó en primer lugar, e insiste en que la visibilidad es una habilidad, no un rasgo de personalidad ni cuestión de hablar fuerte. La misma idea se expresa como una ecuación: "La influencia es el producto de lo que haces multiplicado por lo que la gente sabe". Multiplica por cero y obtienes cero.
 
-Dibuja un modelo de dos ejes: comunicación versus competencia. Los *habladores hábiles* (smooth talkers) hablan mucho y hacen poco (sonrisa falsa, palabras grandes, sin entrega). Los *hacedores silenciosos* —donde se ubican la mayoría de los profesionales chinos— hacen mucho y hablan poco. El objetivo es la esquina superior derecha, el *hablador inteligente*: competente y comunicativo. La dicotomía entre talento silencioso y labia es falsa; las personas más exitosas hacen ambas cosas.
+Dibuja un modelo de dos ejes: comunicación versus competencia. Los *habladores hábiles* (smooth talkers) hablan mucho y hacen poco (sonrisa falsa, palabras grandes, sin entrega). Los *hacedores silenciosos* -donde se ubican la mayoría de los profesionales chinos- hacen mucho y hablan poco. El objetivo es la esquina superior derecha, el *hablador inteligente*: competente y comunicativo. La dicotomía entre talento silencioso y labia es falsa; las personas más exitosas hacen ambas cosas.
 
 > 🗣 **Palabras del coach:** "Los resultados susurran, la comunicación amplifica."
 
@@ -49,12 +49,12 @@ Su propia advertencia personal: construyó el caso y luego construyó desde cero
 
 El coach empaqueta la visibilidad en tres ritmos:
 
-1. **Diario — una pregunta por reunión.** Elige entre tres tipos:
+1. **Diario - una pregunta por reunión.** Elige entre tres tipos:
    - Claridad: "¿Cómo se ve el éxito aquí?"
    - Prioridad: "Si solo pudiéramos enfocarnos en una de estas cosas, ¿cuál importa más ahora mismo?"
    - Impacto: "¿A quién más afecta esto?"
-2. **Semanal — el correo de resumen de los viernes.** Envía a tu manager tres viñetas de impacto. Pega los mensajes de Slack y notas de tu semana en una herramienta de IA; toma unos diez minutos. Esta es la materia prima que usan para abogar por ti.
-3. **Trimestral — una relación con un salto de nivel jerárquico construida sobre la utilidad.** (1) Evalúa tu trabajo reciente en busca de impacto medible; (2) identifica qué equipo de un líder senior enfrenta el mismo desafío; (3) contáctalos y ofréceles la solución.
+2. **Semanal - el correo de resumen de los viernes.** Envía a tu manager tres viñetas de impacto. Pega los mensajes de Slack y notas de tu semana en una herramienta de IA; toma unos diez minutos. Esta es la materia prima que usan para abogar por ti.
+3. **Trimestral - una relación con un salto de nivel jerárquico construida sobre la utilidad.** (1) Evalúa tu trabajo reciente en busca de impacto medible; (2) identifica qué equipo de un líder senior enfrenta el mismo desafío; (3) contáctalos y ofréceles la solución.
 
 La historia detrás del paso 3: en el equipo de datos de 500 personas de Shopify, arregló la gestión de proyectos para su equipo, ofreció la solución al VP de ingeniería, fue mencionado en una reunión general de la empresa, y fue incorporado a oportunidades a nivel VP, sin haber pedido nunca que abogaran por él. En el video sobre networking, el mismo episodio se cuenta como una herramienta de IA para gestión de proyectos compartida con ingeniería; un VP le escribió por Slack esa misma noche, trabajaron juntos durante tres días, y el VP más tarde amplió su alcance. "Simplemente hice que mi trabajo fuera imposible de ignorar para él."
 
@@ -63,7 +63,7 @@ El tercer micro-hábito de liderazgo, "haz cosas y cuéntaselo a la gente", es e
 ### Ejemplo trabajado: el correo de los viernes
 
 ```
-Asunto: Semana del [fecha] — tres cosas
+Asunto: Semana del [fecha] - tres cosas
 
 1. [Resultado + número]: Lanzamos el dashboard de abandono (churn); operaciones
    ahora lo ve semanalmente sin extracción manual (ahorra ~4 hrs/semana al equipo).
@@ -97,9 +97,9 @@ La distinción que desbloquea esto para quienes odian autopromocionarse: **presu
 
 | Disparador | Plantilla |
 |---|---|
-| **El equipo** — tras una victoria colectiva | "Estoy muy orgulloso de cómo nuestro equipo manejó el desafío X. Al movernos rápido, logramos el resultado Y. Y quería que el liderazgo supiera que el motor está funcionando." |
-| **El insight** — cuando la victoria es una idea que otros pueden reutilizar | "Hola a todos, gran victoria hoy. Resolvimos el problema X. El insight clave fue Y. Me entusiasma el potencial de expandir nuestro impacto al espacio Z aplicando este insight." |
-| **El colaborador** — compartir el crédito con un contribuyente clave | "Un enorme reconocimiento a [colega] por la ayuda en este proyecto. Acabamos de lanzarlo. Eres un campeón de la colaboración interfuncional, y jugaste un papel clave en asegurar cinco millones de dólares en beneficios." |
+| **El equipo** - tras una victoria colectiva | "Estoy muy orgulloso de cómo nuestro equipo manejó el desafío X. Al movernos rápido, logramos el resultado Y. Y quería que el liderazgo supiera que el motor está funcionando." |
+| **El insight** - cuando la victoria es una idea que otros pueden reutilizar | "Hola a todos, gran victoria hoy. Resolvimos el problema X. El insight clave fue Y. Me entusiasma el potencial de expandir nuestro impacto al espacio Z aplicando este insight." |
+| **El colaborador** - compartir el crédito con un contribuyente clave | "Un enorme reconocimiento a [colega] por la ayuda en este proyecto. Acabamos de lanzarlo. Eres un campeón de la colaboración interfuncional, y jugaste un papel clave en asegurar cinco millones de dólares en beneficios." |
 
 Fíjate en lo que hace cada plantilla: un número real, una persona o equipo nombrado, y tu rol expresado sin disculpas.
 
@@ -111,9 +111,9 @@ Contenido:
 
 1. **Una historia STAR por proyecto**, factual y objetiva (para proteger la confianza).
 2. **Conexión con los valores de la empresa y tus metas de desarrollo** (encaje cultural; preparación para el siguiente nivel).
-3. **Impacto de negocio** — responde: "¿Cómo gana dinero mi empresa? ¿Cómo contribuye mi trabajo a eso?"
-4. **Comprobantes** — capturas de pantalla de mensajes de Slack, correos, informes, código.
-5. **Áreas de desarrollo** — sé honesto, no las minimices, y empareja cada una con una acción concreta que ya esté en marcha: "La comunicación con stakeholders es un área que estoy desarrollando. He empezado a dar actualizaciones diarias en Teams para mantener la alineación."
+3. **Impacto de negocio** - responde: "¿Cómo gana dinero mi empresa? ¿Cómo contribuye mi trabajo a eso?"
+4. **Comprobantes** - capturas de pantalla de mensajes de Slack, correos, informes, código.
+5. **Áreas de desarrollo** - sé honesto, no las minimices, y empareja cada una con una acción concreta que ya esté en marcha: "La comunicación con stakeholders es un área que estoy desarrollando. He empezado a dar actualizaciones diarias en Teams para mantener la alineación."
 
 Si tus logros "simplemente se sintieron como trabajo", recupéralos con el método de tres pasos "RCP de carrera": vuelca en un documento cada proyecto de los últimos 3 a 5 años; califica cada uno de Alto/Medio/Bajo en desafío, validación e impacto; luego piensa como un jefe y tradúcelo a valor de negocio. El ejemplo de reencuadre: de "actualicé la página de aterrizaje del sitio web de la empresa y mi manager quedó contento" a "El lanzamiento de nuestro producto estaba bajo rendimiento. Descubrí que la baja conversión de la página de aterrizaje era la causa raíz. Así que la reconstruí por completo… Elevó la conversión en un uno por ciento, nos ayudó a alcanzar nuestra meta de lanzamiento e impulsó cinco millones de dólares en ingresos incrementales en el primer año."
 
@@ -140,18 +140,18 @@ Influir sin autoridad es difícil porque "estás intercambiando nada por influen
 
 ### Método A: el marco del punto de presión
 
-1. **Identifica el punto de presión** — la única persona que realmente fija la visión que otros siguen.
-2. **Entiende qué quiere** — haz una pregunta abierta sobre *su* propia definición de éxito.
-3. **Ayúdala a conseguirlo** — luego deja que te defienda.
+1. **Identifica el punto de presión** - la única persona que realmente fija la visión que otros siguen.
+2. **Entiende qué quiere** - haz una pregunta abierta sobre *su* propia definición de éxito.
+3. **Ayúdala a conseguirlo** - luego deja que te defienda.
 
 ### Método B: ACT para la idea que nadie escucha
 
 Al principio de su carrera, el coach ensayó diez veces frente al espejo, habló en una reunión de VPs con las manos temblándole sobre sus notas, y obtuvo "silencio… la gente simplemente sigue adelante como si nunca hubiera hablado." Su diagnóstico: ser ignorado es un fracaso de influencia, no de simpatía. "Cuanto más intentas caerle bien a la gente en el trabajo, más te ignoran."
 
 **ACT**
-- **A — Afirma credibilidad con matiz.** Suena confiado pero reconoce honestamente los límites; "cuando lideras con matiz, la gente baja sus defensas." *"Dado el tamaño reducido de la muestra, debo advertir que los resultados no son estadísticamente concluyentes. Dicho esto, estamos viendo una señal direccional fuerte que coincide con las tendencias del trimestre pasado."*
-- **C — Contextualiza con prueba social.** Nadie quiere ser el primero en saltar a la incertidumbre. En lugar de "te prometo que es una gran idea": *"Producto y operaciones han sido early adopters y la retroalimentación ha sido positiva."*
-- **T — Dispara una acción de bajo compromiso.** La primera ley de Newton: los objetos en movimiento permanecen en movimiento. *"¿Puedo agregarte al hilo del borrador para que opines si lo deseas?"*
+- **A - Afirma credibilidad con matiz.** Suena confiado pero reconoce honestamente los límites; "cuando lideras con matiz, la gente baja sus defensas." *"Dado el tamaño reducido de la muestra, debo advertir que los resultados no son estadísticamente concluyentes. Dicho esto, estamos viendo una señal direccional fuerte que coincide con las tendencias del trimestre pasado."*
+- **C - Contextualiza con prueba social.** Nadie quiere ser el primero en saltar a la incertidumbre. En lugar de "te prometo que es una gran idea": *"Producto y operaciones han sido early adopters y la retroalimentación ha sido positiva."*
+- **T - Dispara una acción de bajo compromiso.** La primera ley de Newton: los objetos en movimiento permanecen en movimiento. *"¿Puedo agregarte al hilo del borrador para que opines si lo deseas?"*
 
 La misma jugada de bajo compromiso se prescribe para un manager que evita decisiones: "¿Puedo agregarte al hilo del borrador y etiquetarte para retroalimentación?" supera a "realmente necesito que me apoyes en este proyecto".
 
@@ -163,8 +163,8 @@ El cliente Sam, un trader de materias primas al que "le pagan por tener razón",
 
 Tres pasos:
 
-1. **Sé curioso** — antes de responder, pregunta por qué dijo eso. Sam preguntó: *"¿Por qué el costo es lo más importante ahora mismo?"* y descubrió que el COO estaba protegiendo márgenes y evitando despidos en mercados volátiles; Sam había estado "discutiendo con un hombre que silenciosamente trataba de salvar los empleos de todos".
-2. **Muestra cuidado antes de convencer** — di en voz alta lo que están cargando: *"Vaya, suena como si estuvieras bajo una presión intensa ahora mismo. Quiero asegurarme de que lo que decidamos realmente te ayude con eso."* "El COO no necesitaba que Sam estuviera de acuerdo con él. Necesitaba que Sam lo viera."
+1. **Sé curioso** - antes de responder, pregunta por qué dijo eso. Sam preguntó: *"¿Por qué el costo es lo más importante ahora mismo?"* y descubrió que el COO estaba protegiendo márgenes y evitando despidos en mercados volátiles; Sam había estado "discutiendo con un hombre que silenciosamente trataba de salvar los empleos de todos".
+2. **Muestra cuidado antes de convencer** - di en voz alta lo que están cargando: *"Vaya, suena como si estuvieras bajo una presión intensa ahora mismo. Quiero asegurarme de que lo que decidamos realmente te ayude con eso."* "El COO no necesitaba que Sam estuviera de acuerdo con él. Necesitaba que Sam lo viera."
 3. **Decide: ganar la discusión o ganar la relación.** Sam aceptó la centralización por ahora y planea pilotar un modelo distribuido cuando la empresa se estabilice. El reporte del COO: "algo cambió en mí."
 
 ### Método D: cierra el círculo después de que alguien te ayuda
@@ -211,9 +211,9 @@ Dos versiones de la misma lección:
 
 | Afirmas saber… | Suena como | Cámbialo por |
 |---|---|---|
-| **A las personas** — "No eres detallista." | "Ya decidiste quiénes son": "una de las formas más rápidas de destruir la confianza." Puede que sean tres cosas vistas en un solo entregable en un solo día. | "Cuando falta la actualización diaria al cliente, puede dar la impresión de falta de atención al detalle." (Cuando pasa X, apareces como Y.) |
-| **La verdad** — "Esto está mal", "En realidad", "Esto no va a funcionar." | Percepción dicha como verdad. La pelea del termostato a 22°C: "hace frío" es "un reporte sobre ti". | "Veo de dónde vienes. Esto es lo que yo veo de manera diferente." |
-| **Lo que pasó** — "¿Por qué hiciste eso?", "No deberías." | Interrogatorio; "ya cometiste un error." | "¿Me puedes contar cómo pensaste esto?" |
+| **A las personas** - "No eres detallista." | "Ya decidiste quiénes son": "una de las formas más rápidas de destruir la confianza." Puede que sean tres cosas vistas en un solo entregable en un solo día. | "Cuando falta la actualización diaria al cliente, puede dar la impresión de falta de atención al detalle." (Cuando pasa X, apareces como Y.) |
+| **La verdad** - "Esto está mal", "En realidad", "Esto no va a funcionar." | Percepción dicha como verdad. La pelea del termostato a 22°C: "hace frío" es "un reporte sobre ti". | "Veo de dónde vienes. Esto es lo que yo veo de manera diferente." |
+| **Lo que pasó** - "¿Por qué hiciste eso?", "No deberías." | Interrogatorio; "ya cometiste un error." | "¿Me puedes contar cómo pensaste esto?" |
 
 Una cuarta afirmación es la disculpa reflexiva: una clienta suelta "lo siento" cada vez que su manager suena molesto, asumiendo una responsabilidad que no ha sido establecida. "La precisión no es suavidad… los comunicadores más hábiles… suenan más calibrados."
 
@@ -341,7 +341,7 @@ Después de hacer evaluaciones de desempeño, el coach nombra tres verdades:
 |---|---|---|---|
 | **Patrocinador** | Oportunidad: usa su reputación para abrir puertas. Citando a Sylvia Ann Hewlett: el patrocinio predice la promoción y el crecimiento salarial casi tan fuertemente como las horas trabajadas; solo 1 de cada 5 hombres y 1 de cada 8 mujeres tiene uno. "Los patrocinadores no encuentran gente talentosa. Encuentran gente visible." | Evalúa el trabajo reciente → pregunta cómo podría beneficiarse el equipo del objetivo → contáctalo (o a través de su asistente ejecutivo). | "Hola, mi equipo acaba de resolver X. Creo que tu equipo podría estar lidiando con algo similar. ¿Estarías abierto a una charla rápida para compartir lo que funcionó?" |
 | **Informante** | Información. El día antes del despido del 20% en Shopify, un par director preguntó si el SVP se había quedado callado; al coach lo habían incluido en una reunión; el colega fue despedido al día siguiente. "La suerte no es una estrategia. La información sí." La confianza debe ser bidireccional. | Pregunta quién tiene visibilidad que a ti te falta y quién ha sido generoso → agenda tiempo con una pregunta específica y algo que ofrecer. | "Hola, estoy navegando esta situación ahora mismo y sé que has pasado por algo similar. Me encantaría veinte minutos de tu tiempo. También tengo algunas cosas que me gustaría compartir contigo que creo te serán útiles." |
-| **Mentoreado(a)** | Reputación. Los inmigrantes "rara vez obtienen el título de liderazgo hasta que ya han demostrado que pueden hacer el trabajo." Mentorear construye reputación de liderazgo antes del título, y una base de aliados; "yo ya había hecho el trabajo mucho antes de tener el puesto." | Ofrécete como compañero de incorporación, revisor de pares, o caja de resonancia. | — |
+| **Mentoreado(a)** | Reputación. Los inmigrantes "rara vez obtienen el título de liderazgo hasta que ya han demostrado que pueden hacer el trabajo." Mentorear construye reputación de liderazgo antes del título, y una base de aliados; "yo ya había hecho el trabajo mucho antes de tener el puesto." | Ofrécete como compañero de incorporación, revisor de pares, o caja de resonancia. | - |
 
 ### Construye poder fuera de la órbita de tu jefe
 
@@ -400,7 +400,7 @@ No tienes que jugar el juego del extrovertido. "No necesito ser ruidoso para lid
 
 ![Ruta de decisión para un ascenso: identificar a quien decide, reunir pruebas y hacerlas visibles](/assets/career/day-day-up-playbook/chapter-8/02-framework-promotion-decision-path.png)
 
-### Parte A — tu KPI cambió
+### Parte A - tu KPI cambió
 
 "Si te sientes estancado, no significa que hayas fallado. Significa que tu KPI cambió." Las fortalezas que te trajeron a este puesto empiezan a jugar en tu contra en el siguiente nivel.
 
@@ -409,13 +409,13 @@ No tienes que jugar el juego del extrovertido. "No necesito ser ruidoso para lid
 | **IC junior** | Confiabilidad: "si tu jefe se siente más seguro dándote trabajo a ti que a tus compañeros, estás creciendo." | Nunca te pierdas una fecha límite (vence el viernes → envíalo el jueves). Actualiza antes de que te pregunten: "oye, actualización rápida, el borrador está 80% listo, seguimos a tiempo para mañana." Está disponible en menos de una hora para mensajes urgentes durante el horario laboral: "la mejor habilidad es la disponibilidad." (El "mono de Excel" de la startup fue promovido por ser "mi cerrador de confianza detrás de bambalinas.") |
 | **IC senior** | Propiedad (ownership): absorbe complejidad de tu jefe. "Todos son confiables. Los managers buscan apalancamiento." | Aclara el éxito en una sola frase desde el inicio. Pregunta "si solo tuviera cinco horas esta semana, ¿qué haría?": "los managers promueven a quienes mueven piedras grandes, no a quienes cargan perfectamente piedras pequeñas." Di que no estratégicamente sin dañar la relación. |
 | **Manager de personas** | Desempeño del equipo: "lo que tu equipo entrega sin ti." | Resuelve el dolor recurrente a nivel de sistema (SOP, rediseño de flujo, capacitación) en lugar del modo héroe. Delega resultados, no tareas: "confío en que seas dueño de X. El éxito se ve como Y. Vence el Z. Planifiquémoslo juntos y te dejaré llevar el cómo." Vuélvete intencionalmente innecesario: "si no puedes tomarte una semana libre sin que se genere caos…" |
-| **Director** | Desempeño organizacional: desarrollar organizaciones, no individuos. | — |
+| **Director** | Desempeño organizacional: desarrollar organizaciones, no individuos. | - |
 
 La historia a nivel manager: con diez directos, permaneció en modo IC, pasó el primer día de unas vacaciones encorvado sobre una laptop en un hotel, y se dio cuenta de que "yo era el cuello de botella." Un reporte sólido que había estado pidiendo autoridad "lo hizo increíble" una vez que se le dio espacio. La trampa del IC senior: "eres realmente bueno en esta cosa específica" suena como un cumplido pero significa que estás estancado; redoblar en la habilidad de dominio no te hará avanzar. Y el aforismo: "si eres irremplazable, entonces eres impromovible."
 
 Decir que no es en sí mismo una señal de liderazgo. Una entrevista final para un puesto de director terminó con "el equipo te encontró un poco demasiado complaciente." Construye un saldo de banco relacional con tu manager (el valor real entregado son depósitos), y luego gástalo con el sándwich: reconoce su presión → declina anclado en *su* prioridad principal → ofrece un camino (delegar / despriorizar / posponer): *"sé que el lanzamiento del producto es tu prioridad principal ahora mismo… si tomo este proyecto de reportes esta semana, no podré darle al lanzamiento mi atención completa… ¿podríamos revisar este proyecto en dos semanas cuando la prioridad Y esté cerrada?"*
 
-### Parte B — tres confesiones de un manager
+### Parte B - tres confesiones de un manager
 
 La promoción es una caja negra incluso para tu manager:
 
@@ -432,7 +432,7 @@ La promoción es una caja negra incluso para tu manager:
 
 Su confesión final: los ambiciosos que pedían directamente "siempre iban a estar bien"; los trabajadores más duros y silenciosos que esperaban ser notados eran los que lo mantenían despierto por las noches.
 
-### Parte C — convertir el "no" en "todavía no", y marcar tu propio ritmo
+### Parte C - convertir el "no" en "todavía no", y marcar tu propio ritmo
 
 En la evaluación, el salario y la promoción no se pueden negociar, pero las expectativas sí. Plantéalo: *"Al liderar tres proyectos interfuncionales, he desarrollado y demostrado las habilidades necesarias para un rol formal de analista senior. ¿Podríamos discutir qué pasos se necesitan para hacer esa transición?"* Si la respuesta es "todavía no": *"lo entiendo. Entonces, ¿podríamos documentar metas medibles en su lugar, para que sepa exactamente qué lograr antes de revisar esto el próximo mes?"*: "así es como conviertes un no en un todavía no." Pregunta: "¿cómo se vería superar las expectativas en los próximos 6 a 12 meses?" / "¿qué habilidades, si las elevo de nivel, me harían promovible?"
 

@@ -25,7 +25,7 @@ When invited to register, students complete financial tasks in the my.tcd.ie por
 
 For 2026/27, the session described a three-instalment arrangement: an initial 50% of tuition plus relevant levies, followed by two 25% tuition instalments. Those percentages and dates are historical source facts, not standing rules.
 
-## Sponsorship changes who is invoiced—not ultimate responsibility
+## Sponsorship changes who is invoiced-not ultimate responsibility
 
 A public body, employer, scholarship provider, US loan, or private sponsor may cover some or all fees. The student must submit the required evidence during registration so Student Finance can transfer the appropriate liability to the sponsor.
 
@@ -41,13 +41,13 @@ Always include the eight-digit Trinity student number in payments and enquiries.
 
 ## Enquiries and unresolved registration
 
-Many questions—payment methods, instalments, sponsorship, SUSI, refunds, and federal aid—are covered on the Student Finance website. If the published material does not resolve the case, submit an Academic Registry/Student Finance enquiry and include the student number plus relevant documentation. The service desk can help where a finance or registration problem blocks access to the student account or timetable.
+Many questions-payment methods, instalments, sponsorship, SUSI, refunds, and federal aid-are covered on the Student Finance website. If the published material does not resolve the case, submit an Academic Registry/Student Finance enquiry and include the student number plus relevant documentation. The service desk can help where a finance or registration problem blocks access to the student account or timetable.
 
 Students facing affordability difficulties can also seek advice from relevant student-support routes; this is separate from assuming that Student Finance can create an individual payment plan.
 
 ## US federal and private aid
 
-US federal-aid eligibility is determined under US rules and requires the relevant federal application and identity requirements. Trinity administers eligible funding but does not decide federal eligibility. Programme restrictions can apply—for example to non-degree study abroad, certificates or diplomas, online provision, nursing outside the US, or certain joint arrangements—and can change.
+US federal-aid eligibility is determined under US rules and requires the relevant federal application and identity requirements. Trinity administers eligible funding but does not decide federal eligibility. Programme restrictions can apply-for example to non-degree study abroad, certificates or diplomas, online provision, nursing outside the US, or certain joint arrangements-and can change.
 
 Private loans may be available where federal aid is unavailable, but terms differ. Students should use the current Trinity federal-aid pages, confirm programme eligibility, submit documents early, and review the cost-of-attendance calculation and disbursement timetable.
 

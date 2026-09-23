@@ -1,13 +1,13 @@
 ---
-title: Capítulo 4 — Dinámica de la entrevista y seguimiento
+title: Capítulo 4 - Dinámica de la entrevista y seguimiento
 description: Usa la conversación para aprender qué importa, mostrar cómo trabajas y dejar claros los próximos pasos.
 date: 2026-09-23
-source_title: Chapter 4 — Interview Dynamics & Follow-up
+source_title: Chapter 4 - Interview Dynamics & Follow-up
 tags: [career, job-search]
 ---
-# Capítulo 4 — Dinámica de la entrevista y seguimiento
+# Capítulo 4 - Dinámica de la entrevista y seguimiento
 
-> **Título original:** Chapter 4 — Interview Dynamics & Follow-up
+> **Título original:** Chapter 4 - Interview Dynamics & Follow-up
 >
 > **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los videos de asesoría profesional de Jonathan Lee
 

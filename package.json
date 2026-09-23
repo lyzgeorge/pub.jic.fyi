@@ -9,6 +9,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
+    "markdown-it-cjk-friendly": "^3.0.0",
     "vitepress": "latest"
   }
 }

@@ -1,13 +1,13 @@
 ---
-title: Capítulo 8 — Influencia, conflicto y promoción
+title: Capítulo 8 - Influencia, conflicto y promoción
 description: Conecta tu trabajo con las prioridades del negocio, ayuda a otros a actuar y haz visible la evidencia de tu impacto ante quienes la necesitan ver.
 date: 2026-09-23
-source_title: Chapter 8 — Influence, Conflict & Promotion
+source_title: Chapter 8 - Influence, Conflict & Promotion
 tags: [career, workplace, promotion]
 ---
-# Capítulo 8 — Influencia, conflicto y promoción
+# Capítulo 8 - Influencia, conflicto y promoción
 
-> **Título original:** Chapter 8 — Influence, Conflict & Promotion
+> **Título original:** Chapter 8 - Influence, Conflict & Promotion
 >
 > **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los videos de asesoría profesional de Jonathan Lee
 

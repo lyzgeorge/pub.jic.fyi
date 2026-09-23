@@ -82,7 +82,7 @@ Five habits underpin successful progression:
 
 ## When the journey becomes difficult
 
-Setbacks may be academic, supervisory, administrative, financial, health-related, or personal. Early communication preserves more options. Formal requests—such as going off books—normally proceed through the course director for taught students or the supervisor for researchers. If the first contact cannot resolve the matter, the Director of Postgraduate Teaching and Learning is a further School-level route.
+Setbacks may be academic, supervisory, administrative, financial, health-related, or personal. Early communication preserves more options. Formal requests-such as going off books-normally proceed through the course director for taught students or the supervisor for researchers. If the first contact cannot resolve the matter, the Director of Postgraduate Teaching and Learning is a further School-level route.
 
 The Postgraduate Advisory Support Service and Students’ Union can help students understand options independently. Asking for help is part of managing a postgraduate programme, not evidence that a student does not belong.
 

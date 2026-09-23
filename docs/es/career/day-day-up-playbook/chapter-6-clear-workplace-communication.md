@@ -1,13 +1,13 @@
 ---
-title: Capítulo 6 — Comunicación clara en el trabajo
+title: Capítulo 6 - Comunicación clara en el trabajo
 description: Optimiza para la comprensión y una respuesta útil. Un lenguaje simple, un punto claro y una petición específica importan más que una redacción elaborada.
 date: 2026-09-23
-source_title: Chapter 6 — Clear Workplace Communication
+source_title: Chapter 6 - Clear Workplace Communication
 tags: [career, workplace, communication]
 ---
-# Capítulo 6 — Comunicación clara en el trabajo
+# Capítulo 6 - Comunicación clara en el trabajo
 
-> **Título original:** Chapter 6 — Clear Workplace Communication
+> **Título original:** Chapter 6 - Clear Workplace Communication
 >
 > **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los videos de asesoría profesional de Jonathan Lee
 

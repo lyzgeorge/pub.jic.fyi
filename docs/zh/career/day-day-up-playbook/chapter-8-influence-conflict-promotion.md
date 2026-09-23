@@ -1,13 +1,13 @@
 ---
-title: 第八章 — 影响力、冲突与晋升
+title: 第八章 - 影响力、冲突与晋升
 description: 把你的工作与业务优先事项联系起来，帮助他人采取行动，并让能证明你影响力的证据被真正需要看到它的人看到。
 date: 2026-09-23
-source_title: Chapter 8 — Influence, Conflict & Promotion
+source_title: Chapter 8 - Influence, Conflict & Promotion
 tags: [career, workplace, promotion]
 ---
-# 第八章 — 影响力、冲突与晋升
+# 第八章 - 影响力、冲突与晋升
 
-> **原文标题：** Chapter 8 — Influence, Conflict & Promotion
+> **原文标题：** Chapter 8 - Influence, Conflict & Promotion
 >
 > **来源：** 摘译自基于 Jonathan Lee 职业辅导视频整理的《The Day Day Up Career Playbook》精简版
 
@@ -120,4 +120,4 @@ tags: [career, workplace, promotion]
 
 持续投入与业务优先事项相关的工作。不要为了晋升而生造出一些没有任何决策者真正看重的"副业项目"。如果尽管证据充分、也反复沟通过，晋升路径依然含糊不清，那就该去比较外部的机会，而不是无限期地等待下去。
 
-**每周的关注重点：** 确定你最重要的一个产出目标，跑一个小的"学习—调整"循环，并沟通清楚发生了哪些变化。做得更多，并不自动等于影响力更大。
+**每周的关注重点：** 确定你最重要的一个产出目标，跑一个小的"学习-调整"循环，并沟通清楚发生了哪些变化。做得更多，并不自动等于影响力更大。

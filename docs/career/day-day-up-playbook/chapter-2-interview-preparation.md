@@ -1,10 +1,10 @@
 ---
-title: Chapter 2 — Interview Preparation
+title: Chapter 2 - Interview Preparation
 description: Turn a job description into a prep brief, build a lean story bank, and prioritize prep time.
 date: 2026-09-23
 tags: [career, job-search]
 ---
-# Chapter 2 — Interview Preparation
+# Chapter 2 - Interview Preparation
 
 > **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on Jonathan Lee's career-coaching videos.
 

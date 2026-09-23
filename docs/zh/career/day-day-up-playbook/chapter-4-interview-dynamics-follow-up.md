@@ -1,13 +1,13 @@
 ---
-title: 第四章 — 面试互动与后续跟进
+title: 第四章 - 面试互动与后续跟进
 description: 利用面试对话了解真正重要的事情，展示你的工作方式，并明确下一步安排。
 date: 2026-09-23
-source_title: Chapter 4 — Interview Dynamics & Follow-up
+source_title: Chapter 4 - Interview Dynamics & Follow-up
 tags: [career, job-search]
 ---
-# 第四章 — 面试互动与后续跟进
+# 第四章 - 面试互动与后续跟进
 
-> **原文标题：** Chapter 4 — Interview Dynamics & Follow-up
+> **原文标题：** Chapter 4 - Interview Dynamics & Follow-up
 >
 > **来源：** 摘译自基于 Jonathan Lee 职业辅导视频整理的《The Day Day Up Career Playbook》精简版
 

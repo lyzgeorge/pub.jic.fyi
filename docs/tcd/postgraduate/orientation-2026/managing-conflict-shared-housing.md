@@ -62,7 +62,7 @@ Expectations should be realistic and revisable. A rule that seemed acceptable be
 
 Common problems include different standards of cleanliness, food being taken, incompatible sleeping or study patterns, noise, smoking or substance use, unequal use of communal space, money, and a partner effectively becoming an additional resident.
 
-Many disputes arise from unspoken assumptions. Communicating a need—such as quiet after 22:00—gives others something concrete to act on. Asking before a party is also different from apologising afterwards: advance notice allows a flatmate with an exam or other need to object or negotiate.
+Many disputes arise from unspoken assumptions. Communicating a need-such as quiet after 22:00-gives others something concrete to act on. Asking before a party is also different from apologising afterwards: advance notice allows a flatmate with an exam or other need to object or negotiate.
 
 Financial arrangements deserve particular precision in private accommodation. Residents may pay a landlord separately, appoint a reliable lead tenant, or assign different bills to different people. Whatever the arrangement, record due dates and ensure the person whose account is charged receives everyone’s contribution in time.
 
@@ -105,7 +105,7 @@ The choice of style can vary by issue. The practical test is whether the respons
 
 Switching off lights, unplugging unused appliances, and putting devices to sleep reduces electricity costs as well as energy use. These practices can be included in the same shared agreement as other household responsibilities.
 
-If a situation goes beyond ordinary differences—particularly when behaviour is unsafe, severely unreasonable, or cannot be managed through a house discussion—the session recommends contacting the Students’ Union welfare officer for advice and support.
+If a situation goes beyond ordinary differences-particularly when behaviour is unsafe, severely unreasonable, or cannot be managed through a house discussion-the session recommends contacting the Students’ Union welfare officer for advice and support.
 
 ## Practical checklist
 

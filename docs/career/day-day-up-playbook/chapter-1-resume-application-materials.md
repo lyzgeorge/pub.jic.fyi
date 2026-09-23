@@ -1,10 +1,10 @@
 ---
-title: Chapter 1 — Resume & Application Materials
+title: Chapter 1 - Resume & Application Materials
 description: Write impact bullets, close experience gaps, and reach hiring managers through four channels.
 date: 2026-09-23
 tags: [career, job-search]
 ---
-# Chapter 1 — Resume & Application Materials
+# Chapter 1 - Resume & Application Materials
 
 > **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on Jonathan Lee's career-coaching videos.
 
@@ -51,7 +51,7 @@ Use a relevant side project, freelance assignment, or company-designed simulatio
 
 **Resume pattern:**
 
-> [Program name] — Job simulation: used [tools] to analyze [problem] and produced [deliverable].
+> [Program name] - Job simulation: used [tools] to analyze [problem] and produced [deliverable].
 
 A recognizable brand is secondary to being able to explain what you actually did.
 

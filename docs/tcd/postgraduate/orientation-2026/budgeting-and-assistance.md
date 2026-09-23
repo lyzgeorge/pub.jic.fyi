@@ -23,7 +23,7 @@ A budget is a plan for allocating limited income across essential, discretionary
 
 Start with predictable income and fixed obligations, then estimate variable essentials, study costs, discretionary spending, annual or one-off expenses, and an emergency margin. Use bank statements rather than memory. Convert infrequent costs into monthly amounts so that insurance, travel, deposits, replacement devices, or professional fees do not appear as surprises.
 
-Distinguishing needs from wants is useful only when it supports priorities. It should not become moral judgement or remove every source of enjoyment. **Crash budgeting**—an extreme short-term restriction that cannot be sustained—often produces rebound spending, shame, and avoidance. A workable plan leaves modest flexibility and is revised when assumptions prove wrong.
+Distinguishing needs from wants is useful only when it supports priorities. It should not become moral judgement or remove every source of enjoyment. **Crash budgeting**-an extreme short-term restriction that cannot be sustained-often produces rebound spending, shame, and avoidance. A workable plan leaves modest flexibility and is revised when assumptions prove wrong.
 
 ![Slide linking to free MABS guidance and a Senior Tutor budget tool](/assets/tcd/postgraduate/orientation-2026/budgeting-student-assistance/budget-tools.jpg)
 

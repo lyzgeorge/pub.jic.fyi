@@ -63,7 +63,7 @@ College Health provides healthcare and can advise on sexual health, contraceptio
 
 ## Personal wellbeing plan
 
-1. Identify the conditions—not only behaviours—that affect your health.
+1. Identify the conditions-not only behaviours-that affect your health.
 2. Choose food, sleep, movement, and study routines that remain possible during busy weeks.
 3. Schedule recurring social contact and recovery time.
 4. Register with or locate health services before urgently needing them.

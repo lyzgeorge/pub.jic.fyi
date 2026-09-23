@@ -1,13 +1,13 @@
 ---
-title: Capítulo 9 — Estrategia de carrera y mentalidad
+title: Capítulo 9 - Estrategia de carrera y mentalidad
 description: Elige una dirección que puedas sostener, reúne evidencia mediante la acción y distingue los problemas que puedes mejorar de los entornos que quizás debas dejar.
 date: 2026-09-23
-source_title: Chapter 9 — Career Strategy & Mindset
+source_title: Chapter 9 - Career Strategy & Mindset
 tags: [career, mindset]
 ---
-# Capítulo 9 — Estrategia de carrera y mentalidad
+# Capítulo 9 - Estrategia de carrera y mentalidad
 
-> **Título original:** Chapter 9 — Career Strategy & Mindset
+> **Título original:** Chapter 9 - Career Strategy & Mindset
 >
 > **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los videos de asesoría profesional de Jonathan Lee
 
@@ -77,7 +77,7 @@ Cambia una sola variable a la vez cuando sea posible. Esto hace que el movimient
 
 ## 9.5 Marca tu propio ritmo y sabe cuándo irte
 
-El coach recomienda entrevistarse periódicamente fuera de la empresa —aproximadamente cada dos años en su propia práctica— para probar tu valor de mercado y evitar que una sola empresa marque todo tu ritmo profesional. Usa una cadencia apropiada para tu situación, no un calendario automático de renuncia.
+El coach recomienda entrevistarse periódicamente fuera de la empresa -aproximadamente cada dos años en su propia práctica- para probar tu valor de mercado y evitar que una sola empresa marque todo tu ritmo profesional. Usa una cadencia apropiada para tu situación, no un calendario automático de renuncia.
 
 Al decidir si quedarte, considera:
 
@@ -89,7 +89,7 @@ Al decidir si quedarte, considera:
 
 La pregunta útil es **"¿Qué me está haciendo quedarme?"**. Combínala con **"¿Qué requeriría irme?"**. Un mal mes y un puesto persistentemente dañino requieren respuestas distintas.
 
-Si el valor del puesto no está claro, pregunta cómo contribuye y cómo debería verse el éxito. La pregunta más directa del coach sobre reemplazo —"Si me fuera, ¿reemplazarían este puesto?"— puede revelar inquietudes, pero úsala consciente de la conversación que puede desencadenar.
+Si el valor del puesto no está claro, pregunta cómo contribuye y cómo debería verse el éxito. La pregunta más directa del coach sobre reemplazo -"Si me fuera, ¿reemplazarían este puesto?"- puede revelar inquietudes, pero úsala consciente de la conversación que puede desencadenar.
 
 ## 9.6 Encuentra dirección a través del trabajo, no solo de etiquetas
 
@@ -120,6 +120,6 @@ Elige el nivel adecuado para tu puesto. Explica el problema, tu uso de la IA, la
 
 La prueba de riesgo del coach es útil: **Si esto sale mal, ¿qué tan grave sería?** Los borradores rutinarios pueden necesitar una revisión ligera; las decisiones consecuentes necesitan una verificación más sólida y criterio humano. La confidencialidad sigue importando incluso cuando la tarea parece de bajo riesgo.
 
-Construye sobre las capacidades que otros ya valoran en ti —criterio, contexto de dominio, relaciones, comunicación— y usa la IA para liberar tiempo o mejorar esas capacidades. Para la escritura y la preparación de entrevistas, conserva la propiedad del mensaje y verifica el resultado.
+Construye sobre las capacidades que otros ya valoran en ti -criterio, contexto de dominio, relaciones, comunicación- y usa la IA para liberar tiempo o mejorar esas capacidades. Para la escritura y la preparación de entrevistas, conserva la propiedad del mensaje y verifica el resultado.
 
 **Estándar para una decisión de carrera:** Puedes explicar qué estás persiguiendo, por qué encaja contigo, qué te cuesta, qué evidencia lo respalda y qué te haría reconsiderarlo.

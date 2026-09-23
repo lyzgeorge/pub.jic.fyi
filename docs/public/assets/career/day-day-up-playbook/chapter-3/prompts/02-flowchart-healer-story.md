@@ -7,7 +7,7 @@ language: en
 
 TITLE: HEALER interview story
 LAYOUT: Six rounded step cards in one flowing left-to-right sequence; if needed, use two rows of three with one continuous arrow path. Put each large acronym letter beside its word.
-STEPS: H “Hook” — achievement opening; E “Emergency” — stakes; A “Approach” — reasoning; L “Launch” — actions; E “Effect” — measured result; R “Reflection” — lesson for this role.
+STEPS: H “Hook” - achievement opening; E “Emergency” - stakes; A “Approach” - reasoning; L “Launch” - actions; E “Effect” - measured result; R “Reflection” - lesson for this role.
 CONNECTIONS: Clear arrows H → E → A → L → E → R. Give “Emergency” and “Approach” enough space to distinguish problem from decision.
 LABELS: “H Hook”, “E Emergency”, “A Approach”, “L Launch”, “E Effect”, “R Reflection”; optional tiny descriptors only if legible.
 

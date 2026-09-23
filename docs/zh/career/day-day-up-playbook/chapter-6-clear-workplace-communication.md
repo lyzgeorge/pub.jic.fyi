@@ -1,13 +1,13 @@
 ---
-title: 第六章 — 清晰的职场沟通
+title: 第六章 - 清晰的职场沟通
 description: 以让对方理解并做出有效回应为目标。简单的语言、明确的重点和具体的诉求，比华丽的措辞更重要。
 date: 2026-09-23
-source_title: Chapter 6 — Clear Workplace Communication
+source_title: Chapter 6 - Clear Workplace Communication
 tags: [career, workplace, communication]
 ---
-# 第六章 — 清晰的职场沟通
+# 第六章 - 清晰的职场沟通
 
-> **原文标题：** Chapter 6 — Clear Workplace Communication
+> **原文标题：** Chapter 6 - Clear Workplace Communication
 >
 > **来源：** 摘译自基于 Jonathan Lee 职业辅导视频整理的《The Day Day Up Career Playbook》精简版
 

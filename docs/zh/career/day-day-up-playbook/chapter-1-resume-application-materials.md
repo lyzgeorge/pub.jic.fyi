@@ -1,13 +1,13 @@
 ---
-title: 第一章 — 简历与求职材料
+title: 第一章 - 简历与求职材料
 description: 让招聘方一眼看到你的相关价值，并通过多条渠道触达真正的决策者。
 date: 2026-09-23
-source_title: Chapter 1 — Resume & Application Materials
+source_title: Chapter 1 - Resume & Application Materials
 tags: [career, job-search]
 ---
-# 第一章 — 简历与求职材料
+# 第一章 - 简历与求职材料
 
-> **原文标题：** Chapter 1 — Resume & Application Materials
+> **原文标题：** Chapter 1 - Resume & Application Materials
 >
 > **来源：** 摘译自基于 Jonathan Lee 职业辅导视频整理的《The Day Day Up Career Playbook》精简版
 
@@ -54,7 +54,7 @@ tags: [career, job-search]
 
 **简历写法示例：**
 
-> [项目名称] — 职业模拟项目：使用[工具]分析[问题]，并产出[交付物]。
+> [项目名称] - 职业模拟项目：使用[工具]分析[问题]，并产出[交付物]。
 
 一个知名品牌固然加分，但能否解释清楚你实际做了什么，才是更重要的。
 

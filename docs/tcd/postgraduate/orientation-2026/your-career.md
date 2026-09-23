@@ -16,7 +16,7 @@ tags: [trinity-college-dublin, careers, employability, postgraduate]
 >
 > **Source:** [Panopto recording](https://tcd.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=05de32b6-ba3c-4729-bb82-b4b700ebf9da)
 
-Career development is an iterative process of understanding yourself, exploring options, building skills, creating relationships and opportunities, and choosing a workable balance between career and life. Trinity supports students at different stages—from having no fixed plan to targeting a defined profession—and remains available to recent graduates for one year after graduation.
+Career development is an iterative process of understanding yourself, exploring options, building skills, creating relationships and opportunities, and choosing a workable balance between career and life. Trinity supports students at different stages-from having no fixed plan to targeting a defined profession-and remains available to recent graduates for one year after graduation.
 
 ![Map My Future career-development framework](/assets/tcd/postgraduate/orientation-2026/your-career/map-my-future.jpg)
 
@@ -42,7 +42,7 @@ PhD candidates can take or audit 5- and 10-ECTS career-development modules. Both
 
 ## Trinity Career Skills Award
 
-The award turns activity outside the curriculum into evidence of employability. It recognises current and previous experience—such as volunteering, caring, part-time work, societies, teaching, projects and mentoring—when students identify the transferable skills gained.
+The award turns activity outside the curriculum into evidence of employability. It recognises current and previous experience-such as volunteering, caring, part-time work, societies, teaching, projects and mentoring-when students identify the transferable skills gained.
 
 ![Three components of the Trinity Career Skills Award](/assets/tcd/postgraduate/orientation-2026/your-career/career-skills-award-components.jpg)
 

@@ -18,12 +18,12 @@ Esta serie está adaptada de la edición concisa en inglés de *The Day Day Up C
 
 ## Índice
 
-- [Capítulo 1 — Currículum y materiales de postulación](./chapter-1-resume-application-materials.md) — Escribe viñetas de impacto, aborda brechas de experiencia y llega a los reclutadores por cuatro canales.
-- [Capítulo 2 — Preparación para la entrevista](./chapter-2-interview-preparation.md) — Convierte la descripción del puesto en un resumen de preparación, construye un banco de historias conciso y prioriza según el tiempo disponible.
-- [Capítulo 3 — Cómo responder preguntas de entrevista](./chapter-3-answering-interview-questions.md) — Elige la estructura según el tipo de pregunta, narra historias con el marco HEALER y maneja preguntas sobre debilidades o falta de experiencia.
-- [Capítulo 4 — Dinámica de la entrevista y seguimiento](./chapter-4-interview-dynamics-follow-up.md) — Ajusta tu estrategia según la ronda de entrevista, haz preguntas reveladoras y da seguimiento con contenido específico.
-- [Capítulo 5 — Ofertas, salario y decisiones de carrera](./chapter-5-offers-salary-career-decisions.md) — Negocia antes de aceptar, lee la oferta completa y compara opciones según tus propias prioridades.
-- [Capítulo 6 — Comunicación clara en el trabajo](./chapter-6-clear-workplace-communication.md) — Usa el "método de la tijera" para priorizar el mensaje, elige la estructura adecuada y deja claros los compromisos.
-- [Capítulo 7 — Cómo gestionar a tu jefe](./chapter-7-managing-your-boss.md) — Convierte las reuniones uno a uno en alineación real, escala riesgos a tiempo y mantén evidencia para tu evaluación de desempeño.
-- [Capítulo 8 — Influencia, conflicto y promoción](./chapter-8-influence-conflict-promotion.md) — Haz visible el trabajo de valor, impulsa propuestas con el marco ACT y convierte la promoción en una conversación concreta.
-- [Capítulo 9 — Estrategia de carrera y mentalidad](./chapter-9-career-strategy-mindset.md) — Sopesa recompensas y costos, construye confianza a partir de evidencia y distingue problemas de habilidad, entorno y mercado.
+- [Capítulo 1 - Currículum y materiales de postulación](./chapter-1-resume-application-materials.md) - Escribe viñetas de impacto, aborda brechas de experiencia y llega a los reclutadores por cuatro canales.
+- [Capítulo 2 - Preparación para la entrevista](./chapter-2-interview-preparation.md) - Convierte la descripción del puesto en un resumen de preparación, construye un banco de historias conciso y prioriza según el tiempo disponible.
+- [Capítulo 3 - Cómo responder preguntas de entrevista](./chapter-3-answering-interview-questions.md) - Elige la estructura según el tipo de pregunta, narra historias con el marco HEALER y maneja preguntas sobre debilidades o falta de experiencia.
+- [Capítulo 4 - Dinámica de la entrevista y seguimiento](./chapter-4-interview-dynamics-follow-up.md) - Ajusta tu estrategia según la ronda de entrevista, haz preguntas reveladoras y da seguimiento con contenido específico.
+- [Capítulo 5 - Ofertas, salario y decisiones de carrera](./chapter-5-offers-salary-career-decisions.md) - Negocia antes de aceptar, lee la oferta completa y compara opciones según tus propias prioridades.
+- [Capítulo 6 - Comunicación clara en el trabajo](./chapter-6-clear-workplace-communication.md) - Usa el "método de la tijera" para priorizar el mensaje, elige la estructura adecuada y deja claros los compromisos.
+- [Capítulo 7 - Cómo gestionar a tu jefe](./chapter-7-managing-your-boss.md) - Convierte las reuniones uno a uno en alineación real, escala riesgos a tiempo y mantén evidencia para tu evaluación de desempeño.
+- [Capítulo 8 - Influencia, conflicto y promoción](./chapter-8-influence-conflict-promotion.md) - Haz visible el trabajo de valor, impulsa propuestas con el marco ACT y convierte la promoción en una conversación concreta.
+- [Capítulo 9 - Estrategia de carrera y mentalidad](./chapter-9-career-strategy-mindset.md) - Sopesa recompensas y costos, construye confianza a partir de evidencia y distingue problemas de habilidad, entorno y mercado.

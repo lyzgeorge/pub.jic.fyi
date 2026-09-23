@@ -17,7 +17,7 @@ tags: [trinity-college-dublin, resilience, mental-health, coping-skills, postgra
 >
 > **Source:** [Panopto recording](https://tcd.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c7d8061d-bd84-4a23-b28a-b4b700eb9aa2)
 
-Resilience is not the absence of distress. It is the capacity to notice stress responses, remain connected with needs and values, recover flexibility, and use support when self-management is not enough. Psychological wellness includes meaningful work, close relationships, play, and the ability to tolerate emotional pain—not constant happiness.
+Resilience is not the absence of distress. It is the capacity to notice stress responses, remain connected with needs and values, recover flexibility, and use support when self-management is not enough. Psychological wellness includes meaningful work, close relationships, play, and the ability to tolerate emotional pain-not constant happiness.
 
 ## Why distress can narrow capacity
 
@@ -81,7 +81,7 @@ A three-step practice is to notice the exact words of self-criticism, deliberate
 - What state am I in: within my workable range, activated above it, or shut down below it?
 - What feeling or need requires acknowledgement?
 - Am I treating a thought as a fact?
-- Which small action—breathing, movement, food, rest, connection, perspective, or a boundary—could restore flexibility?
+- Which small action-breathing, movement, food, rest, connection, perspective, or a boundary-could restore flexibility?
 - Is my inner voice helping me learn, or only punishing me?
 - Do I need professional, academic, medical, or emergency support rather than another self-help technique?
 
