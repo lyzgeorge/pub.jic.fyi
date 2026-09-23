@@ -10,6 +10,9 @@ tags: [career, job-search]
 
 Preparation should produce a clear case for your fit and a small bank of evidence you can adapt. It should not produce a script for every possible question.
 
+
+
+![Three questions behind an interview evaluation](/assets/career/day-day-up-playbook/chapter-2/01-framework-three-interview-questions.png)
 ## 2.1 Prepare for the real evaluation
 
 Across the corpus, interviewers ask variations of three questions:
@@ -54,6 +57,9 @@ When appropriate, ask someone who previously did the job about expectations and 
 
 Record what you learn and change your preparation accordingly. A request for insight is useful only if the answer affects your choices.
 
+
+
+![Story bank matrix matching examples to competencies](/assets/career/day-day-up-playbook/chapter-2/02-framework-story-bank-matrix.png)
 ## 2.4 Build a small story bank
 
 Start with three strong achievements. Add another only when an important competency remains uncovered.

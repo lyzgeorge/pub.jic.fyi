@@ -10,6 +10,9 @@ tags: [career, job-search]
 
 Make your relevant value easy to find, then use several routes to reach the people hiring.
 
+
+
+![Impact bullet: turn a duty into measurable business impact](/assets/career/day-day-up-playbook/chapter-1/01-comparison-impact-bullet.png)
 ## 1.1 Write impact bullets
 
 A responsibility says what the job involved. An impact bullet explains what changed because of your work.
@@ -67,6 +70,9 @@ The coach’s “one-third match” rule is encouragement against self-rejection
 
 **Example:** An accountant moving from banking into technology can retain the accounting role while learning the industry. A move into both a new industry and a new function needs more evidence of transferable skills.
 
+
+
+![Four job-search channels that lead to conversations](/assets/career/day-day-up-playbook/chapter-1/02-framework-search-channels.png)
 ## 1.5 Use four search channels
 
 | Channel | Action | What makes it useful |

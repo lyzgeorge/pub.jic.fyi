@@ -210,7 +210,7 @@ El propio enfoque del coach sobre el conflicto rechaza el consejo de "responder 
 
 "Tu carrera es un jardín, no una escalera." El crecimiento depende de tres capas — la **semilla** (tus habilidades y naturaleza), el **suelo** (empresa, jefe, colegas) y el **clima** (industria, geografía, momento) — y tienes que cuidar cada una. El coach llama a esto los "tres factores clave" de los saltos de carrera para la gente común, y cada capa se ilustra con un error que él mismo cometió.
 
-![Modelo del jardín profesional: semilla para habilidades e intereses, suelo para jefe, empresa y equipo, y clima para industria, geografía y momento](/assets/career/day-day-up-playbook/01-infographic-career-garden-model.png)
+![Modelo del jardín profesional: semilla para habilidades e intereses, suelo para jefe, empresa y equipo, y clima para industria, geografía y momento](/assets/career/day-day-up-playbook/chapter-9/01-infographic-career-garden-model.png)
 
 ### Semilla — cultiva la tuya, no la de alguien más
 

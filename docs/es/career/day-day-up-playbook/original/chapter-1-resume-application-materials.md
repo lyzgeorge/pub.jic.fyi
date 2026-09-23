@@ -25,6 +25,9 @@ tags: [career, job-search, workplace]
 
 ---
 
+
+
+![Viñeta de impacto: convierte una tarea en resultado medible](/assets/career/day-day-up-playbook/chapter-1/01-comparison-impact-bullet.png)
 ## 1.1 Para qué sirve un currículum: un documento de ventas que se lee en seis segundos
 
 **El concepto.** El coach vuelve a una misma frase en casi todos sus videos sobre currículums: el currículum "no es un documento legal. Es un documento de ventas". No es un libro de historia, no es un pasaporte, y nadie lo audita. Su único trabajo es lograr que una persona decida: "tenemos que hablar".
@@ -204,6 +207,9 @@ Algunas señales de alerta se quedan en la página —permanencias cortas, vací
 
 ---
 
+
+
+![Cuatro canales de búsqueda que llevan a conversaciones](/assets/career/day-day-up-playbook/chapter-1/02-framework-search-channels.png)
 ## 1.5 Leer la descripción del puesto y decidir si postularte
 
 **El concepto.** Una JD es "una lista de deseos, no una lista de verificación". Los gerentes de contratación escriben listas poco razonables copiando lo que pide cada publicación similar, así que todos terminan "persiguiendo al mismo unicornio". La propia JD del coach para un puesto de estrategia y operaciones pedía experiencia en banca de inversión o consultoría, 5 a 7 años, gestión de personas y exposición tecnológica; contrató a alguien con cinco años en un banco grande y nada del resto —"la mejor persona que pude conseguir".

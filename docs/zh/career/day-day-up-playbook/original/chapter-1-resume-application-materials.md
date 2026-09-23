@@ -25,6 +25,9 @@ tags: [career, job-search, workplace]
 
 ---
 
+
+
+![影响力要点：把职责转化为可衡量的业务成果](/assets/career/day-day-up-playbook/chapter-1/01-comparison-impact-bullet.png)
 ## 1.1 简历是什么：一份用六秒钟读完的销售文件
 
 **核心概念。** 教练几乎在每一期关于简历的视频里都会回到同一句话：简历"不是一份法律文件，而是一份销售文件"。它不是历史教科书，不是护照，也没有人会去审计它。它唯一的任务，是让一个人做出"我们需要聊聊"的决定。
@@ -195,6 +198,9 @@ tags: [career, job-search, workplace]
 
 ---
 
+
+
+![通往沟通机会的四条求职渠道](/assets/career/day-day-up-playbook/chapter-1/02-framework-search-channels.png)
 ## 1.5 读懂职位描述，决定是否投递
 
 **核心概念。** 一份JD是"一份愿望清单，而不是一份checklist"。招聘经理往往照抄同类岗位要求写出不切实际的清单，结果所有人都在"追逐同一只独角兽"。教练自己招聘战略与运营岗位时写的JD，要求投行或咨询背景、5到7年经验、有团队管理和技术接触经验，但他最终录用的人只有大银行的五年经验，其余条件一条都不符合——"这是我能招到的最好的人"。

@@ -26,6 +26,9 @@ Este capítulo cubre todo lo que ocurre *antes* de responder la primera pregunta
 
 ---
 
+
+
+![Tres preguntas detrás de la evaluación de una entrevista](/assets/career/day-day-up-playbook/chapter-2/01-framework-three-interview-questions.png)
 ## 2.1 Mentalidad: la entrevista no es un examen, y los nervios son un problema de preparación
 
 ### El concepto
@@ -232,6 +235,9 @@ En la propia descripción de puesto del coach, "proyectos en los que podrías tr
 
 ---
 
+
+
+![Matriz del banco de historias y competencias](/assets/career/day-day-up-playbook/chapter-2/02-framework-story-bank-matrix.png)
 ## 2.4 La tarea de quince minutos: empresa, valores, entrevistador, charla informal
 
 ### El concepto

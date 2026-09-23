@@ -27,6 +27,9 @@ tags: [career, job-search, workplace]
 
 # Parte A — Marcos universales y narrativa
 
+
+
+![Relaciona cada pregunta con la forma de respuesta adecuada](/assets/career/day-day-up-playbook/chapter-3/01-flowchart-question-triage.png)
 ## 3.1 Lee la pregunta detrás de la pregunta
 
 ### El concepto
@@ -76,6 +79,9 @@ Pedir un momento para pensar también es completamente legítimo: "demuestra al 
 
 ---
 
+
+
+![Marco HEALER para una historia de entrevista convincente](/assets/career/day-day-up-playbook/chapter-3/02-flowchart-healer-story.png)
 ## 3.2 Historias que venden, no reportes que informan: de STAR a HEALER
 
 ### El concepto

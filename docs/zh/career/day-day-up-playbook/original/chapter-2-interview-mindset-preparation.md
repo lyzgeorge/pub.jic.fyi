@@ -26,6 +26,9 @@ tags: [career, job-search, workplace]
 
 ---
 
+
+
+![面试评估背后的三个问题](/assets/career/day-day-up-playbook/chapter-2/01-framework-three-interview-questions.png)
 ## 2.1 心态：面试不是考试，紧张是准备问题
 
 ### 概念
@@ -232,6 +235,9 @@ tags: [career, job-search, workplace]
 
 ---
 
+
+
+![将故事与能力对应的故事库矩阵](/assets/career/day-day-up-playbook/chapter-2/02-framework-story-bank-matrix.png)
 ## 2.4 十五分钟的功课：公司、价值观、面试官、闲聊
 
 ### 概念

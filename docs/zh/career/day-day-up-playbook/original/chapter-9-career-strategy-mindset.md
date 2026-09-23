@@ -210,7 +210,7 @@ tags: [career, job-search, workplace]
 
 "你的职业生涯是一座花园，不是一架梯子。"成长取决于三层——**种子**（你的技能与天性）、**土壤**（公司、经理、同事）、**气候**（行业、地域、时机）——你必须照料每一层。教练把这称为普通人职业跃升的"三个关键因素"，每一层都配有他自己犯过的错误作为例证。
 
-![职业花园模型：种子代表技能与兴趣，土壤代表上级、公司和团队，气候代表行业、地域与时机](/assets/career/day-day-up-playbook/01-infographic-career-garden-model.png)
+![职业花园模型：种子代表技能与兴趣，土壤代表上级、公司和团队，气候代表行业、地域与时机](/assets/career/day-day-up-playbook/chapter-9/01-infographic-career-garden-model.png)
 
 ### 种子——培育你自己的，而不是别人的
 

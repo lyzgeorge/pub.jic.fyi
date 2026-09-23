@@ -10,6 +10,9 @@ tags: [career, job-search]
 
 Choose the right answer form, make your contribution clear, and connect your evidence to the role. Use scripts as starting points, not lines to recite.
 
+
+
+![Match each interview question to the right answer form](/assets/career/day-day-up-playbook/chapter-3/01-flowchart-question-triage.png)
 ## 3.1 Match the answer to the question
 
 | Question | Answer form |
@@ -25,6 +28,9 @@ If the intended focus is unclear, ask:
 
 Then answer that focus. Avoid delivering a full prepared story simply because one keyword sounds familiar.
 
+
+
+![HEALER framework for a persuasive interview story](/assets/career/day-day-up-playbook/chapter-3/02-flowchart-healer-story.png)
 ## 3.2 Give a story stakes, decisions, and a result
 
 STAR remains a useful checklist for completeness. The coach’s **HEALER** framework adds emphasis on why the work was difficult and why the result matters:

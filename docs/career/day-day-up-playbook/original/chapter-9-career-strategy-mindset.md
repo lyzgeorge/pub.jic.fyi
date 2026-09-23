@@ -206,7 +206,7 @@ The coach's own conflict framing rejects "clap back harder" advice because it do
 
 "Your career is a garden, not a ladder." Growth depends on three layers — the **seed** (your skills and nature), the **soil** (company, manager, coworkers), and the **climate** (industry, geography, timing) — and you have to tend each. The coach calls this the "three key factors" of career leaps for ordinary people, and every layer is illustrated with a mistake he made.
 
-![Career garden model showing seed (skills and interests), soil (manager, company, team), and climate (industry, geography, timing)](/assets/career/day-day-up-playbook/01-infographic-career-garden-model.png)
+![Career garden model showing seed (skills and interests), soil (manager, company, team), and climate (industry, geography, timing)](/assets/career/day-day-up-playbook/chapter-9/01-infographic-career-garden-model.png)
 
 ### Seed — grow yours, not someone else's
 

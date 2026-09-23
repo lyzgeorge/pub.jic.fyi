@@ -27,6 +27,9 @@ tags: [career, job-search, workplace]
 
 # A 部分 — 通用框架与讲故事的方法
 
+
+
+![将面试问题匹配到合适的回答形式](/assets/career/day-day-up-playbook/chapter-3/01-flowchart-question-triage.png)
 ## 3.1 读懂问题背后的问题
 
 ### 概念
@@ -76,6 +79,9 @@ tags: [career, job-search, workplace]
 
 ---
 
+
+
+![用于有说服力面试故事的 HEALER 框架](/assets/career/day-day-up-playbook/chapter-3/02-flowchart-healer-story.png)
 ## 3.2 卖故事，而不是交报告：从 STAR 到 HEALER
 
 ### 概念
