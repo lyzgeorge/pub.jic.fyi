@@ -204,6 +204,8 @@ The coach's own conflict framing rejects "clap back harder" advice because it do
 
 "Your career is a garden, not a ladder." Growth depends on three layers — the **seed** (your skills and nature), the **soil** (company, manager, coworkers), and the **climate** (industry, geography, timing) — and you have to tend each. The coach calls this the "three key factors" of career leaps for ordinary people, and every layer is illustrated with a mistake he made.
 
+![Career garden model showing seed (skills and interests), soil (manager, company, team), and climate (industry, geography, timing)](/assets/career/day-day-up-playbook/01-infographic-career-garden-model.png)
+
 ### Seed — grow yours, not someone else's
 
 The seed is fully in your control and grows fastest when you "nurture the plant that you were meant to become, not the one that someone else wanted you to be." His father wanted a doctor; he loved Chaucer, spoke on TV as a kid, won a national business case competition. His 9-to-5 taught him application; his 5-to-9 — years of coaching, cringe videos, clumsy newsletters — grew the skills that became his business. He quotes Naval: "do what feels like play to you but work to others". Losing your seed has a price: he ignored a request for a content-marketing sample from the CEO of Wealthsimple when it was a 12-person startup, because he wanted to do "strategy"; he joined five years later after it became a unicorn (now $10B). The audit question: *"Am I growing the seed that belongs to me or the one someone else planted?"*

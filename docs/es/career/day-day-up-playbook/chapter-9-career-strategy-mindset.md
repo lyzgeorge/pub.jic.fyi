@@ -61,6 +61,8 @@ En el trabajo, ve más allá de reportar y ofrece una recomendación razonada:
 
 El modelo del "jardín" del coach distingue tres fuentes de crecimiento:
 
+![Modelo del jardín profesional: semilla para habilidades e intereses, suelo para jefe, empresa y equipo, y clima para industria, geografía y momento](/assets/career/day-day-up-playbook/01-infographic-career-garden-model.png)
+
 | Capa | Pregunta | Acción posible |
 |---|---|---|
 | Semilla: capacidades e intereses | ¿Qué trabajo hago bien y quiero seguir mejorando? | Invertir en una fortaleza relevante o abordar una brecha específica. |

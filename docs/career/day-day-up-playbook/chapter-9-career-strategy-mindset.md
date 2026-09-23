@@ -58,6 +58,8 @@ At work, move beyond reporting by offering a reasoned recommendation:
 
 The coach’s “garden” model distinguishes three sources of growth:
 
+![Career garden model showing seed (skills and interests), soil (manager, company, team), and climate (industry, geography, timing)](/assets/career/day-day-up-playbook/01-infographic-career-garden-model.png)
+
 | Layer | Question | Possible action |
 |---|---|---|
 | Seed: capabilities and interests | What work do I do well and want to keep improving? | Invest in a relevant strength or address a specific gap. |

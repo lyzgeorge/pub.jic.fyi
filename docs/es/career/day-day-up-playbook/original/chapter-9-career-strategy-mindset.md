@@ -208,6 +208,8 @@ El propio enfoque del coach sobre el conflicto rechaza el consejo de "responder 
 
 "Tu carrera es un jardín, no una escalera." El crecimiento depende de tres capas — la **semilla** (tus habilidades y naturaleza), el **suelo** (empresa, jefe, colegas) y el **clima** (industria, geografía, momento) — y tienes que cuidar cada una. El coach llama a esto los "tres factores clave" de los saltos de carrera para la gente común, y cada capa se ilustra con un error que él mismo cometió.
 
+![Modelo del jardín profesional: semilla para habilidades e intereses, suelo para jefe, empresa y equipo, y clima para industria, geografía y momento](/assets/career/day-day-up-playbook/01-infographic-career-garden-model.png)
+
 ### Semilla — cultiva la tuya, no la de alguien más
 
 La semilla está completamente bajo tu control y crece más rápido cuando "nutres la planta en la que estabas destinado a convertirte, no la que alguien más quería que fueras." Su padre quería un doctor; él amaba a Chaucer, habló en televisión de niño, ganó una competencia nacional de casos de negocios. Su horario de 9 a 5 le enseñó ejecución; su horario de 5 a 9 — años de coaching, videos vergonzosos, boletines torpes — cultivó las habilidades que se convirtieron en su negocio. Cita a Naval: "haz lo que se siente como juego para ti pero como trabajo para los demás". Perder tu semilla tiene un precio: ignoró una solicitud del CEO de Wealthsimple para una muestra de marketing de contenido cuando era una startup de 12 personas, porque quería hacer "estrategia"; se unió cinco años después, cuando se convirtió en unicornio (ahora $10B). La pregunta de auditoría: *"¿estoy cultivando la semilla que me pertenece o la que alguien más plantó?"*
