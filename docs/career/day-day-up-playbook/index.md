@@ -1,7 +1,7 @@
 ---
 title: The Day Day Up Career Playbook in Action
-description: Career-coaching playbook based on Jonathan Lee's career-coaching videos, covering job search, interviews, and workplace development in nine chapters. Available in a concise edition and a full original edition.
-date: 2026-09-23
+description: Ten chapters on job search, workplace development, career strategy, and building products, adapted from Jonathan Lee and Michael Seibel.
+date: 2026-09-26
 tags: [career, job-search, workplace]
 ---
 
@@ -9,11 +9,11 @@ tags: [career, job-search, workplace]
 
 ### Concise, actionable edition
 
-*Edited 2026-09-23 from the existing transcript-based textbook of Jonathan Lee's career-coaching videos.*
+*Edited 2026-09-23 from the existing transcript-based textbook of Jonathan Lee's career-coaching videos. Chapter 10, added 2026-09-26, synthesizes Michael Seibel's Y Combinator lecture “Building Product.”*
 
 This edition focuses on decisions, concrete steps, and reusable examples. It removes extended anecdotes, repeated explanations, exercises, and recall questions. Advice reflects the coach's perspective, largely on North American professional workplaces; adapt it to your role, employer, and location.
 
-**How to use it:** Read Chapters 1–5 for a job search and Chapters 6–8 for workplace situations. Use Chapter 9 when evaluating your direction. Go straight to the relevant section, apply its steps to a real situation, and use the closing standard to check your result.
+**How to use it:** Read Chapters 1–5 for a job search and Chapters 6–8 for workplace situations. Use Chapter 9 when evaluating your direction, and Chapter 10 when building a product, internal tool, or side project, or preparing for product interviews. Go straight to the relevant section, apply its steps to a real situation, and use the closing standard to check your result.
 
 **Source and editing note:** This is an editorial synthesis, not a verbatim transcript or a claim-by-claim verified textbook. Examples and scripts are condensed or adapted unless identified otherwise. Action checklists and qualifications include editorial judgment. Use only facts, achievements, and commitments that are true for you.
 
@@ -30,3 +30,4 @@ This edition focuses on decisions, concrete steps, and reusable examples. It rem
 - [Chapter 7 - Managing Your Boss](./chapter-7-managing-your-boss.md) - Turn 1:1s into real alignment, escalate risk early, and keep evidence for your performance review.
 - [Chapter 8 - Influence, Conflict & Promotion](./chapter-8-influence-conflict-promotion.md) - Make valuable work visible, drive proposals with the ACT framework, and turn promotion into a concrete conversation.
 - [Chapter 9 - Career Strategy & Mindset](./chapter-9-career-strategy-mindset.md) - Weigh reward against cost, build confidence from evidence, and separate skill, environment, and market problems.
+- [Chapter 10 - Building a Product People Want](./chapter-10-building-a-product-people-want.md) - Define the problem and first customer, ship a small MVP, measure behavior, and iterate.

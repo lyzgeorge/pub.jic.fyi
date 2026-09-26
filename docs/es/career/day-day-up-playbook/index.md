@@ -1,16 +1,16 @@
 ---
 title: Guía de carrera Day Day Up en Acción
-description: Manual profesional basado en los videos de asesoría de carrera de Jonathan Lee, con nueve capítulos sobre búsqueda de empleo y desarrollo profesional. Disponible en edición concisa y edición original completa.
-date: 2026-09-23
+description: Diez capítulos sobre búsqueda de empleo, desarrollo profesional y creación de productos, adaptados de Jonathan Lee y Michael Seibel.
+date: 2026-09-26
 tags: [career, job-search, workplace]
 ---
 # Guía de carrera Day Day Up en Acción
 
 *Edición concisa y práctica*
 
-Esta serie está adaptada de la edición concisa en inglés de *The Day Day Up Career Playbook*, basada en los videos de asesoría profesional de Jonathan Lee, con énfasis en decisiones concretas, pasos accionables y ejemplos de lenguaje reutilizables. Los consejos reflejan principalmente la perspectiva del coach sobre el mercado laboral norteamericano; adáptalos a tu propio rol, empleador y región.
+Los capítulos 1–9 se adaptan de la edición concisa en inglés de *The Day Day Up Career Playbook*, basada en los videos de asesoría profesional de Jonathan Lee. El capítulo 10 adapta la charla «Building Product» de Michael Seibel para Y Combinator. La guía pone el acento en decisiones concretas, pasos prácticos y ejemplos reutilizables. Los consejos laborales reflejan principalmente el mercado norteamericano; adáptalos a tu rol, empleador y región.
 
-**Cómo usar esta guía:** Si estás en proceso de búsqueda de empleo, prioriza los Capítulos 1 al 5. Para situaciones dentro de tu trabajo actual, consulta los Capítulos 6 al 8. Al evaluar tu dirección profesional, revisa el Capítulo 9. Ve directamente a la sección más relevante para tu situación, aplica sus pasos a tu caso concreto y usa el estándar al final de cada capítulo para evaluar el resultado.
+**Cómo usar esta guía:** Para buscar empleo, prioriza los capítulos 1–5; para situaciones laborales, consulta los capítulos 6–8. Usa el capítulo 9 para evaluar tu rumbo profesional y el 10 para crear un producto, una herramienta interna o un proyecto propio, o preparar entrevistas de producto. Ve a la sección pertinente, aplica sus pasos y usa el criterio final del capítulo para revisar el resultado.
 
 **Nota sobre la traducción y la fuente:** Este texto es una adaptación editorial del contenido en inglés, no una traducción literal ni un manual verificado línea por línea; se ha traducido buscando fidelidad, claridad y naturalidad (信达雅). Los ejemplos y guiones fueron adaptados o condensados salvo que se indique lo contrario. Las listas de acciones y las advertencias reflejan el juicio editorial. Usa solo los hechos, logros y compromisos que realmente apliquen a tu propia situación.
 
@@ -27,3 +27,4 @@ Esta serie está adaptada de la edición concisa en inglés de *The Day Day Up C
 - [Capítulo 7 - Cómo gestionar a tu jefe](./chapter-7-managing-your-boss.md) - Convierte las reuniones uno a uno en alineación real, escala riesgos a tiempo y mantén evidencia para tu evaluación de desempeño.
 - [Capítulo 8 - Influencia, conflicto y promoción](./chapter-8-influence-conflict-promotion.md) - Haz visible el trabajo de valor, impulsa propuestas con el marco ACT y convierte la promoción en una conversación concreta.
 - [Capítulo 9 - Estrategia de carrera y mentalidad](./chapter-9-career-strategy-mindset.md) - Sopesa recompensas y costos, construye confianza a partir de evidencia y distingue problemas de habilidad, entorno y mercado.
+- [Capítulo 10 - Crear un producto que la gente quiera](./chapter-10-building-a-product-people-want.md) - Define el problema y el primer cliente, lanza un producto mínimo viable, mide el comportamiento e itera.
