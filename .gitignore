@@ -1,4 +1,10 @@
 node_modules/
 docs/.vitepress/dist/
-docs/.obsidian/
+docs/.vitepress/cache/
+docs/.vitepress/temp/
+.obsidian/
+.wrangler/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
 .DS_Store
