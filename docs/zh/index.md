@@ -12,3 +12,4 @@
 
 - [TCD 2026 研究生迎新](./tcd/postgraduate/orientation-2026/index.md)
 - [每天向上职场指南实战](./career/day-day-up-playbook/index.md)
+- [Jeff Su 职业指南](./career/jeff-su-playbook/index.md)

@@ -20,7 +20,7 @@ export default defineConfig({
         nav: [
           { text: 'Home', link: '/' },
           { text: 'TCD', link: '/tcd/postgraduate/orientation-2026/' },
-          { text: 'Career Playbook', link: '/career/day-day-up-playbook/' }
+          { text: 'Career Playbooks', link: '/career/' }
         ],
         sidebar: autoSidebar('', ['zh', 'es'])
       }
@@ -40,7 +40,7 @@ export default defineConfig({
         nav: [
           { text: '首页', link: '/zh/' },
           { text: 'TCD', link: '/zh/tcd/postgraduate/orientation-2026/' },
-          { text: '职场指南', link: '/zh/career/day-day-up-playbook/' }
+          { text: '职场指南', link: '/zh/career/' }
         ],
         sidebar: autoSidebar('zh')
       }
@@ -60,7 +60,7 @@ export default defineConfig({
         nav: [
           { text: 'Inicio', link: '/es/' },
           { text: 'TCD', link: '/es/tcd/postgraduate/orientation-2026/' },
-          { text: 'Guía de carrera', link: '/es/career/day-day-up-playbook/' }
+          { text: 'Guías de carrera', link: '/es/career/' }
         ],
         sidebar: autoSidebar('es')
       }

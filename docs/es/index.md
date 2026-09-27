@@ -12,3 +12,4 @@ Este sitio es un cuaderno de conocimiento, no una autoridad. Antes de actuar sob
 
 - [Orientación de posgrado de TCD 2026](./tcd/postgraduate/orientation-2026/index.md)
 - [Guía de carrera Day Day Up en Acción](./career/day-day-up-playbook/index.md)
+- [Guía profesional de Jeff Su](./career/jeff-su-playbook/index.md)
