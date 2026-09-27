@@ -44,3 +44,7 @@ Jeff Su's YouTube channel. Tags group the interview, LinkedIn, and workplace vid
 - LI-006 uses the manual English track; the garbled auto-captions (`*.garbled.*`) were not used.
 - LI-010's English track appears re-translated from a Chinese version and is paraphrased.
 - Think-hard file order is not series order: TH-001 is episode 1, TH-004 episode 2, TH-005 episode 3.
+
+## Chapter 10 source
+
+Michael Seibel, [“Building Product”](https://www.youtube.com/watch?v=C27RVio2rOs), Y Combinator, uploaded 2018-09-05. This is a separate source from Jeff Su's videos; the chapter's applications outside startups are editorial analogies.

@@ -94,4 +94,4 @@ Jeff 管理客户时每季度向 200 多位客户发邮件，按各自行业与�
 
 **本章检验标准：** 一项善用资源的工作应解决多人共有的问题，一次帮助多人；在别人看到之前已测试、注明来源并符合公司规定。如果说不清除了自己还有谁受益，就还不算有效的可见成果。
 
-[← 上一章](./chapter-8-ai-assisted-preparation.md) · [目录](./index.md) · [视频来源](./sources.md)
+[← 上一章](./chapter-8-ai-assisted-preparation.md) · [目录](./index.md) · [下一章 →](./chapter-10-building-product.md) · [视频来源](./sources.md)

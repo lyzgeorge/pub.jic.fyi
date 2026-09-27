@@ -1,6 +1,6 @@
 # 视频来源
 
-来源为 Jeff Su 的 YouTube 频道。标签对应逐字稿文件夹：IQ = `Interview-qa/`，LI = `Linkedin-tips/`，TH = `Think-hard/`。视频标题、上传日期与时长于 2026-09-27 使用 yt-dlp 获取。标题保留 YouTube 原文，以便检索。
+前九章来源为 Jeff Su 的 YouTube 频道；第十章另据 Michael Seibel 的 Y Combinator 讲座，详见文末。下表标签对应 Jeff Su 视频的逐字稿文件夹：IQ = `Interview-qa/`，LI = `Linkedin-tips/`，TH = `Think-hard/`。视频标题、上传日期与时长于 2026-09-27 使用 yt-dlp 获取。标题保留 YouTube 原文，以便检索。
 
 | 标签 | YouTube 标题（截至 2026-09-27） | 上传日期 | 时长 | URL |
 |---|---|---|---|---|
@@ -44,3 +44,7 @@
 - LI-006 使用人工制作的英文字幕轨，未采用乱码的自动字幕（`*.garbled.*`）。
 - LI-010 的英文字幕轨似乎由中文版本回译；本书采用意译。
 - Think-hard 文件顺序并非系列顺序：TH-001 是第 1 集，TH-004 是第 2 集，TH-005 是第 3 集。
+
+## 第十章的独立来源
+
+Michael Seibel，Y Combinator，[“Building Product”](https://www.youtube.com/watch?v=C27RVio2rOs)，2018 年 9 月 5 日上传；逐字稿于 2026 年 9 月 27 日获取。该讲座面向创业者，不属于 Jeff Su 的视频资料；第十章延伸至职场的段落已标明“编辑延伸”。

@@ -1,6 +1,6 @@
 ---
 title: Fuentes de la guía profesional de Jeff Su
-description: Videos de Jeff Su empleados en los nueve capítulos y notas sobre las transcripciones.
+description: Videos de Jeff Su para los capítulos 1–9 y charla de Michael Seibel para el capítulo 10.
 ---
 
 # Fuentes
@@ -50,3 +50,7 @@ Videos del canal de YouTube de Jeff Su. Los códigos corresponden a las carpetas
 - Para LI-006 se usó la pista manual en inglés; se descartaron los subtítulos automáticos ilegibles (`*.garbled.*`).
 - La pista inglesa de LI-010 parece retraducida de una versión china, por lo que el contenido se parafraseó.
 - El orden de archivos TH no coincide con el de la serie: TH-001 es el episodio 1, TH-004 el 2 y TH-005 el 3.
+
+## Fuente independiente del capítulo 10
+
+Michael Seibel, [«Building Product»](https://www.youtube.com/watch?v=C27RVio2rOs), Y Combinator, publicado el 5 de septiembre de 2018. Transcripción consultada el 27 de septiembre de 2026 y conservada en `../transcripts/youtube/text/` del material de investigación. Seibel habla para fundadores de empresas; las aplicaciones profesionales que aparecen en el capítulo son analogías editoriales. Esta charla no es un video de Jeff Su.
