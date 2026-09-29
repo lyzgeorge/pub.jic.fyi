@@ -1,3 +1,8 @@
+---
+title: "Chapter 2: The LinkedIn Profile"
+description: "How to build a LinkedIn profile recruiters can find: keyword placement, headline, About, Experience, Featured, skills and open-to-work signals."
+---
+
 # Chapter 2 — The LinkedIn Profile
 
 This chapter shows you how to build a LinkedIn profile that recruiters can find through search, that supports your resume without repeating it, and that signals your availability at the level of openness your situation allows.
@@ -6,7 +11,7 @@ This chapter shows you how to build a LinkedIn profile that recruiters can find 
 
 *The profile works as a connected search result and proof of your professional story.*
 
-## 2.1 What the profile is for
+## 2.1 What is a LinkedIn profile for?
 
 A LinkedIn profile is a search-indexed page whose job is to bring the right people to you. Jeff borrows career coach Austin Belsak's definition: the goal is to "drive relevant traffic to you even when you're sleeping," which for a job seeker means messages from recruiters and hiring managers.
 
@@ -155,3 +160,10 @@ How openly you signal depends on whether you are employed: covertly if you are, 
 **Chapter standard:** A finished profile has a clear photo and a right-weighted banner, a keyword-plus-value headline, a first-person About of roughly 900–1,100 characters that proves its claims and closes on the work that excites you, and Experience entries with standard titles and metrics. It also has at least five endorsed skills, something real in Featured, and an open-to-work signal that fits your employment situation, with edit notifications turned off before you begin.
 
 ---
+
+**Sources:** Jeff Su, [“Top 5 LinkedIn Profile Tips!”](https://www.youtube.com/watch?v=BcfGWi8Qywk) (2020); [“Write an OUTSTANDING LinkedIn Summary (with Examples)!”](https://www.youtube.com/watch?v=5hNsdH6Y2Mg) (2021); [“5 MUST-KNOW LinkedIn Profile Tips for Job Seekers!”](https://www.youtube.com/watch?v=B4OhuzwLc9o) (2022); [“5 MUST-DO LinkedIn Profile Tips (that pay off forever)!”](https://www.youtube.com/watch?v=OHTRZKg2LS0) (2022); [“Job Seekers on LinkedIn Need to Know These 8 Things”](https://www.youtube.com/watch?v=D7DIHNK2DYw) (2023); [“5 LinkedIn Profile Tips that Get You Hired (backed by data)”](https://www.youtube.com/watch?v=OKF7ZeWNrfg) (2024). Full list: [Sources](./sources.md).
+
+## Related notes
+
+- [Chapter 8 — AI-Assisted Preparation](./chapter-8-ai-assisted-preparation.md)
+- [Day Day Up playbook, Chapter 1 — Resume & Application Materials](../day-day-up-playbook/chapter-1-resume-application-materials.md)

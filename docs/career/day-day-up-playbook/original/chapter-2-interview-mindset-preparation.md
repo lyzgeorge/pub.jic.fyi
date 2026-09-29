@@ -1,11 +1,13 @@
 ---
 title: Chapter 2 - Interview Mindset & Preparation
-description: Full lecture-style chapter on interview mindset, the three hidden questions, reading the JD, the fifteen-minute homework, building a story bank, time-boxed prep SOPs, and the first-round HR screen.
+description: Full lecture-style chapter on interview mindset, the three hidden questions, reading the JD, building a story bank, time-boxed prep, and the HR screen.
 date: 2026-09-23
 tags: [career, job-search, workplace]
 ---
 
 # Chapter 2 - Interview Mindset & Preparation
+
+> **Source:** Original (full lecture-style) edition of *The Day Day Up Career Playbook in Action*, compiled from [Jonathan Lee's career-coaching videos](https://www.youtube.com/@MrJonathanCareer).
 
 > This chapter covers everything that happens *before* you answer the first real question: how to think about the interview, where nerves actually come from, what the interviewer is really asking, how to research the job description, the company, and the interviewer, how to build a small bank of stories you can reuse across interviews, how to run a time-boxed preparation session when you have one hour or three, how to review your own performance, and how to pass the first-round HR screen. The coach's core argument, repeated across dozens of videos, is that non-native speakers should stop trying to out-speak native candidates and instead out-prepare them: "Your English is good enough" - what changes outcomes is knowing the hiring manager's pain, having three well-built stories, and walking in with a point of view. Interviews are not exams with a right answer; they are a human being with a problem trying to decide whether to trust you with it.
 
@@ -776,3 +778,6 @@ PAST                                  FUTURE
 
 ---
 
+## Related notes
+
+- Concise version: [Chapter 2 - Interview Preparation](../chapter-2-interview-preparation.md)

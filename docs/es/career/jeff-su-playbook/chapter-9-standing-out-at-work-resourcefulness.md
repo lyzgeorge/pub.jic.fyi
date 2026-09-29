@@ -5,6 +5,8 @@ description: Crea recursos reutilizables que resuelvan problemas compartidos, co
 
 # Capítulo 9 — Destacar en el trabajo con ingenio
 
+Usa herramientas gratuitas y materiales reutilizables para hacer un trabajo útil y visible más allá de tus funciones, y comprueba antes las pruebas, las licencias y las políticas de la empresa.
+
 ## 9.1 Ingenio y visibilidad
 
 Jeff sostiene que encontrar soluciones sencillas y económicas a problemas compartidos aumenta la probabilidad de que te vean como alguien capaz y con iniciativa. Los ejemplos son **anécdotas personales**, no pruebas de que una herramienta produzca ascensos: una combinación de capacidades de consultoría, un jefe que le apoyaba y videos de incorporación fue una de las razones de su promoción relativamente rápida. Hizo los videos para ahorrar tiempo, sin plantearse la promoción como objetivo.
@@ -96,3 +98,10 @@ Los videos tenían límites: un error obligaba a repetir la grabación si no sab
 Prueba el correo contigo y ensaya el cuestionario. Atribuye plantillas, iconos e informes y revisa las licencias. Cumple las reglas de marca en materiales externos y las políticas de TI al autorizar scripts. Comprueba los límites actuales de los planes gratuitos.
 
 **Criterio del capítulo:** El recurso resuelve un problema de otras personas, puede llegar a muchas de una vez y se ha probado, atribuido y comprobado frente a las políticas de la empresa antes de circular.
+
+**Fuentes:** videos de Jeff Su [«4 FREE Tools to Improve Your Next Presentation!»](https://www.youtube.com/watch?v=5c9SapE_YNU) (2021); [«7 Creative Ways to use Canva!»](https://www.youtube.com/watch?v=w0Bf4u-u9AQ) (2021); [«Stand Out in the Workplace by Doing THIS!»](https://www.youtube.com/watch?v=7-xgf536_oc) (2021); [«Send Personalized BULK Emails in Gmail (for FREE)!»](https://www.youtube.com/watch?v=LJV-Uuj3RwU) (2021); [«3 FREE Tools to Create ENGAGING Presentations!»](https://www.youtube.com/watch?v=Fq1Yb4kepLo) (2022). Lista completa en [Fuentes](./sources.md).
+
+## Notas relacionadas
+
+- [Capítulo 3: Contactos y acercamiento en LinkedIn](./chapter-3-networking-and-outreach-on-linkedin.md)
+- [Guía Day Day Up, capítulo 8: Influencia, conflicto y promoción](../day-day-up-playbook/chapter-8-influence-conflict-promotion.md)

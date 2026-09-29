@@ -117,3 +117,8 @@ If a situation goes beyond ordinary differences-particularly when behaviour is u
 6. Listen, collaborate where possible, and compromise fairly where necessary.
 7. Revisit the agreement as circumstances change.
 8. Seek welfare support when a dispute exceeds normal flatmate conflict.
+
+## Related notes
+
+- [Trinity Students’ Union: Representation, Support, and Participation](./students-union.md)
+- [Student Budgeting and Financial Assistance](./budgeting-and-assistance.md)

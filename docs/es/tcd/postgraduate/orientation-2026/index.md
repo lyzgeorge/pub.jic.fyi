@@ -1,4 +1,5 @@
 ---
+prev: false
 title: Orientación de posgrado de TCD 2026
 description: Notas de referencia reconstruidas a partir de las sesiones de orientación de posgrado de Trinity College Dublin.
 date: 2026-09-08

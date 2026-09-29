@@ -6,7 +6,7 @@ tags: [career, job-search]
 ---
 # Chapter 2 - Interview Preparation
 
-> **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on Jonathan Lee's career-coaching videos.
+> **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on [Jonathan Lee's career-coaching videos](https://www.youtube.com/@MrJonathanCareer).
 
 Preparation should produce a clear case for your fit and a small bank of evidence you can adapt. It should not produce a script for every possible question.
 
@@ -99,3 +99,8 @@ Use a mock by default. Record or share a real interview only with the necessary 
 After each interview, note what was asked, what landed, what caused confusion, and one change for the next conversation. Keep the change specific: “State my recommendation before the background” is actionable; “Be more confident” is not.
 
 **Preparation is complete when:** You can explain the role’s needs, deliver a relevant introduction, adapt your stories without inventing details, discuss your main gap honestly, and ask questions that help both sides evaluate fit.
+
+## Related notes
+
+- Full lecture version: [Chapter 2 - Interview Mindset & Preparation (Original Edition)](./original/chapter-2-interview-mindset-preparation.md)
+- From Jeff Su's Career Playbook: [Chapter 1 — What Employers Are Really Asking](../jeff-su-playbook/chapter-1-what-employers-are-really-asking.md)

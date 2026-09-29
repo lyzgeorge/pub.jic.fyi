@@ -1,3 +1,8 @@
+---
+title: "第五章：用事实回答行为与情境问题"
+description: "用 CARL 回答行为题，用 RCS 应对情境题和突发题，并处理优点、弱点、失败与冲突等问题。"
+---
+
 # 第五章：用事实回答行为与情境问题
 
 过往经历用 CARL 组织；未经历过的假设情境或突发题，先用 RCS 澄清再作答。两个框架也适用于优点、弱点、失败、冲突和混合办公问题。
@@ -104,4 +109,9 @@ Jeff 自己加入产品营销团队时的示范答案只在视频画面出现，
 
 **本章检验标准：** 每个行为故事都说明真实背景、自己的行动、可量化或诚实呈现的不完美结果，以及后来已用上的收获。每道情境题都能复述、提出有用的澄清问题，并按岗位需要拆解后再回答。
 
-[← 上一章](./chapter-4-opening-and-motivation-answers.md) · [目录](./index.md) · [下一章 →](./chapter-6-explaining-transitions.md)
+**来源：** Jeff Su 的视频 [“What are Your Greatest Strengths - 3 Mistakes to Avoid!”](https://www.youtube.com/watch?v=jSjOO0ekQ20)（2020）、[“Tell me a time You Handled a Difficult Situation (Interview Question)”](https://www.youtube.com/watch?v=-7OIk2ZXBCg)（2021）、[“Tell Me About a Time You Failed (Sample Answer included)”](https://www.youtube.com/watch?v=yidXECtZCOg)（2021）、[“How to Answer an Interview Question you DIDN'T Prepare For”](https://www.youtube.com/watch?v=ZqNorUIgIe8)（2021）、[“What is Your Biggest Weakness? (Ace this Interview Question!)”](https://www.youtube.com/watch?v=6ehslpTtlEo)（2022）、[“7 Job Interview Questions to Prepare For!”](https://www.youtube.com/watch?v=VbugqgTtF-Q)（2022）、[“You’re Not Unqualified: How to Pass 90% of Your Interviews”](https://www.youtube.com/watch?v=QrmDmQ7ZivM)（2024）。完整列表见[视频来源](./sources.md)。
+
+## 相关笔记
+
+- [第一章：招聘方真正想了解什么](./chapter-1-what-employers-are-really-asking.md)
+- [每天向上职场指南·第三章：回答面试问题](../day-day-up-playbook/chapter-3-answering-interview-questions.md)

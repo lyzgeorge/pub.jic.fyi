@@ -61,3 +61,8 @@ La inscripción se realiza mediante el pathway de MyCareer. Allí se registran l
 5. Crear un contacto real mediante una feria, actividad, conversación con antiguos alumnos o mentoría.
 6. Si resulta útil, inscribirse en el Career Skills Award y clasificar la experiencia previa en sus tres categorías.
 7. Verificar las normas migratorias o laborales con Global Room o la autoridad competente.
+
+## Notas relacionadas
+
+- [Innovación y emprendimiento en Trinity](./innovation-entrepreneurship.md)
+- [Tu trayectoria de posgrado en Trinity](./postgraduate-journey.md)

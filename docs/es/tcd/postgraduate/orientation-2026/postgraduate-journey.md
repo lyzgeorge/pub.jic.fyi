@@ -82,3 +82,8 @@ Postgraduate Advisory Support Service y el sindicato pueden explicar opciones de
 - Buscar desarrollo académico, profesional y Triple I.
 - Comprobar las reglas de IA e integridad para cada trabajo.
 - Plantear pronto las dificultades y escalar por la estructura definida.
+
+## Notas relacionadas
+
+- [Construir una relación eficaz entre estudiante y supervisor](./student-supervisor-relationship.md)
+- [IA generativa en los estudios de posgrado](./genai-postgraduate-studies.md)

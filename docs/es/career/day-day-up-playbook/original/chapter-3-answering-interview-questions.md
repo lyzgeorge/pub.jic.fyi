@@ -1,6 +1,6 @@
 ---
 title: Capítulo 3 - Cómo responder preguntas de entrevista
-description: Capítulo completo, en formato de clase magistral, sobre cómo leer la pregunta detrás de la pregunta, el marco narrativo HEALER, y cómo responder preguntas sobre debilidades y brechas de experiencia.
+description: Capítulo completo estilo cátedra sobre la pregunta detrás de la pregunta, el marco narrativo HEALER y las respuestas sobre debilidades y brechas.
 date: 2026-09-23
 source_title: Chapter 3 - Answering Interview Questions
 tags: [career, job-search, workplace]
@@ -9,7 +9,7 @@ tags: [career, job-search, workplace]
 # Capítulo 3 - Cómo responder preguntas de entrevista
 
 > **Título original:** Chapter 3 - Answering Interview Questions
-> **Fuente:** Traducción del capítulo correspondiente de la edición original completa (en inglés) de *The Day Day Up Career Playbook in Action*.
+> **Fuente:** Traducción del capítulo correspondiente de la edición original completa (en inglés) de *The Day Day Up Career Playbook in Action*, compilada a partir de los [videos de asesoría profesional de Jonathan Lee](https://www.youtube.com/@MrJonathanCareer).
 
 > Este capítulo trata sobre lo que realmente debes decir después de que el entrevistador termina de hablar. El diagnóstico recurrente del coach sobre el desempeño de candidatos chinos y otros profesionales no nativos en entrevistas norteamericanas no es "inglés débil", sino un desajuste fundamental sobre para qué sirve una respuesta: los candidatos exponen hechos cuando el entrevistador quiere ser persuadido, responden la pregunta literal cuando se está haciendo una pregunta oculta, y explican el pasado cuando el entrevistador está decidiendo sobre el futuro. "La oferta no va para el candidato más calificado, va para el mejor narrador." La Parte A construye la maquinaria universal -leer la verdadera pregunta, narrar en vez de reportar, apropiarse del impacto propio, y una frase de principio de una sola línea que te permite improvisar cualquier pregunta conductual o situacional. La Parte B aplica esa maquinaria a las preguntas específicas que aparecen una y otra vez en el corpus: preséntate a ti mismo, el trío de motivación ("¿por qué aquí?", "¿por qué te vas?", "¿dónde en cinco años?"), debilidades y brechas, preguntas de competencias, las preguntas de valores en la ronda final, y las preguntas sobre IA de 2026 - cada sección con respuestas modelo citadas o adaptadas de los videos del coach.
 
@@ -757,3 +757,7 @@ Los videos difieren en esto: el de marzo aún acepta un ejemplo de dominio a niv
 **Qué decir / qué no decir** - "Lidero con influencia / soy hábil movilizando recursos / soy orientado a resultados / tomo posesión proactivamente" - no trabajo en equipo / aprendo rápido / trabajador esforzado / responsable. Nunca: solo "pero puedo aprender" sin evidencia · menospreciar a un ex-jefe · un seco "no sé" · "cualquier rol está bien" · "ustedes son mi única opción"
 
 **Entrega** - Pausas, no muletillas · inglés de nivel octavo grado · recordar puntos clave, no memorizar palabra por palabra · "la confianza es brevedad"
+
+## Notas relacionadas
+
+- Versión concisa: [Capítulo 3 - Cómo responder preguntas de entrevista](../chapter-3-answering-interview-questions.md)

@@ -55,3 +55,9 @@ Todo estudiante pertenece al Students’ Union. Este puede ayudar con problemas 
 5. Usar evidencia y conocimiento para servir y cuestionar.
 6. Pedir pronto ayuda a personal, servicios o representantes.
 7. Dar tiempo a la pertenencia; la incertidumbre inicial no determina el futuro.
+
+## Notas relacionadas
+
+- [El Students’ Union de Trinity: representación, apoyo y participación](./students-union.md)
+- [Tu trayectoria de posgrado en Trinity](./postgraduate-journey.md)
+- [Fe, espiritualidad y comunidad en Trinity](./faith-and-spirituality.md)

@@ -6,7 +6,7 @@ tags: [career, job-search]
 ---
 # Chapter 3 - Answering Interview Questions
 
-> **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on Jonathan Lee's career-coaching videos.
+> **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on [Jonathan Lee's career-coaching videos](https://www.youtube.com/@MrJonathanCareer).
 
 Choose the right answer form, make your contribution clear, and connect your evidence to the role. Use scripts as starting points, not lines to recite.
 
@@ -120,3 +120,8 @@ If you were laid off or dismissed, state the facts briefly. Where relevant, ackn
 For AI questions, describe a real problem you used AI to solve, how you checked the output, and what you kept under human judgment. Avoid listing tools without an outcome.
 
 **Before finishing an answer:** Check that you answered the question, made your role clear, provided credible evidence, and connected the result to the interviewer’s concern. Then stop and allow a follow-up.
+
+## Related notes
+
+- Full lecture version: [Chapter 3 - Answering Interview Questions (Original Edition)](./original/chapter-3-answering-interview-questions.md)
+- From Jeff Su's Career Playbook: [Chapter 5 — Evidence Under Pressure: Behavioral and Situational Answers](../jeff-su-playbook/chapter-5-behavioral-and-situational-answers.md)

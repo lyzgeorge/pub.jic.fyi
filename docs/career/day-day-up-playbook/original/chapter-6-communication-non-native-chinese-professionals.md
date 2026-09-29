@@ -7,6 +7,8 @@ tags: [career, job-search, workplace]
 
 # Chapter 6 - Communication for Non-Native & Chinese Professionals
 
+> **Source:** Original (full lecture-style) edition of *The Day Day Up Career Playbook in Action*, compiled from [Jonathan Lee's career-coaching videos](https://www.youtube.com/@MrJonathanCareer).
+
 > This chapter is about the gap between what you know and how you are heard. The coach's recurring diagnosis, drawn from a decade of hiring, managing a 500-person data organization and coaching Chinese professionals in North America, is that the feedback "stronger communication" or "poor communication skills" is almost never about English. It is about structure (you give context first and the conclusion last), calibration (you hedge what you are sure of and over-claim what you are not), voice (flat, quiet, rising at the end), and a cultural default of deference (sorry, just, try, "hard worker") that Western managers read as "not ready to lead." His thesis: "Stop competing in English, start competing in clarity". Each lecture below takes one of these gaps, explains why the coach says it costs you, gives the method, and shows the exact words he uses.
 
 **What you'll be able to do**
@@ -663,3 +665,6 @@ The structure is what to copy: a specific, current hook; a short reaction; and, 
 
 ---
 
+## Related notes
+
+- Concise version: [Chapter 6 - Clear Workplace Communication](../chapter-6-clear-workplace-communication.md)

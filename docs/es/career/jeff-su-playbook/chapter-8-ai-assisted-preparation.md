@@ -98,3 +98,11 @@ Una variante solicita las diez aptitudes más relevantes para LinkedIn, ordenada
 Jeff incluye «No inventes información» y la tabla de diferencias, y considera las respuestas borradores. Comprueba cada línea: empleadores, cargos, fechas y métricas deben coincidir con tu historial. Si no puedes defender una afirmación ante una repregunta, elimínala. Trata cifras sugeridas como pistas para investigar, no como resultados. No pegues información confidencial y consulta la política de IA de tu empresa. Prueba de nuevo herramientas y límites gratuitos antes de depender de ellos, y quita la prosa genérica para que la respuesta suene a ti.
 
 **Criterio del capítulo:** Cada borrador empieza por una vacante real, incluye una estructura explícita y pasa una revisión línea por línea contra tus datos. Puedes explicar sin leerlo cada afirmación que contiene.
+
+**Fuentes:** videos de Jeff Su [«Land a Job using ChatGPT: The Definitive Guide!»](https://www.youtube.com/watch?v=pmnY5V16GSE) (2023); [«Tell Me About Yourself (The BEST Way to Answer this Interview Question)»](https://www.youtube.com/watch?v=jZJKb-obz1E) (2023); [«You’re Not Unqualified: How to Pass 90% of Your Interviews»](https://www.youtube.com/watch?v=QrmDmQ7ZivM) (2024); [«5 LinkedIn Profile Tips that Get You Hired (backed by data)»](https://www.youtube.com/watch?v=OKF7ZeWNrfg) (2024). Lista completa en [Fuentes](./sources.md).
+
+## Notas relacionadas
+
+- [Capítulo 4: Cómo presentarte y explicar tu motivación](./chapter-4-opening-and-motivation-answers.md)
+- [Capítulo 5: Respuestas conductuales y situacionales](./chapter-5-behavioral-and-situational-answers.md)
+- [Guía Day Day Up, capítulo 2: Preparación para la entrevista](../day-day-up-playbook/chapter-2-interview-preparation.md)

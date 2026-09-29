@@ -69,3 +69,9 @@ tags:
 - 用合适证据建立论点，并在研究时同步记录来源。
 - 修改正式程度、清晰度、客观性、衔接和推理。
 - 检查每个重要论点的意义与影响。
+
+## 相关笔记
+
+- [学术诚信：引用、相似度与文献管理](./academic-integrity.md)
+- [建立有效的学生-导师关系](./student-supervisor-relationship.md)
+- [设计真正支持学习的工作空间](./designing-workspace.md)

@@ -5,6 +5,8 @@ description: Estructura cuatro respuestas frecuentes para demostrar encaje e int
 
 # Capítulo 4 — Cómo presentarte y explicar tu motivación
 
+Cuatro preguntas suelen abrir una entrevista: «háblame de ti», «¿por qué encajas?», «¿por qué quieres trabajar aquí?» y «¿dónde te ves en cinco años?». Cada respuesta debe atender a la preocupación de fondo y terminar vinculada a este puesto.
+
 ## 4.1 Lo que tienen en común las cuatro preguntas
 
 Cuatro preguntas suelen marcar el comienzo de una entrevista. Cada una contiene una preocupación más precisa ([capítulo 1](./chapter-1-what-employers-are-really-asking.md)) y pide una estructura distinta.
@@ -75,3 +77,10 @@ Describe el recorrido y no un cargo. En los primeros uno o dos años, sé espec�
 Su ejemplo para EY comienza con conversaciones con antiguos alumnos: acepta ser generalista al principio, adquirir conocimiento sectorial y después especializarse en un área, ampliar su red y aportar valor. También incorpora gestión de proyectos aprendida en KPMG. En el video dice primero «intervalos de uno a tres años», pero la recapitulación y el ejemplo usan dos fases; sigue las dos fases.
 
 **Criterio del capítulo:** Tus cuatro respuestas atienden a la preocupación de fondo, rondan dos minutos, contienen un dato objetivo o un hallazgo concreto sobre el puesto y terminan vinculadas a él. La respuesta «por qué aquí» sirve también para las transiciones; cada momento destacado tiene detrás una historia completa.
+
+**Fuentes:** videos de Jeff Su [«Tell Me About Yourself - Structure a Strong Answer»](https://www.youtube.com/watch?v=es7XtrloDIQ) (2020); [«Why Are You a Good Fit for this Role - How to Answer»](https://www.youtube.com/watch?v=-HfeTdf2gSw) (2020); [«Why Do You Want to Work Here? (Answer this Tricky Question)»](https://www.youtube.com/watch?v=x-4MewJpaso) (2020); [«Where Do You See Yourself in 5 Years - How to Answer»](https://www.youtube.com/watch?v=ClmHniKlt6k) (2020); [«Tell Me About Yourself (The BEST Way to Answer this Interview Question)»](https://www.youtube.com/watch?v=jZJKb-obz1E) (2023). Lista completa en [Fuentes](./sources.md).
+
+## Notas relacionadas
+
+- [Capítulo 6: Cómo explicar los cambios de trayectoria](./chapter-6-explaining-transitions.md)
+- [Guía Day Day Up, capítulo 3: Cómo responder preguntas de entrevista](../day-day-up-playbook/chapter-3-answering-interview-questions.md)

@@ -10,6 +10,9 @@
   },
   "devDependencies": {
     "markdown-it-cjk-friendly": "^3.0.0",
+    "sharp": "^0.35.5",
+    "svgo": "^4.1.0",
+    "vite-plugin-image-optimizer": "^2.0.3",
     "vitepress": "latest"
   }
 }

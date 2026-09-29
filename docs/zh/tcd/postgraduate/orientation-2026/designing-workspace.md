@@ -54,3 +54,9 @@ Disability Service 的职业治疗师可以与任何希望改善空间和规律�
 5. 保留有效方案，不盲从通用建议。
 6. 规划每周预约和空间转换。
 7. 持续障碍应寻求职业治疗、人体工学或无障碍支持。
+
+## 相关笔记
+
+- [合理便利与残障支持](./reasonable-accommodations.md)
+- [成功完成研究生学习所需的学术技能](./academic-skills-postgraduate-study.md)
+- [研究生阶段的健康与福祉](./health-and-wellbeing.md)

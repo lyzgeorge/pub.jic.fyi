@@ -1,3 +1,8 @@
+---
+title: "第一章：招聘方真正想了解什么"
+description: "识别面试问题背后的真实顾虑，并通过在岗者、职位描述关键词、衡量指标和可迁移能力准备证据。"
+---
+
 # 第一章：招聘方真正想了解什么
 
 动笔准备回答之前，先找出招聘方到底在考察什么。了解岗位的人和职位描述能提供不同线索。
@@ -89,4 +94,10 @@ LinkedIn 像搜索引擎：档案里的词影响招聘人员搜索时能否看�
 
 **本章检验标准：** 动笔前，应能说清面试题背后的顾虑、从在岗人士那里得到的一条见解、目标岗位描述中的主要关键词，以及证明自己合适的一项指标和一项可迁移能力。缺了哪一项，就先补研究。
 
-[← 目录](./index.md) · [下一章 →](./chapter-2-the-linkedin-profile.md)
+**来源：** 本章综合 Jeff Su 多个视频中反复出现的观点，主要依据 [“Why Are You a Good Fit for this Role - How to Answer”](https://www.youtube.com/watch?v=-HfeTdf2gSw)（2020）、[“Why Do You Want to Work Here? (Answer this Tricky Question)”](https://www.youtube.com/watch?v=x-4MewJpaso)（2020）、[“What are Your Greatest Strengths - 3 Mistakes to Avoid!”](https://www.youtube.com/watch?v=jSjOO0ekQ20)（2020）、[“5 Questions You MUST Ask During a Job Interview!”](https://www.youtube.com/watch?v=P0sew9TBPJ0)（2022）；关键词提取部分另参考第二章所列的 LinkedIn 视频。完整列表见[视频来源](./sources.md)。
+
+## 相关笔记
+
+- [第四章：回答开场与求职动机问题](./chapter-4-opening-and-motivation-answers.md)
+- [第八章：借助 AI 准备求职](./chapter-8-ai-assisted-preparation.md)
+- [每天向上职场指南·第二章：面试准备](../day-day-up-playbook/chapter-2-interview-preparation.md)

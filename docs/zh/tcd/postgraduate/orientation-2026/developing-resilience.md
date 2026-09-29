@@ -82,3 +82,9 @@ tags: [trinity-college-dublin, resilience, mental-health, coping-skills, postgra
 - 我需要的是否已超出自助范围？
 
 韧性练习不能替代专业照护。学生辅导、College Health、Disability Service、校牧、学业导师以及紧急服务职责不同；应尽早求助，安全受到威胁时立即使用紧急支持。
+
+## 相关笔记
+
+- [研究生阶段的健康与福祉](./health-and-wellbeing.md)
+- [在 Trinity 读研究生：学生与顾问的实用建议](./postgraduate-student-qa-advisory-service.md)
+- [建立有效的学生-导师关系](./student-supervisor-relationship.md)

@@ -62,3 +62,9 @@ College Health 可就性健康、避孕、检测和转介提供医疗。录像�
 5. 根据残障、药物、文化、经济和照护责任调整。
 6. 自我管理不够时求助。
 7. 安全存在风险时立即使用紧急支持。
+
+## 相关笔记
+
+- [培养韧性：压力、应对与自我关怀](./developing-resilience.md)
+- [Trinity Sport：体育社团、休闲活动、场馆与包容参与](./trinity-sport.md)
+- [积极的性体验、同意与旁观者行动](./positive-sexual-experiences.md)

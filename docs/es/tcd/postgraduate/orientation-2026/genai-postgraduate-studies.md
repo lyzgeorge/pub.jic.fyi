@@ -70,3 +70,9 @@ Lectura, notas, pensamiento crítico, escritura, estructura y revisión son resu
 6. Reescribir desde la comprensión propia.
 7. Declarar el uso y conservar registro cuando proceda.
 8. Responder del resultado final.
+
+## Notas relacionadas
+
+- [Integridad académica: citas, similitud y gestión de referencias](./academic-integrity.md)
+- [Competencias académicas para cursar con éxito un posgrado](./academic-skills-postgraduate-study.md)
+- [Tu trayectoria de posgrado en Trinity](./postgraduate-journey.md)

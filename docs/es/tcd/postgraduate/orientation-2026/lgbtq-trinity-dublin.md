@@ -46,7 +46,7 @@ En TCDSU, la Presidencia coordina campañas; el Graduate Officer atiende cuestio
 
 TCDSU y QSoc administran también el **T Fund** para artículos no médicos de afirmación de género: binders, gaffs, ropa o maquillaje. La fuente indicó dos convocatorias al año, €1.000 por trimestre y un máximo de €200 por estudiante. No cubre suministros médicos; conviene consultar las condiciones vigentes en el correo semanal del sindicato.
 
-## Cambiar el nombre o género del expediente
+## ¿Cómo cambiar el nombre o el género en el expediente?
 
 No hace falta completar primero una transición legal para pedir a Trinity que actualice el nombre o marcador de género.
 
@@ -96,3 +96,9 @@ Dublín ofrece bares, fiestas, equipos deportivos, grupos de carrera y senderism
 - Cambio de expediente: Academic Registry y PAS según la documentación disponible.
 - Salud, asesoramiento, igualdad, conducta indebida o cuestiones legales: el servicio especializado correspondiente.
 - Comunidad fuera de Trinity: Outhouse y grupos periódicos, no únicamente eventos nocturnos puntuales.
+
+## Notas relacionadas
+
+- [Igualdad, diversidad, equidad e inclusión en Trinity](./equality-diversity-inclusion.md)
+- [Experiencias sexuales positivas, consentimiento y acción de testigos](./positive-sexual-experiences.md)
+- [El Students’ Union de Trinity: representación, apoyo y participación](./students-union.md)

@@ -1,8 +1,13 @@
+---
+title: "第六章：解释离职、裁员与履历空档"
+description: "简短诚实地解释主动离职、被裁员和履历空档，再把重点转到你为何适合新岗位。"
+---
+
 # 第六章：解释离职、裁员与履历空档
 
 这三类问题都应简短、诚实地交代过去，然后把重心移到你为何适合眼前的岗位。
 
-## 6.1 面试官担心什么
+## 6.1 面试官担心什么？
 
 经历变化题实质上是风险判断：过去的事会否限制你在新岗位的表现？离职时，原本的不满会否跟来；被裁员时，你是否仍能做好工作，情绪会否影响判断；有空档时，你是否可靠、能力是否仍在、是否愿意投入。Jeff 引前 FBI 谈判员 Chris Voss 的观点说，“为什么”会立刻让人有防御感，但未给出处。
 
@@ -70,4 +75,9 @@ Jeff 的**假设示例**是科技行业裁员后应聘 Apple：产品领域被�
 
 **本章检验标准：** 用一到三句真实交代事实，不批评旧雇主；大部分篇幅谈可迁移技能与经过研究的岗位理由。过去部分能脱稿说清，转折后自然接上“为什么来这里”。
 
-[← 上一章](./chapter-5-behavioral-and-situational-answers.md) · [目录](./index.md) · [下一章 →](./chapter-7-closing-the-interview-and-following-up.md)
+**来源：** Jeff Su 的视频 [“Explain an Employment Gap in a Job Interview”](https://www.youtube.com/watch?v=cr6ptEK-Mgs)（2020）、[“Why Are You Leaving Your Current Job? How to Answer Correctly”](https://www.youtube.com/watch?v=QSPGdAvnUv4)（2021）、[“Why Did You Leave Your Last Job? (explain a layoff)”](https://www.youtube.com/watch?v=tPlJjtQkpM0)（2023）。完整列表见[视频来源](./sources.md)。
+
+## 相关笔记
+
+- [第四章：回答开场与求职动机问题](./chapter-4-opening-and-motivation-answers.md)
+- [每天向上职场指南·第三章：回答面试问题](../day-day-up-playbook/chapter-3-answering-interview-questions.md)

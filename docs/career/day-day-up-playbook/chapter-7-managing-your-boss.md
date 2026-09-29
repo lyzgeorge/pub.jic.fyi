@@ -6,7 +6,7 @@ tags: [career, workplace]
 ---
 # Chapter 7 - Managing Your Boss
 
-> **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on Jonathan Lee's career-coaching videos.
+> **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on [Jonathan Lee's career-coaching videos](https://www.youtube.com/@MrJonathanCareer).
 
 Use the relationship to establish shared expectations, make progress predictable, and raise difficult issues before they become surprises.
 
@@ -112,3 +112,7 @@ The coach distinguishes a genuine improvement process from one intended to lead 
 **Editorial caution:** PIP, resignation, severance, and reference arrangements depend on the employer and jurisdiction. Do not resign on the assumption that severance follows; get appropriate advice and any agreement in writing before acting.
 
 **Working standard:** Expectations are explicit, risks are visible early, and important decisions do not depend on competing memories of a conversation.
+
+## Related notes
+
+- Full lecture version: [Chapter 7 - Managing Your Boss & Upward Communication (Original Edition)](./original/chapter-7-managing-your-boss-upward-communication.md)

@@ -6,7 +6,7 @@ tags: [career, job-search]
 ---
 # Chapter 4 - Interview Dynamics & Follow-up
 
-> **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on Jonathan Lee's career-coaching videos.
+> **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on [Jonathan Lee's career-coaching videos](https://www.youtube.com/@MrJonathanCareer).
 
 Use the conversation to learn what matters, show how you work, and establish clear next steps.
 
@@ -83,3 +83,8 @@ Between rounds, ask the recruiter for feedback and the next round’s focus. Aft
 After a rejection, thank the people who invested time, ask for feedback if appropriate, and request permission to stay in touch. Reopen the existing conversation when there is a relevant opportunity or meaningful update. Respect a clear no.
 
 **Leave each interview with:** A better understanding of the role, clear next steps where available, and one recorded improvement for your next conversation.
+
+## Related notes
+
+- Full lecture version: [Chapter 4 - Interview Dynamics & the Interviewer's Mind (Original Edition)](./original/chapter-4-interview-dynamics-interviewer-mind.md)
+- From Jeff Su's Career Playbook: [Chapter 7 — Closing the Interview and Following Up](../jeff-su-playbook/chapter-7-closing-the-interview-and-following-up.md)

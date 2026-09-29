@@ -1,6 +1,6 @@
 ---
 title: Orientación general de posgrado
-description: Guía práctica sobre administración, apoyo académico, bienestar, sistemas del campus, estudios de posgrado y servicios bibliotecarios en Trinity College Dublin.
+description: Guía práctica sobre matrícula, apoyo académico, bienestar, sistemas del campus, estudios de posgrado y Biblioteca en Trinity College Dublin.
 date: 2026-09-07
 updated: 2026-09-08
 source_title: PG General Orientation Monday
@@ -218,3 +218,8 @@ Cada disciplina cuenta con un bibliotecario especializado. Las sesiones Library 
 - [TCD Library](https://www.tcd.ie/library/)
 - [Library borrowing](https://www.tcd.ie/library/using-library/borrowing/)
 - [Library skills training](https://www.tcd.ie/library/support/skills-training.php)
+
+## Notas relacionadas
+
+- [Matrícula y Academic Registry](./academic-registry-registration.md)
+- [Orientación para estudiantes internacionales](./international-student-orientation.md)

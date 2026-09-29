@@ -1,6 +1,6 @@
 ---
 title: Capítulo 4 - Dinámica de la entrevista y la mente del entrevistador
-description: Cómo entender las dos evaluaciones y las tres preguntas reales detrás de toda entrevista, identificar tipos de entrevistador y ajustar la ronda, descifrar preguntas edulcoradas y trampas, ganar los primeros treinta segundos, guiar la mitad de la entrevista, hacer preguntas al final, cerrar y dar seguimiento, y manejar un rechazo.
+description: Capítulo completo estilo cátedra sobre lo que evalúa el entrevistador, cómo ajustarte a cada ronda, hacer preguntas reveladoras y dar seguimiento.
 date: 2026-09-23
 source_title: Chapter 4 - Interview Dynamics & the Interviewer's Mind
 tags: [career, job-search, workplace]
@@ -9,7 +9,7 @@ tags: [career, job-search, workplace]
 # Capítulo 4 - Dinámica de la entrevista y la mente del entrevistador
 
 > **Título original:** Chapter 4 - Interview Dynamics & the Interviewer's Mind
-> **Fuente:** Traducción del capítulo correspondiente de la edición original completa (en inglés) de *The Day Day Up Career Playbook in Action*.
+> **Fuente:** Traducción del capítulo correspondiente de la edición original completa (en inglés) de *The Day Day Up Career Playbook in Action*, compilada a partir de los [videos de asesoría profesional de Jonathan Lee](https://www.youtube.com/@MrJonathanCareer).
 
 > Los capítulos 2 y 3 te enseñaron qué preparar y cómo construir tus respuestas. Este capítulo trata de todo lo que ocurre *alrededor* de las respuestas: qué está pensando realmente el entrevistador, con qué tipo de entrevistador te enfrentas, cómo escuchar la pregunta real detrás de la pregunta educada, cómo abrir y cerrar la sala, qué preguntar de vuelta, qué escribir después, y qué hacer cuando la respuesta es no. La tesis central del coach es que los gerentes de contratación hacen dos evaluaciones a la vez -"¿puedes hacer el trabajo?" y "¿quiero trabajar contigo?"- y que la segunda, que ninguna rúbrica mide, suele decidir la oferta. Los candidatos chinos, observa, se preparan incansablemente para la primera y casi nunca para la segunda. Este capítulo es la preparación para la segunda.
 
@@ -586,3 +586,7 @@ Después de un rechazo, claramente existe un vacío -el mejor momento para obten
 | Responder al rechazo dentro de 24h a una persona real | Encogerse de hombros y luego volver a aplicar en silencio |
 
 ---
+
+## Notas relacionadas
+
+- Versión concisa: [Capítulo 4 - Dinámica de la entrevista y seguimiento](../chapter-4-interview-dynamics-follow-up.md)

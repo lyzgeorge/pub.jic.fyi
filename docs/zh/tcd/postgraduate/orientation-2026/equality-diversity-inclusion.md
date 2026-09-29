@@ -42,7 +42,7 @@ tags: [trinity-college-dublin, postgraduate, equality, inclusion]
 
 社会经济状况在课程中没有被描述为法定的第十项事由，但它会与上述类别交叉，并显著影响参与机会。
 
-## 交叉性
+## 什么是交叉性？
 
 交叉性关注多重身份与社会条件如何共同形成一种无法靠逐项分析来完整解释的经历。
 
@@ -90,3 +90,8 @@ Dignity, Respect and Consent Service 专门处理骚扰、歧视、不当行为�
 
 - [Trinity EDI](https://www.tcd.ie/equality/)
 - [Trinity Policy Hub](https://www.tcd.ie/about/policies/)
+
+## 相关笔记
+
+- [在 Trinity 与都柏林的 LGBTQ+ 学习和生活](./lgbtq-trinity-dublin.md)
+- [合理便利与残障支持](./reasonable-accommodations.md)

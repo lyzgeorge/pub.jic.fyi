@@ -47,3 +47,8 @@ Christian Union se presenta como espacio para cristianos diversos y personas cur
 - Confirmar lugar y horario actuales.
 
 Estas comunidades pueden ofrecer pertenencia entre edades, nacionalidades y programas. Participar es voluntario; existe libertad para practicar y para no practicar religión.
+
+## Notas relacionadas
+
+- [Pertenencia y participación en la vida de posgrado](./belonging-and-participation.md)
+- [Orientación para estudiantes internacionales](./international-student-orientation.md)

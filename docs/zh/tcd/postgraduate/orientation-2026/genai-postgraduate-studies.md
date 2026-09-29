@@ -72,3 +72,9 @@ ROCKS 用于组织提示：明确角色（Role）、目标（Objective）、受�
 6. 基于自己的理解重写，而非包装生成文本。
 7. 准确声明并按要求留存记录。
 8. 对最终作品承担责任。
+
+## 相关笔记
+
+- [学术诚信：引用、相似度与文献管理](./academic-integrity.md)
+- [成功完成研究生学习所需的学术技能](./academic-skills-postgraduate-study.md)
+- [Trinity 研究生学习之旅](./postgraduate-journey.md)

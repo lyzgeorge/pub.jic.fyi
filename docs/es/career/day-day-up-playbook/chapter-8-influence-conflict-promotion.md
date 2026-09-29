@@ -9,7 +9,7 @@ tags: [career, workplace, promotion]
 
 > **Título original:** Chapter 8 - Influence, Conflict & Promotion
 >
-> **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los videos de asesoría profesional de Jonathan Lee
+> **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los [videos de asesoría profesional de Jonathan Lee](https://www.youtube.com/@MrJonathanCareer)
 
 Conecta tu trabajo con las prioridades del negocio, ayuda a otros a actuar y haz que la evidencia de tu impacto sea visible para quienes la necesitan.
 
@@ -121,3 +121,8 @@ Haz tres preguntas:
 Sigue haciendo trabajo vinculado a las prioridades del negocio. Evita inventar proyectos paralelos que ningún tomador de decisiones valora. Si el camino sigue siendo vago a pesar de evidencia clara y conversaciones repetidas, compara oportunidades externas en lugar de esperar indefinidamente.
 
 **Foco semanal:** Decide tu resultado más importante, ejecuta un pequeño ciclo de aprender y ajustar, y comunica lo que cambió. Más actividad no equivale automáticamente a más impacto.
+
+## Notas relacionadas
+
+- Versión completa: [Capítulo 8 - Influencia, conflicto y promoción en el trabajo (Edición Original)](./original/chapter-8-workplace-influence-conflict-promotion.md)
+- De la Guía profesional de Jeff Su: [Capítulo 9 — Destacar en el trabajo con ingenio](../jeff-su-playbook/chapter-9-standing-out-at-work-resourcefulness.md)

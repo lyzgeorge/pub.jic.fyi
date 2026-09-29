@@ -71,3 +71,8 @@ These schemes are not interchangeable. Check current eligibility, closing dates,
 6. Gather income, bank, rent, childcare, medical, and other evidence early.
 7. Search benefactions, levy waivers, parent support, and Students’ Union assistance separately.
 8. Report emergencies even when they occur outside the expected plan.
+
+## Related notes
+
+- [Postgraduate Fees, Sponsorship, and Student Finance](./fees-and-student-finance.md)
+- [Working While Studying at Trinity](./working-in-trinity.md)

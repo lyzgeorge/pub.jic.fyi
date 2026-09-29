@@ -67,3 +67,8 @@ tags:
 研究生学习可能有压力，也能培养判断力、经验、友谊和职业网络。贯穿本场问答的原则是：了解选项、尽早求助，并保护足够的健康、资金和时间，才能持续投入这段经历。
 
 Postgraduate Advisory Service 的联系方式为 **postgrad.support@tcd.ie** 和 **@TCDPGAdvisory**。
+
+## 相关笔记
+
+- [学生预算与经济援助](./budgeting-and-assistance.md)
+- [培养韧性：压力、应对与自我关怀](./developing-resilience.md)

@@ -19,6 +19,8 @@ tags:
 > **活动日期：** 2026 年 9 月 7 日  
 > **来源：** [Panopto 录像](https://tcd.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6cd67c9f-7681-4439-99ae-b4b700e99f2b)
 
+国际学生到达 Trinity 后，需要处理移民登记、工作许可、银行、医疗保险和安全等事务，同时适应新的学术文化。非欧盟、欧洲经济区、英国或瑞士公民通常需在抵达后 90 天内向 Immigration Service Delivery（ISD）登记；Trinity Global Room 提供同伴建议、移民咨询和社群支持。
+
 ## 国际学生支持
 
 ### Trinity Global Room
@@ -157,3 +159,9 @@ Global Room 还举办移民咨询、迎新活动和文化活动。联系邮箱�
 - [Citizens Information：PPS number](https://www.citizensinformation.ie/en/social-welfare/irish-social-welfare-system/personal-public-service-number/)
 - [TCD jargon buster](https://www.tcd.ie/students/jargon-buster/)
 - [TCD Welcome Guide 2026](https://www.tcd.ie/study/assets/pdfs/Welcome-To-Trinity-2026.pdf)
+
+## 相关笔记
+
+- [研究生综合迎新指南](./postgraduate-general-orientation.md)
+- [在 Trinity 就读期间工作](./working-in-trinity.md)
+- [都柏林生活与约会：学生实用指南](./living-and-dating-in-dublin.md)

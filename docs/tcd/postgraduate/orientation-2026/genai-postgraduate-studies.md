@@ -84,3 +84,9 @@ Reading, note-taking, critical thinking, academic writing, structure, and revisi
 6. Rewrite from understanding rather than laundering generated prose.
 7. Acknowledge use accurately and retain a record when required.
 8. Accept responsibility for the final work.
+
+## Related notes
+
+- [Academic Integrity: Citation, Similarity, and Reference Management](./academic-integrity.md)
+- [Academic Skills for Successful Postgraduate Study](./academic-skills-postgraduate-study.md)
+- [Your Postgraduate Journey at Trinity](./postgraduate-journey.md)

@@ -1,3 +1,8 @@
+---
+title: "第八章：借助 AI 准备求职"
+description: "用 ChatGPT 或 Gemini 的多步提示词准备面试答案、调整简历与求职信、提取 LinkedIn 关键词，并逐句核对。"
+---
+
 # 第八章：借助 AI 准备求职
 
 聊天工具可以协助预测面试题、起草答案、修改申请材料和提取 LinkedIn 关键词。有效的顺序是先弄清雇主需要什么，再结合自己的经历，最后逐句核对。
@@ -90,4 +95,10 @@ Jeff 明确要求“不要编造”，并通过差异表检查。他把输出当
 
 **本章检验标准：** 每份 AI 辅助草稿从真实职位描述起步，提示词写明适用框架，使用前逐句对照自己的记录。即使不看草稿，你也能解释其中每一项主张。
 
-[← 上一章](./chapter-7-closing-the-interview-and-following-up.md) · [目录](./index.md) · [下一章 →](./chapter-9-standing-out-at-work-resourcefulness.md)
+**来源：** Jeff Su 的视频 [“Land a Job using ChatGPT: The Definitive Guide!”](https://www.youtube.com/watch?v=pmnY5V16GSE)（2023）、[“Tell Me About Yourself (The BEST Way to Answer this Interview Question)”](https://www.youtube.com/watch?v=jZJKb-obz1E)（2023）、[“You’re Not Unqualified: How to Pass 90% of Your Interviews”](https://www.youtube.com/watch?v=QrmDmQ7ZivM)（2024）、[“5 LinkedIn Profile Tips that Get You Hired (backed by data)”](https://www.youtube.com/watch?v=OKF7ZeWNrfg)（2024）。完整列表见[视频来源](./sources.md)。
+
+## 相关笔记
+
+- [第四章：回答开场与求职动机问题](./chapter-4-opening-and-motivation-answers.md)
+- [第五章：用事实回答行为与情境问题](./chapter-5-behavioral-and-situational-answers.md)
+- [每天向上职场指南·第二章：面试准备](../day-day-up-playbook/chapter-2-interview-preparation.md)

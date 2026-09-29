@@ -1,6 +1,6 @@
 ---
 title: 'Desarrollar resiliencia: estrés, afrontamiento y autocompasión'
-description: Marco práctico para comprender el estrés, ampliar la ventana de tolerancia, tomar distancia de los pensamientos, cuidar el equilibrio y suavizar la autocrítica.
+description: Marco práctico para comprender el estrés, ampliar la ventana de tolerancia, tomar distancia de los pensamientos y suavizar la autocrítica.
 date: 2026-09-09
 updated: 2026-09-09
 source_title: Developing Resilience
@@ -82,3 +82,9 @@ Primero se anotan con exactitud las palabras de la autocrítica; después se sus
 - ¿Necesito apoyo profesional, académico, médico o urgente?
 
 Estas prácticas complementan, pero no sustituyen, la atención profesional. Student Counselling, College Health, Disability Service, capellanía, tutores académicos y servicios de urgencia cumplen funciones distintas; conviene pedir ayuda pronto y acudir a apoyo urgente si existe riesgo para la seguridad.
+
+## Notas relacionadas
+
+- [Salud y bienestar durante el posgrado](./health-and-wellbeing.md)
+- [Ser estudiante de posgrado en Trinity: consejos prácticos de estudiantes y asesores](./postgraduate-student-qa-advisory-service.md)
+- [Construir una relación eficaz entre estudiante y supervisor](./student-supervisor-relationship.md)

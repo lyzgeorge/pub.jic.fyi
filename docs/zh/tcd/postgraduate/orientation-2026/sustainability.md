@@ -104,3 +104,8 @@ Education for Sustainable Development fellows 负责审核课程、帮助不同�
 
 - [Trinity Sustainability](https://www.tcd.ie/sustainability/)
 - [TFI Live](https://www.transportforireland.ie/available-apps/tfi-live/)
+
+## 相关笔记
+
+- [Trinity 创新与创业指南](./innovation-entrepreneurship.md)
+- [研究生生活中的归属与参与](./belonging-and-participation.md)

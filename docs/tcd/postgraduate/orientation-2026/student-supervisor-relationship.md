@@ -81,7 +81,7 @@ Because it is the student’s degree, respectful questioning is legitimate. Usef
 
 Assertiveness states a need or disagreement clearly while respecting the other person. It differs from either passive acceptance or hostility.
 
-## Respond when supervision is not working
+## What if supervision is not working?
 
 First identify the specific failure: unavailable meetings, unclear feedback, conflicting expectations, delayed review, interpersonal difficulty, subject mismatch, or a more serious boundary or conduct concern. Where safe, raise the concrete issue with the supervisor and propose an operational change.
 
@@ -96,3 +96,8 @@ Keep relevant written records and seek support early. Depending on the issue, ro
 - Take responsibility for training, regulations, ethics, and progress.
 - Question and disagree professionally when needed.
 - Seek independent support before a persistent problem becomes a crisis.
+
+## Related notes
+
+- [Your Postgraduate Journey at Trinity](./postgraduate-journey.md)
+- [Developing Resilience: Stress, Coping, and Self-Compassion](./developing-resilience.md)

@@ -19,7 +19,7 @@ tags: [trinity-college-dublin, postgraduate, students-union, representation]
 
 Trinity College Dublin Students’ Union (TCDSU) representa al conjunto del alumnado. Se fundó en 1968 y en 2026 declaró unos 23.000 miembros. Su independencia permite que los representantes electos defiendan las posiciones acordadas por los estudiantes sin quedar subordinados a la dirección de la universidad.
 
-## Cuatro funciones del sindicato
+## ¿Cuáles son las cuatro funciones del sindicato?
 
 - **Representación y defensa:** plantea asuntos estudiantiles dentro de Trinity, con otras universidades de Dublín, en el movimiento estudiantil nacional y ante el Gobierno.
 - **Atención de casos y orientación:** ayuda a abordar problemas académicos, de bienestar, igualdad o alojamiento y a localizar el servicio competente.
@@ -93,3 +93,9 @@ Trinity Ents organiza actividades diurnas y nocturnas: concursos, música, manua
 - Elevar asuntos de School o Faculty mediante convenors y asambleas.
 - Seguir las comunicaciones de TCDSU para conocer elecciones, vacantes, actividades, servicios y ofertas temporales.
 - Si no se entiende la terminología institucional o no está claro qué oficina corresponde, pedir al sindicato que derive la consulta en vez de dejarla sin resolver.
+
+## Notas relacionadas
+
+- [Pertenencia y participación en la vida de posgrado](./belonging-and-participation.md)
+- [Gestión de conflictos en una vivienda compartida](./managing-conflict-shared-housing.md)
+- [Ser LGBTQ+ en Trinity y en Dublín](./lgbtq-trinity-dublin.md)

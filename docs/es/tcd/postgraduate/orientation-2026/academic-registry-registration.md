@@ -54,3 +54,9 @@ Academic Registry atiende matrícula, expediente, documentos, tarjetas y adminis
 5. Revisar el expediente y usar el procedimiento formal para datos protegidos.
 6. Solicitar la TCard después de completar la matrícula y siguiendo instrucciones actuales.
 7. Preguntar pronto en ask.tcd.ie o en el Service Desk del Watts Building.
+
+## Notas relacionadas
+
+- [Tasas de posgrado, patrocinio y finanzas estudiantiles](./fees-and-student-finance.md)
+- [Orientación general de posgrado](./postgraduate-general-orientation.md)
+- [Orientación para estudiantes internacionales](./international-student-orientation.md)

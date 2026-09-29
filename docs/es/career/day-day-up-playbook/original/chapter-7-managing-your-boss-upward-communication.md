@@ -1,6 +1,6 @@
 ---
 title: Capítulo 7 - Cómo gestionar a tu jefe y la comunicación ascendente
-description: Capítulo completo en formato de clase sobre cómo llevar reuniones uno a uno reales, escalar riesgos a tiempo y conservar evidencia para tu evaluación de desempeño.
+description: Capítulo completo estilo cátedra sobre reuniones uno a uno reales, escalar riesgos a tiempo y conservar evidencia para tu evaluación de desempeño.
 date: 2026-09-23
 source_title: Chapter 7 - Managing Your Boss & Upward Communication
 tags: [career, job-search, workplace]
@@ -9,7 +9,7 @@ tags: [career, job-search, workplace]
 # Capítulo 7 - Cómo gestionar a tu jefe y la comunicación ascendente
 
 > **Título original:** Chapter 7 - Managing Your Boss & Upward Communication
-> **Fuente:** Traducción del capítulo correspondiente de la edición original completa (en inglés) de *The Day Day Up Career Playbook in Action*.
+> **Fuente:** Traducción del capítulo correspondiente de la edición original completa (en inglés) de *The Day Day Up Career Playbook in Action*, compilada a partir de los [videos de asesoría profesional de Jonathan Lee](https://www.youtube.com/@MrJonathanCareer).
 
 > Este capítulo trata sobre la relación que determina la mayor parte de los resultados de tu carrera: la que tienes con tu jefe directo. El coach ha gestionado a más de veinte reportes directos, ha llevado evaluaciones de desempeño, ha puesto a alguien en un plan de mejora de desempeño (PIP) y él mismo ha estado en uno. Su observación central es que muchos profesionales chinos y otros profesionales asiáticos crecieron en un sistema donde la retroalimentación solo fluye de arriba hacia abajo, donde decir "no" a una figura de autoridad tenía consecuencias reales, y donde quedarse callado se sentía como madurez. En un entorno laboral norteamericano, esos instintos se leen como miedo, complacencia excesiva e invisibilidad. El remedio no es volverse más ruidoso o más político. Es tratar la relación como algo que moldeas activamente: alinear en las reuniones uno a uno en lugar de reportar estatus, eliminar la incertidumbre de tu jefe en lugar de sumarle más, construir un "saldo bancario" para poder permitirte decir que no, dar retroalimentación ascendente sin emboscadas, llegar a las evaluaciones con evidencia, leer el estilo operativo de tu jefe y - cuando las cosas van mal - saber si el PIP frente a ti es de buena fe. Como él dice: "Cada día, le enseñas a tu jefe cómo tratarte. Así que enséñale bien."
 
@@ -704,3 +704,7 @@ Dos años en Uber, el jefe del coach lo puso en un PIP por habilidades de comuni
 
 **Haz:** saca a la luz el desacuerdo temprano · actualiza antes de que te pregunten · trae opciones · pregunta antes de decir · ancla en su prioridad · documenta la ayuda · guarda evidencias.
 **No hagas:** fingir alineación · guardar silencio · decir "no puedo" · disculparte por la verdad · emboscar con retroalimentación · competir en las Olimpiadas de la humildad · firmar un PIP sin leerlo.
+
+## Notas relacionadas
+
+- Versión concisa: [Capítulo 7 - Cómo gestionar a tu jefe](../chapter-7-managing-your-boss.md)

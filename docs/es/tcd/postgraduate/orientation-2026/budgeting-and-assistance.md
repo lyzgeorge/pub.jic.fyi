@@ -55,3 +55,8 @@ Benefactions y becas tienen criterios propios. Puede haber devolución de cierto
 6. Preparar pronto ingresos, banco, alquiler, cuidados y salud.
 7. Buscar por separado becas, exenciones y ayuda sindical.
 8. Comunicar emergencias imprevistas.
+
+## Notas relacionadas
+
+- [Tasas de posgrado, patrocinio y finanzas estudiantiles](./fees-and-student-finance.md)
+- [Trabajar mientras estudias en Trinity](./working-in-trinity.md)

@@ -6,7 +6,7 @@ tags: [career, job-search]
 ---
 # Chapter 5 - Offers, Salary & Career Decisions
 
-> **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on Jonathan Lee's career-coaching videos.
+> **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on [Jonathan Lee's career-coaching videos](https://www.youtube.com/@MrJonathanCareer).
 
 Understand the range, evaluate the whole offer, and make specific requests before accepting. The coach favors active negotiation; outcomes still depend on the employer, role, budget, and your alternatives.
 
@@ -87,3 +87,7 @@ Investigate the manager with concrete questions about delegation and development
 | Accept | “Thank you. I’m happy to accept the offer on the agreed terms and look forward to joining on [date]. Please let me know the next steps.” |
 
 **Before sending an acceptance:** Resolve your important questions, check the final written terms, and make sure your wording reflects the decision you actually intend.
+
+## Related notes
+
+- Full lecture version: [Chapter 5 - Offers, Salary & Career Decisions (Original Edition)](./original/chapter-5-offers-salary-career-decisions.md)

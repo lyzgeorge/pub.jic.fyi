@@ -1,3 +1,8 @@
+---
+title: "Chapter 9: Standing Out at Work — Resourcefulness"
+description: "How to stand out at work with free tools and reusable resources: better presentations, mail merge, Canva assets and onboarding guides."
+---
+
 # Chapter 9 — Standing Out at Work: Resourcefulness
 
 This chapter shows you how to use free tools and reusable materials to do visible, useful work beyond your job description, and what to check before you rely on them.
@@ -111,3 +116,10 @@ Every episode carries some version of the same four checks.
 **Chapter standard:** A resourceful piece of work solves a problem others share, reaches many people at once, and has been tested, credited and checked against company policy before anyone else sees it. Editorial guidance: if you can't say who benefits beyond yourself, it is not yet a visibility project.
 
 ---
+
+**Sources:** Jeff Su, [“4 FREE Tools to Improve Your Next Presentation!”](https://www.youtube.com/watch?v=5c9SapE_YNU) (2021); [“7 Creative Ways to use Canva!”](https://www.youtube.com/watch?v=w0Bf4u-u9AQ) (2021); [“Stand Out in the Workplace by Doing THIS!”](https://www.youtube.com/watch?v=7-xgf536_oc) (2021); [“Send Personalized BULK Emails in Gmail (for FREE)!”](https://www.youtube.com/watch?v=LJV-Uuj3RwU) (2021); [“3 FREE Tools to Create ENGAGING Presentations!”](https://www.youtube.com/watch?v=Fq1Yb4kepLo) (2022). Full list: [Sources](./sources.md).
+
+## Related notes
+
+- [Chapter 3 — Networking and Outreach on LinkedIn](./chapter-3-networking-and-outreach-on-linkedin.md)
+- [Day Day Up playbook, Chapter 8 — Influence, Conflict & Promotion](../day-day-up-playbook/chapter-8-influence-conflict-promotion.md)

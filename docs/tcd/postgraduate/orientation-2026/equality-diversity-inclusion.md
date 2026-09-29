@@ -46,7 +46,7 @@ The nine grounds presented from the Equal Status framework are gender, marital s
 
 The recording separately highlights socioeconomic status. It was not presented as a statutory tenth ground, but as a major influence that intersects with the protected grounds and affects participation.
 
-## Intersectionality
+## What is intersectionality?
 
 Intersectionality examines how multiple identities and social conditions combine to create an experience that cannot always be understood by considering each category separately.
 
@@ -103,3 +103,8 @@ Calls for student input may be circulated through academic schools or university
 
 - [Trinity EDI](https://www.tcd.ie/equality/)
 - [Trinity Policy Hub](https://www.tcd.ie/about/policies/)
+
+## Related notes
+
+- [Being LGBTQ+ at Trinity and in Dublin](./lgbtq-trinity-dublin.md)
+- [Reasonable Accommodations and Disability Support](./reasonable-accommodations.md)

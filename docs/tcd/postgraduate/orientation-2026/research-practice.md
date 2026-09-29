@@ -68,3 +68,8 @@ The session points to postgraduate and postdoctoral opportunities, Research Irel
 5. Keep an accurate RSS/ORCID-linked profile of outputs and activity.
 6. Map resource needs to suitable calls and begin before the deadline window.
 7. Use grant writing as a way to sharpen aims, methods, feasibility, and impact.
+
+## Related notes
+
+- [Academic Integrity: Citation, Similarity, and Reference Management](./academic-integrity.md)
+- [Innovation and Entrepreneurship at Trinity](./innovation-entrepreneurship.md)

@@ -62,3 +62,9 @@ College Health asesora sobre salud sexual, anticoncepción, pruebas y derivació
 5. Adaptar por discapacidad, medicación, cultura, finanzas y cuidados.
 6. Pedir ayuda cuando la autogestión no basta.
 7. Usar urgencias inmediatamente ante riesgo.
+
+## Notas relacionadas
+
+- [Desarrollar resiliencia: estrés, afrontamiento y autocompasión](./developing-resilience.md)
+- [Trinity Sport: clubes, actividad recreativa, instalaciones y participación inclusiva](./trinity-sport.md)
+- [Experiencias sexuales positivas, consentimiento y acción de testigos](./positive-sexual-experiences.md)

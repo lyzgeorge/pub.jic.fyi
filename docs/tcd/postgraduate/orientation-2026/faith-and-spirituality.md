@@ -55,3 +55,8 @@ These examples describe two societies rather than the whole faith landscape. Stu
 - Check current locations and times before attending.
 
 Faith communities can offer belonging across age, nationality, programme, and study level. Participation is voluntary, and students should be free both to practise religion and not to practise it.
+
+## Related notes
+
+- [Belonging and Participation in Postgraduate Life](./belonging-and-participation.md)
+- [International Student Orientation](./international-student-orientation.md)

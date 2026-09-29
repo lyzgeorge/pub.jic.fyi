@@ -66,3 +66,9 @@ Los gestores bibliográficos centralizan registros, importan metadatos e inserta
 5. Revisar cada coincidencia, no una cifra objetivo.
 6. Confirmar el permiso para IA y declararla.
 7. Verificar cada referencia frente al original.
+
+## Notas relacionadas
+
+- [IA generativa en los estudios de posgrado](./genai-postgraduate-studies.md)
+- [Competencias académicas para cursar con éxito un posgrado](./academic-skills-postgraduate-study.md)
+- [Práctica investigadora en Trinity: evidencia, ética, perfiles y financiación](./research-practice.md)

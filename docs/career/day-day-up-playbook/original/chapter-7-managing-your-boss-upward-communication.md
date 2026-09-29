@@ -7,6 +7,8 @@ tags: [career, job-search, workplace]
 
 # Chapter 7 - Managing Your Boss & Upward Communication
 
+> **Source:** Original (full lecture-style) edition of *The Day Day Up Career Playbook in Action*, compiled from [Jonathan Lee's career-coaching videos](https://www.youtube.com/@MrJonathanCareer).
+
 > This chapter is about the one relationship that decides most of your career outcomes: the one with your manager. The coach has managed twenty-plus direct reports, run performance reviews, put someone on a PIP, and been put on one himself. His central observation is that Chinese and other Asian professionals were raised in a system where feedback flows only downhill, where "no" to an authority figure had real consequences, and where staying quiet felt like maturity. In a North American workplace those instincts read as fear, over-agreeableness, and invisibility. The remedy is not to become louder or more political. It is to treat the relationship as something you actively shape: align in 1:1s instead of reporting status, remove your manager's uncertainty instead of adding to it, build a "bank balance" so you can afford to say no, give feedback upward without ambush, walk into reviews with evidence, read your manager's operating style, and - when it goes badly - know whether the PIP in front of you is in good faith. As he puts it, "Every day, you train your manager how to treat you. So train them well."
 
 **What you'll be able to do**
@@ -710,3 +712,6 @@ Two years into Uber, the coach's manager put him on a PIP for communication and 
 
 ---
 
+## Related notes
+
+- Concise version: [Chapter 7 - Managing Your Boss](../chapter-7-managing-your-boss.md)

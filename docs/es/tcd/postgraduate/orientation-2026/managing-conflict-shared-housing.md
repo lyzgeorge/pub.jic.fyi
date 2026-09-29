@@ -109,3 +109,8 @@ Si la situación supera las diferencias normales -sobre todo si hay conducta ins
 6. Colaborar cuando sea posible y alcanzar compromisos justos cuando sea necesario.
 7. Revisar el acuerdo al cambiar las circunstancias.
 8. Buscar apoyo de bienestar cuando el conflicto exceda una disputa doméstica normal.
+
+## Notas relacionadas
+
+- [El Students’ Union de Trinity: representación, apoyo y participación](./students-union.md)
+- [Presupuesto estudiantil y asistencia económica](./budgeting-and-assistance.md)

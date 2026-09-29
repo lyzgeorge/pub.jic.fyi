@@ -1,3 +1,8 @@
+---
+title: "Chapter 5: Evidence Under Pressure — Behavioral and Situational Answers"
+description: "How to answer behavioral questions with CARL and situational or unexpected ones with RCS, covering strengths, weakness, failure and conflict."
+---
+
 # Chapter 5 — Evidence Under Pressure: Behavioral and Situational Answers
 
 This chapter gives you two frameworks, CARL for past experiences and RCS for hypothetical ones, and shows how to apply them to strengths, weaknesses, failure, conflict, and common hybrid-work questions.
@@ -128,3 +133,10 @@ The pattern: replace a list with an example, use CARL for the past, and show ste
 **Chapter standard:** Every behavioral story should state a real context, your own actions, a measurable or honestly imperfect result, and a learning you have applied since. For every situational question, you should be able to rephrase it, ask one useful clarifying question, and lay out segments that point back to the role before you answer.
 
 ---
+
+**Sources:** Jeff Su, [“What are Your Greatest Strengths - 3 Mistakes to Avoid!”](https://www.youtube.com/watch?v=jSjOO0ekQ20) (2020); [“Tell me a time You Handled a Difficult Situation (Interview Question)”](https://www.youtube.com/watch?v=-7OIk2ZXBCg) (2021); [“Tell Me About a Time You Failed (Sample Answer included)”](https://www.youtube.com/watch?v=yidXECtZCOg) (2021); [“How to Answer an Interview Question you DIDN'T Prepare For”](https://www.youtube.com/watch?v=ZqNorUIgIe8) (2021); [“What is Your Biggest Weakness? (Ace this Interview Question!)”](https://www.youtube.com/watch?v=6ehslpTtlEo) (2022); [“7 Job Interview Questions to Prepare For!”](https://www.youtube.com/watch?v=VbugqgTtF-Q) (2022); [“You’re Not Unqualified: How to Pass 90% of Your Interviews”](https://www.youtube.com/watch?v=QrmDmQ7ZivM) (2024). Full list: [Sources](./sources.md).
+
+## Related notes
+
+- [Chapter 1 — What Employers Are Really Asking](./chapter-1-what-employers-are-really-asking.md)
+- [Day Day Up playbook, Chapter 3 — Answering Interview Questions](../day-day-up-playbook/chapter-3-answering-interview-questions.md)

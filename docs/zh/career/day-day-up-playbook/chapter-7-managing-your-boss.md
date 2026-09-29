@@ -9,7 +9,7 @@ tags: [career, workplace, manager]
 
 > **原文标题：** Chapter 7 - Managing Your Boss
 >
-> **来源：** 摘译自基于 Jonathan Lee 职业辅导视频整理的《The Day Day Up Career Playbook》精简版
+> **来源：** 摘译自基于 [Jonathan Lee 职业辅导视频](https://www.youtube.com/@MrJonathanCareer)整理的《The Day Day Up Career Playbook》精简版
 
 利用与上级的这段关系，去建立共同的预期，让工作进展更可预测，并在困难的问题变成"意外"之前，提前把它提出来。
 
@@ -115,3 +115,7 @@ tags: [career, workplace, manager]
 **编者提示：** PIP、离职、遣散费和推荐信等相关安排，取决于具体的雇主和所在司法辖区。不要基于"一定会有遣散费"这样的假设就主动辞职；在采取行动之前，先获取适当的专业建议，并确保任何约定都以书面形式确认。
 
 **工作标准：** 预期是明确说出来的，风险能够被尽早看见，而重要的决定不应该依赖于双方对同一次谈话各自不同的回忆。
+
+## 相关笔记
+
+- 完整讲义版：[第七章 - 管理你的上级与向上沟通（原版全文）](./original/chapter-7-managing-your-boss-upward-communication.md)

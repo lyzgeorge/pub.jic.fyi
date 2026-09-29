@@ -46,7 +46,7 @@ TCDSU routes include the President for campaigns, the Graduate Officer for postg
 
 The union and QSoc also administer the **T Fund** for gender-affirming non-medical items such as binders, gaffs, clothing, and makeup. The source specified two application rounds each year, a €1,000 allocation per term, and a limit of €200 per student. Medical supplies are excluded by the fund’s rules, and current application details should be checked in the weekly union email.
 
-## Changing a name or gender on the student record
+## How can students change a name or gender on the student record?
 
 Trinity’s process does not require a student to complete legal transition before asking the university to use a different name or gender marker.
 
@@ -98,3 +98,9 @@ Dublin offers queer bars, club nights, sports teams, running and hiking groups, 
 - For record changes, use Academic Registry and PAS according to the documentation route.
 - For health, counselling, equality, misconduct, or legal questions, approach the specialist service shown above.
 - For community outside Trinity, explore Outhouse and recurring groups rather than relying only on one-off nightlife listings.
+
+## Related notes
+
+- [Equality, Diversity, Equity, and Inclusion at Trinity](./equality-diversity-inclusion.md)
+- [Positive Sexual Experiences, Consent, and Bystander Action](./positive-sexual-experiences.md)
+- [Trinity Students’ Union: Representation, Support, and Participation](./students-union.md)

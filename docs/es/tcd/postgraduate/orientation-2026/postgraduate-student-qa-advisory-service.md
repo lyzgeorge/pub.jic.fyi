@@ -67,3 +67,8 @@ Comparar el progreso oculta diferencias entre disciplinas, proyectos, recursos y
 El posgrado puede ser estresante, pero también desarrolla criterio, experiencia, amistades y redes profesionales. El principio duradero de la sesión es conocer las opciones, pedir ayuda pronto y proteger suficiente salud, dinero y tiempo para seguir aprovechando la oportunidad.
 
 Se puede contactar con el Postgraduate Advisory Service en **postgrad.support@tcd.ie** y **@TCDPGAdvisory**.
+
+## Notas relacionadas
+
+- [Presupuesto estudiantil y asistencia económica](./budgeting-and-assistance.md)
+- [Desarrollar resiliencia: estrés, afrontamiento y autocompasión](./developing-resilience.md)

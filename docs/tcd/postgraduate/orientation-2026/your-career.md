@@ -61,3 +61,8 @@ The award is flexible rather than all-or-nothing. Students register through the 
 5. Add one human connection through a fair, employer event, alumni conversation or mentoring group.
 6. If useful, register for the Career Skills Award and map existing experience to its three categories.
 7. For immigration or work-permission rules, verify the current position with Trinity Global Room or the relevant official authority.
+
+## Related notes
+
+- [Innovation and Entrepreneurship at Trinity](./innovation-entrepreneurship.md)
+- [Your Postgraduate Journey at Trinity](./postgraduate-journey.md)

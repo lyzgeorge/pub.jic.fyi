@@ -7,6 +7,8 @@ tags: [career, job-search, workplace]
 
 # Chapter 9 - Career Strategy & Mindset
 
+> **Source:** Original (full lecture-style) edition of *The Day Day Up Career Playbook in Action*, compiled from [Jonathan Lee's career-coaching videos](https://www.youtube.com/@MrJonathanCareer).
+
 > Every earlier chapter taught a skill: a resume bullet, an interview story, a message to your boss. This chapter is about the operating system underneath those skills. The coach's argument, repeated across dozens of videos, is that Chinese and other immigrant professionals in North America are rarely limited by ability - "you'll be limited by one of two things, your skills or your beliefs. Never let it be your beliefs". The beliefs in question are specific and learnable to unlearn: that hard work is rewarded automatically, that confidence must come before action, that a setback says something about your worth, that a goal handed to you by your parents is your own, that the safe move is to wait. Most of the videos here are story-driven; this chapter extracts the reasoning and the transferable method from each rather than retelling them. It closes with the coach's view of how AI changes the game, which he argues is less about learning AI and more about "discovering yourself".
 
 **What you'll be able to do**
@@ -547,3 +549,7 @@ I think we should ___________. ___________ (one-sentence reason). Can we _______
 ---
 
 ---
+
+## Related notes
+
+- Concise version: [Chapter 9 - Career Strategy & Mindset](../chapter-9-career-strategy-mindset.md)

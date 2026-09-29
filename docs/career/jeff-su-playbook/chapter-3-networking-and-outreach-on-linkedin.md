@@ -1,8 +1,13 @@
+---
+title: "Chapter 3: Networking and Outreach on LinkedIn"
+description: "How to find the right people on LinkedIn, write connection requests they accept, comment to stay visible, and ask recruiters for introductions."
+---
+
 # Chapter 3 — Networking and Outreach on LinkedIn
 
 This chapter shows you how to find the people most likely to help you into a target role, reach them with requests they will accept, and stay visible to them over time.
 
-## 3.1 Why weak ties matter
+## 3.1 Why do weak ties matter?
 
 Acquaintances are more likely than close friends to help you find your next job. Close friends "swim in the same pool of information" as you, so opportunities come from "friendly outsiders." Jeff attributes this "strength of weak ties" to Mark Granovetter and says 84% of respondents in "one of the most influential research papers on sociology" got their job through a weak relationship (no paper given). His own Google job came through a friend who was then "acquaintances at best."
 
@@ -112,3 +117,10 @@ Low-quality requests can get your account restricted. This account is second-han
 **Chapter standard:** You have a short, filtered list of people in or near your target role, found through alumni, company, group, Boolean or post searches. Every request you send is personalized with a clear choice of framework. You comment at a cadence that fits your situation, you have asked at least one recruiter for an introduction rather than a favor, and nothing you send would lead a stranger to click "I don't know this person."
 
 ---
+
+**Sources:** Jeff Su, [“LinkedIn: How to Connect Like a Pro”](https://www.youtube.com/watch?v=9BdbGZtnFnQ) (2020); [“Reach out to Recruiters on LinkedIn (the right way!)”](https://www.youtube.com/watch?v=jnzh5QTKbsw) (2020); [“Top 3 Tips to STAND OUT on LinkedIn!”](https://www.youtube.com/watch?v=93exwIKifcw) (2020); [“Job Search on LinkedIn: The 1 Tip You Need to Know!”](https://www.youtube.com/watch?v=CwjwnHJE5sU) (2021); [“5 MUST-DO LinkedIn Profile Tips (that pay off forever)!”](https://www.youtube.com/watch?v=OHTRZKg2LS0) (2022); [“Job Seekers on LinkedIn Need to Know These 8 Things”](https://www.youtube.com/watch?v=D7DIHNK2DYw) (2023). Full list: [Sources](./sources.md).
+
+## Related notes
+
+- [Chapter 7 — Closing the Interview and Following Up](./chapter-7-closing-the-interview-and-following-up.md)
+- [Day Day Up playbook, Chapter 1 — Resume & Application Materials](../day-day-up-playbook/chapter-1-resume-application-materials.md)

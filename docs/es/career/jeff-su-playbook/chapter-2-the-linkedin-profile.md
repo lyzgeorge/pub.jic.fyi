@@ -11,7 +11,7 @@ El perfil debe aparecer en las búsquedas pertinentes, complementar el CV y most
 
 *El perfil funciona como resultado de búsqueda y como prueba coherente de tu trayectoria.*
 
-## 2.1 Para qué sirve
+## 2.1 ¿Para qué sirve el perfil?
 
 Jeff retoma la idea del asesor Austin Belsak: el perfil debe atraer contactos relevantes incluso mientras duermes. Los reclutadores lo encuentran por palabras clave y filtros; después de leer el CV, comprueban si cuenta la misma historia. Una persona que busca empleo suele querer discreción; quien ofrece servicios quizá prefiera un resumen largo para clientes.
 
@@ -112,3 +112,10 @@ Las antiguas evaluaciones de LinkedIn tenían 15 preguntas y daban una insignia 
 | Disponibilidad | Cierre discreto en Acerca de | Entrada visible de puesto deseado (2023) | Depende de si tienes empleo |
 
 **Criterio del capítulo:** Foto clara, portada con contenido a la derecha, titular de términos y valor, Acerca de en primera persona de unos 900–1100 caracteres con pruebas y cierre sobre el trabajo que te interesa, experiencias con cargos habituales y métricas, cinco aptitudes validadas, una muestra real en Destacados y una señal de disponibilidad adecuada. Desactiva las notificaciones antes de editar si necesitas discreción.
+
+**Fuentes:** videos de Jeff Su [«Top 5 LinkedIn Profile Tips!»](https://www.youtube.com/watch?v=BcfGWi8Qywk) (2020); [«Write an OUTSTANDING LinkedIn Summary (with Examples)!»](https://www.youtube.com/watch?v=5hNsdH6Y2Mg) (2021); [«5 MUST-KNOW LinkedIn Profile Tips for Job Seekers!»](https://www.youtube.com/watch?v=B4OhuzwLc9o) (2022); [«5 MUST-DO LinkedIn Profile Tips (that pay off forever)!»](https://www.youtube.com/watch?v=OHTRZKg2LS0) (2022); [«Job Seekers on LinkedIn Need to Know These 8 Things»](https://www.youtube.com/watch?v=D7DIHNK2DYw) (2023); [«5 LinkedIn Profile Tips that Get You Hired (backed by data)»](https://www.youtube.com/watch?v=OKF7ZeWNrfg) (2024). Lista completa en [Fuentes](./sources.md).
+
+## Notas relacionadas
+
+- [Capítulo 8: Preparación con ayuda de la IA](./chapter-8-ai-assisted-preparation.md)
+- [Guía Day Day Up, capítulo 1: Currículum y materiales de postulación](../day-day-up-playbook/chapter-1-resume-application-materials.md)

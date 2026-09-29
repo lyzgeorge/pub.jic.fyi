@@ -93,3 +93,11 @@ Si tu trayectoria no coincide exactamente con el puesto, relaciona lo que ya hic
 En un hipotético puesto de operaciones en Tesla, Jeff admite que su experiencia en cadena de suministro se limita a seguir sus paquetes de Amazon; por eso destacaría liderazgo de equipos y mejora de procesos en marketing B2B. **Sé exacto:** una IA convirtió su cargo de *Senior Management Consultant* en *Product Manager*. Puedes destacar competencias transferibles, pero no cambiar tu cargo.
 
 **Criterio del capítulo:** Antes de redactar una respuesta, identifica la preocupación detrás de la pregunta, un dato obtenido de alguien que hace el trabajo, los términos principales de vacantes comparables, una métrica y una competencia transferible que demuestren tu encaje.
+
+**Fuentes:** este capítulo reúne ideas que se repiten en varios videos de Jeff Su, sobre todo [«Why Are You a Good Fit for this Role - How to Answer»](https://www.youtube.com/watch?v=-HfeTdf2gSw) (2020); [«Why Do You Want to Work Here? (Answer this Tricky Question)»](https://www.youtube.com/watch?v=x-4MewJpaso) (2020); [«What are Your Greatest Strengths - 3 Mistakes to Avoid!»](https://www.youtube.com/watch?v=jSjOO0ekQ20) (2020); [«5 Questions You MUST Ask During a Job Interview!»](https://www.youtube.com/watch?v=P0sew9TBPJ0) (2022). La extracción de palabras clave procede también de los videos de LinkedIn citados en el capítulo 2. Lista completa en [Fuentes](./sources.md).
+
+## Notas relacionadas
+
+- [Capítulo 4: Cómo presentarte y explicar tu motivación](./chapter-4-opening-and-motivation-answers.md)
+- [Capítulo 8: Preparación con ayuda de la IA](./chapter-8-ai-assisted-preparation.md)
+- [Guía Day Day Up, capítulo 2: Preparación para la entrevista](../day-day-up-playbook/chapter-2-interview-preparation.md)

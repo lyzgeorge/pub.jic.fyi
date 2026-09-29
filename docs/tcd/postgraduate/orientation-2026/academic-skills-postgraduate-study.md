@@ -69,3 +69,9 @@ The model’s key lesson is to make reasoning explicit. Every substantial claim 
 - Build claims from appropriate evidence and record sources as you research.
 - Revise for formal tone, clarity, objectivity, cohesion, and explicit reasoning.
 - End each important claim by checking its implication: **so what?**
+
+## Related notes
+
+- [Academic Integrity: Citation, Similarity, and Reference Management](./academic-integrity.md)
+- [Building an Effective Student–Supervisor Relationship](./student-supervisor-relationship.md)
+- [Designing a Workspace That Supports Study](./designing-workspace.md)

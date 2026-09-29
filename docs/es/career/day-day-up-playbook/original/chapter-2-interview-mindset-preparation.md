@@ -1,6 +1,6 @@
 ---
 title: Capítulo 2 - Mentalidad y preparación para la entrevista
-description: Capítulo completo, estilo cátedra, sobre la mentalidad de entrevista, las tres preguntas ocultas, cómo leer la descripción del puesto, la tarea de quince minutos, cómo construir un banco de historias, los protocolos de preparación por tiempo y la primera entrevista de filtrado con RR. HH.
+description: Capítulo completo estilo cátedra sobre la mentalidad de entrevista, las tres preguntas ocultas, el banco de historias y el primer filtro de RR. HH.
 date: 2026-09-23
 source_title: Chapter 2 - Interview Mindset & Preparation
 tags: [career, job-search, workplace]
@@ -8,7 +8,7 @@ tags: [career, job-search, workplace]
 
 # Capítulo 2 - Mentalidad y preparación para la entrevista
 
-> Traducción del capítulo correspondiente de la edición original completa (en inglés) de *The Day Day Up Career Playbook in Action*.
+> Traducción del capítulo correspondiente de la edición original completa (en inglés) de *The Day Day Up Career Playbook in Action*, compilada a partir de los [videos de asesoría profesional de Jonathan Lee](https://www.youtube.com/@MrJonathanCareer).
 > **Título original:** Chapter 2 - Interview Mindset & Preparation
 
 Este capítulo cubre todo lo que ocurre *antes* de responder la primera pregunta real: cómo pensar sobre la entrevista, de dónde vienen realmente los nervios, qué está preguntando en el fondo el entrevistador, cómo investigar la descripción del puesto, la empresa y el entrevistador, cómo construir un pequeño banco de historias reutilizables entre entrevistas, cómo ejecutar una sesión de preparación con límite de tiempo cuando tienes una hora o tres, cómo revisar tu propio desempeño, y cómo pasar el primer filtro telefónico de RR. HH. El argumento central del coach, repetido en docenas de videos, es que los hablantes no nativos deben dejar de intentar hablar mejor que los candidatos nativos y, en cambio, prepararse mejor que ellos: "Tu inglés ya es suficientemente bueno" - lo que cambia los resultados es conocer el dolor del gerente de contratación, tener tres historias bien construidas y entrar con un punto de vista propio. Las entrevistas no son exámenes con una respuesta correcta; son un ser humano con un problema, tratando de decidir si puede confiarte ese problema.
@@ -785,3 +785,7 @@ PASADO                                  FUTURO
 
 **Haz** - di su nombre, sonríe, pregunta antes de tu introducción en qué enfocarte, aclara antes de responder, verifica a mitad de respuesta, agradece y revisa cuando te desafíen, pide un momento ante preguntas curva.
 **No hagas** - "Bien, ¿y tú?", recorrido por el currículum, "quiero crecer", explicar de más los huecos, preguntarle a RR. HH. sobre cultura, memorizar 20 historias, llenar el silencio con "eh" - "llénalas con silencio".
+
+## Notas relacionadas
+
+- Versión concisa: [Capítulo 2 - Preparación para la entrevista](../chapter-2-interview-preparation.md)

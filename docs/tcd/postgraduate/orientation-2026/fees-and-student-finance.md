@@ -61,3 +61,9 @@ Private loans may be available where federal aid is unavailable, but terms diffe
 6. Put the eight-digit student number on every payment and enquiry.
 7. Check current programme eligibility for US aid.
 8. Raise discrepancies before they block registration or generate overdue balances.
+
+## Related notes
+
+- [Registration and the Academic Registry](./academic-registry-registration.md)
+- [Student Budgeting and Financial Assistance](./budgeting-and-assistance.md)
+- [Working While Studying at Trinity](./working-in-trinity.md)

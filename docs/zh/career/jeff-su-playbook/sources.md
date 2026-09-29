@@ -1,3 +1,8 @@
+---
+title: "Jeff Su 求职与职场指南：视频来源"
+description: "前九章所依据的 Jeff Su YouTube 视频（标题、上传日期与链接），以及第十章的 Michael Seibel 讲座。"
+---
+
 # 视频来源
 
 前九章来源为 Jeff Su 的 YouTube 频道；第十章另据 Michael Seibel 的 Y Combinator 讲座，详见文末。下表标签对应 Jeff Su 视频的逐字稿文件夹：IQ = `Interview-qa/`，LI = `Linkedin-tips/`，TH = `Think-hard/`。视频标题、上传日期与时长于 2026-09-27 使用 yt-dlp 获取。标题保留 YouTube 原文，以便检索。

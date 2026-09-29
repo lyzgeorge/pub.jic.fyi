@@ -1,6 +1,6 @@
 ---
 title: Capítulo 8 - Influencia, conflicto y promoción en el trabajo
-description: Capítulo completo, estilo cátedra, sobre cómo hacer visible el trabajo de valor, el marco ACT para propuestas, el manejo de conflictos y cómo convertir la promoción en una conversación concreta.
+description: Capítulo completo estilo cátedra sobre hacer visible el trabajo de valor, el marco ACT para propuestas, el manejo de conflictos y la promoción.
 date: 2026-09-23
 source_title: Chapter 8 - Workplace Influence, Conflict & Promotion
 tags: [career, job-search, workplace]
@@ -9,7 +9,7 @@ tags: [career, job-search, workplace]
 # Capítulo 8 - Influencia, conflicto y promoción en el trabajo
 
 > **Título original:** Chapter 8 - Workplace Influence, Conflict & Promotion
-> **Fuente:** Traducción del capítulo correspondiente de la edición original completa (en inglés) de *The Day Day Up Career Playbook in Action*.
+> **Fuente:** Traducción del capítulo correspondiente de la edición original completa (en inglés) de *The Day Day Up Career Playbook in Action*, compilada a partir de los [videos de asesoría profesional de Jonathan Lee](https://www.youtube.com/@MrJonathanCareer).
 
 > Este capítulo cubre la parte del trabajo para la que ni tu carrera de ingeniería, ni tu MBA, ni las lecciones en la mesa de tus padres te prepararon: lograr que tu trabajo se *vea*, mover a personas que no te reportan, discrepar sin dañar la relación, absorber responsabilidad sin absorber la culpa, y convertir un "lo estás haciendo genial" en una promoción real. El diagnóstico central del coach atraviesa todos los videos aquí citados: a los profesionales chinos y otros no nativos en Norteamérica se les entrena para hacer un 10/10 y comunicar un 5/10, mientras que sus colegas occidentales hacen un 5/10 y dicen un 11/10. La brecha no es el inglés ni el talento. Es un conjunto de habilidades que se pueden aprender -visibilidad, influencia, desacuerdo calibrado, higiene de la propiedad (ownership), lectura política y mecánica de las promociones- y este capítulo las enseña como hábitos, con guiones incluidos.
 
@@ -610,3 +610,7 @@ Comprobante: [captura / enlace] ______
 - Reconoce; no te disculpes en momentos de alto riesgo.
 - Muestra el KPI del siguiente nivel; no demuestres más el anterior.
 - Entrevístate externamente cada dos años; no dejes que una sola empresa marque tu ritmo.
+
+## Notas relacionadas
+
+- Versión concisa: [Capítulo 8 - Influencia, conflicto y promoción](../chapter-8-influence-conflict-promotion.md)

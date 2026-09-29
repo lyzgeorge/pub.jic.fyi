@@ -49,7 +49,7 @@ Antes, enviar agenda y preparar materiales y preguntas. Durante, aclarar, pregun
 
 Es el título del estudiante, por lo que puede pedir repetición o explicación, exponer por qué discrepa, preguntar si queda alguna preocupación no expresada y solicitar la siguiente reunión. La asertividad expresa necesidades con respeto; no es pasividad ni hostilidad.
 
-## Cuando no funciona
+## ¿Qué hacer cuando la supervisión no funciona?
 
 Hay que identificar si faltan reuniones, los comentarios son vagos o tardíos, existen expectativas incompatibles, desajuste temático, dificultad interpersonal o un problema serio de límites o conducta. Cuando sea seguro, plantear el hecho y un cambio operativo, conservando registros pertinentes.
 
@@ -64,3 +64,8 @@ El apoyo puede proceder de cosupervisor, comité de tesis, coordinación de posg
 - Asumir formación, normativa, ética y progreso.
 - Discrepar profesionalmente cuando sea necesario.
 - Pedir apoyo independiente antes de una crisis.
+
+## Notas relacionadas
+
+- [Tu trayectoria de posgrado en Trinity](./postgraduate-journey.md)
+- [Desarrollar resiliencia: estrés, afrontamiento y autocompasión](./developing-resilience.md)

@@ -1,3 +1,8 @@
+---
+title: "第四章：回答开场与求职动机问题"
+description: "如何回答“请介绍自己”“为什么你适合”“为什么来这里”“五年后希望在哪里”四道开场题。"
+---
+
 # 第四章：回答开场与求职动机问题
 
 多数面试都绕不开四题：“请介绍自己”“为什么你适合”“为什么来这里”“五年后希望在哪里”。回答时要兼顾问题背后的顾虑和这份岗位的具体要求。
@@ -73,4 +78,9 @@ Jeff 认为这是最重要的面试题：它定下气氛，也让你早点建立
 
 **本章检验标准：** 四个回答都要回应问题背后的顾虑，接近两分钟，至少有一项客观指标或具体研究发现，结尾落到这份岗位。“为什么来这里”应可复用；每个自我介绍亮点都备有完整故事供追问。
 
-[← 上一章](./chapter-3-networking-and-outreach-on-linkedin.md) · [目录](./index.md) · [下一章 →](./chapter-5-behavioral-and-situational-answers.md)
+**来源：** Jeff Su 的视频 [“Tell Me About Yourself - Structure a Strong Answer”](https://www.youtube.com/watch?v=es7XtrloDIQ)（2020）、[“Why Are You a Good Fit for this Role - How to Answer”](https://www.youtube.com/watch?v=-HfeTdf2gSw)（2020）、[“Why Do You Want to Work Here? (Answer this Tricky Question)”](https://www.youtube.com/watch?v=x-4MewJpaso)（2020）、[“Where Do You See Yourself in 5 Years - How to Answer”](https://www.youtube.com/watch?v=ClmHniKlt6k)（2020）、[“Tell Me About Yourself (The BEST Way to Answer this Interview Question)”](https://www.youtube.com/watch?v=jZJKb-obz1E)（2023）。完整列表见[视频来源](./sources.md)。
+
+## 相关笔记
+
+- [第六章：解释离职、裁员与履历空档](./chapter-6-explaining-transitions.md)
+- [每天向上职场指南·第三章：回答面试问题](../day-day-up-playbook/chapter-3-answering-interview-questions.md)

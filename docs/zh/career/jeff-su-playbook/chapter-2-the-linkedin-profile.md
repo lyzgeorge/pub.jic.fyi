@@ -1,3 +1,8 @@
+---
+title: "第二章：打造 LinkedIn 个人档案"
+description: "打造能被招聘人员搜到的 LinkedIn 档案：关键词布局、Headline、About、Experience、技能与求职信号。"
+---
+
 # 第二章：打造 LinkedIn 个人档案
 
 一份好的 LinkedIn 档案应让招聘人员能找到你，补充而不复制简历，并以适合现状的方式表达求职意向。
@@ -6,7 +11,7 @@
 
 *职业档案既要便于被找到，也要让经历与成果相互印证。*
 
-## 2.1 档案的作用
+## 2.1 LinkedIn 档案有什么用？
 
 职业教练 Austin Belsak 将档案的目标概括为：你睡觉时，它也能带来相关访客。对求职者来说，就是让招聘人员和用人经理主动联系。LinkedIn 依据关键词和筛选条件呈现搜索结果；招聘人员看完简历，也会打开档案核对你的职业故事。求职者可能希望低调调整资料，创业者却可能需要长篇简介吸引客户，目标并不相同。
 
@@ -111,4 +116,9 @@ Skills 是招聘搜索的筛选条件。Jeff 引述 Sarah Johnson 的研究称 4
 
 **本章检验标准：** 照片清楚、横幅重点靠右；Headline 包含关键词和价值；第一人称 About 约 900–1,100 字符，有证据并以感兴趣的工作收尾；Experience 使用标准职称和指标。至少五项技能得到认可，Featured 有真实作品，求职信号适合自身处境；修改前先关闭动态通知。
 
-[← 上一章](./chapter-1-what-employers-are-really-asking.md) · [目录](./index.md) · [下一章 →](./chapter-3-networking-and-outreach-on-linkedin.md)
+**来源：** Jeff Su 的视频 [“Top 5 LinkedIn Profile Tips!”](https://www.youtube.com/watch?v=BcfGWi8Qywk)（2020）、[“Write an OUTSTANDING LinkedIn Summary (with Examples)!”](https://www.youtube.com/watch?v=5hNsdH6Y2Mg)（2021）、[“5 MUST-KNOW LinkedIn Profile Tips for Job Seekers!”](https://www.youtube.com/watch?v=B4OhuzwLc9o)（2022）、[“5 MUST-DO LinkedIn Profile Tips (that pay off forever)!”](https://www.youtube.com/watch?v=OHTRZKg2LS0)（2022）、[“Job Seekers on LinkedIn Need to Know These 8 Things”](https://www.youtube.com/watch?v=D7DIHNK2DYw)（2023）、[“5 LinkedIn Profile Tips that Get You Hired (backed by data)”](https://www.youtube.com/watch?v=OKF7ZeWNrfg)（2024）。完整列表见[视频来源](./sources.md)。
+
+## 相关笔记
+
+- [第八章：借助 AI 准备求职](./chapter-8-ai-assisted-preparation.md)
+- [每天向上职场指南·第一章：简历与求职材料](../day-day-up-playbook/chapter-1-resume-application-materials.md)

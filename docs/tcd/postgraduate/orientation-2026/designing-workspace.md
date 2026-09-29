@@ -70,3 +70,9 @@ Disability Service occupational therapists can discuss environment and routine e
 5. Keep arrangements that help and reject generic advice that does not.
 6. Plan recurring bookings and transitions across the week.
 7. Seek occupational, ergonomic, or accessibility support for persistent barriers.
+
+## Related notes
+
+- [Reasonable Accommodations and Disability Support](./reasonable-accommodations.md)
+- [Academic Skills for Successful Postgraduate Study](./academic-skills-postgraduate-study.md)
+- [Health and Wellbeing During Postgraduate Study](./health-and-wellbeing.md)

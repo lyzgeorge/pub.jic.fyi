@@ -1,11 +1,13 @@
 ---
 title: Chapter 8 - Workplace Influence, Conflict & Promotion
-description: Full lecture-style chapter on making valuable work visible, the ACT framework for proposals, handling conflict, and turning promotion into a concrete conversation.
+description: Full lecture-style chapter on making valuable work visible, the ACT framework for proposals, handling conflict, and making promotion concrete.
 date: 2026-09-23
 tags: [career, job-search, workplace]
 ---
 
 # Chapter 8 - Workplace Influence, Conflict & Promotion
+
+> **Source:** Original (full lecture-style) edition of *The Day Day Up Career Playbook in Action*, compiled from [Jonathan Lee's career-coaching videos](https://www.youtube.com/@MrJonathanCareer).
 
 > This chapter covers the part of the job that nobody in your engineering degree, your MBA, or your parents' dinner-table lessons prepared you for: getting your work *seen*, moving people who don't report to you, disagreeing without damage, absorbing responsibility without absorbing blame, and turning "you're doing great" into an actual promotion. The coach's core diagnosis runs through every video here: Chinese and other non-native professionals in North America are trained to do 10/10 and communicate 5/10, while their Western co-workers do 5/10 and say 11/10. The gap is not English and it is not talent. It is a set of learnable skills - visibility, influence, calibrated disagreement, ownership hygiene, political literacy, and promotion mechanics - and this chapter teaches them as habits with scripts.
 
@@ -608,3 +610,6 @@ Development area: "______ is one area that I'm developing. I've started ______."
 
 ---
 
+## Related notes
+
+- Concise version: [Chapter 8 - Influence, Conflict & Promotion](../chapter-8-influence-conflict-promotion.md)

@@ -65,3 +65,8 @@ tags:
 - 感到不安全或界限不受尊重时立即离开。
 
 遭遇霸凌、骚扰或不当性行为的学生，可联系 Trinity Dignity, Respect & Consent Service 获取信息与支持。
+
+## 相关笔记
+
+- [积极的性体验、同意与旁观者行动](./positive-sexual-experiences.md)
+- [国际学生迎新](./international-student-orientation.md)

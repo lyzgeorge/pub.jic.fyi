@@ -1,6 +1,6 @@
 ---
 title: Capítulo 9 - Estrategia de carrera y mentalidad
-description: Capítulo completo estilo cátedra sobre cómo sopesar la recompensa frente al costo, construir confianza a partir de evidencia y distinguir entre problemas de habilidad, entorno y mercado.
+description: Capítulo completo estilo cátedra sobre sopesar recompensa y costo, construir confianza con evidencia y distinguir habilidad, entorno y mercado.
 date: 2026-09-23
 source_title: Chapter 9 - Career Strategy & Mindset
 tags: [career, job-search, workplace]
@@ -9,7 +9,7 @@ tags: [career, job-search, workplace]
 # Capítulo 9 - Estrategia de carrera y mentalidad
 
 > **Título original:** Chapter 9 - Career Strategy & Mindset
-> **Fuente:** Traducción del capítulo correspondiente de la edición original completa (en inglés) de *The Day Day Up Career Playbook in Action*.
+> **Fuente:** Traducción del capítulo correspondiente de la edición original completa (en inglés) de *The Day Day Up Career Playbook in Action*, compilada a partir de los [videos de asesoría profesional de Jonathan Lee](https://www.youtube.com/@MrJonathanCareer).
 
 > Cada capítulo anterior enseñó una habilidad: una viñeta de currículum, una historia de entrevista, un mensaje a tu jefe. Este capítulo trata sobre el sistema operativo que subyace a esas habilidades. El argumento del coach, repetido en decenas de videos, es que los profesionales chinos y otros inmigrantes en Norteamérica rara vez están limitados por su capacidad - "estarás limitado por una de dos cosas: tus habilidades o tus creencias. Nunca dejes que sean tus creencias". Las creencias en cuestión son específicas y se pueden desaprender: que el trabajo duro se recompensa automáticamente, que la confianza debe llegar antes que la acción, que un revés dice algo sobre tu valor, que una meta que te dieron tus padres es tuya, que lo seguro es esperar. La mayoría de los videos aquí están basados en historias; este capítulo extrae el razonamiento y el método transferible de cada uno, en lugar de volver a narrarlos. Cierra con la visión del coach sobre cómo la IA cambia el juego, que según él tiene menos que ver con aprender IA y más con "descubrirte a ti mismo".
 
@@ -546,3 +546,7 @@ Creo que deberíamos ___________. ___________ (razón en una frase). ¿Podemos _
 | Demuestra el KPI del siguiente nivel; entrevista cada dos años | Duplicar en el KPI antiguo; esperar reconocimiento interno |
 | Pregunta "¿qué me está haciendo quedarme?" | Encuestar amigos con "¿qué harías tú?" |
 | Construye picos; usa la IA para amplificar tu valor humano | Aprender IA en pánico; dejar que la IA escriba tu voz |
+
+## Notas relacionadas
+
+- Versión concisa: [Capítulo 9 - Estrategia de carrera y mentalidad](../chapter-9-career-strategy-mindset.md)

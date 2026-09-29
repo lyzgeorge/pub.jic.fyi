@@ -218,3 +218,8 @@ TCD Library 是法定送存研究图书馆，馆藏约 700 万件实体资料、
 - [TCD Library](https://www.tcd.ie/library/)
 - [Library borrowing](https://www.tcd.ie/library/using-library/borrowing/)
 - [Library skills training](https://www.tcd.ie/library/support/skills-training.php)
+
+## 相关笔记
+
+- [注册手续与 Academic Registry](./academic-registry-registration.md)
+- [国际学生迎新](./international-student-orientation.md)

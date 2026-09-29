@@ -49,3 +49,8 @@ Christian Union 面向不同背景的基督徒和对基督信仰好奇者，活�
 - 参加前核实最新地点和时间。
 
 信仰共同体可以跨年龄、国籍、课程和学习阶段提供归属。参与应完全自愿，学生既有实践宗教的自由，也有不实践宗教的自由。
+
+## 相关笔记
+
+- [研究生生活中的归属与参与](./belonging-and-participation.md)
+- [国际学生迎新](./international-student-orientation.md)

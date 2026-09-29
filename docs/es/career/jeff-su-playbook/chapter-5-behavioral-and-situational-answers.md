@@ -5,6 +5,8 @@ description: Usa CARL para experiencias reales y RCS para preguntas hipotéticas
 
 # Capítulo 5 — Respuestas conductuales y situacionales
 
+Este capítulo ofrece dos estructuras: CARL para experiencias pasadas y RCS para supuestos o preguntas imprevistas. Ambas se aplican a fortalezas, debilidades, fracasos, conflictos y preguntas sobre trabajo híbrido.
+
 ## 5.1 Dos tipos de preguntas para aportar pruebas
 
 Las preguntas **conductuales** piden una experiencia pasada («Cuéntame una ocasión en que…»); prepáralas con CARL. Las **situacionales** plantean qué harías en un caso hipotético («Imagina que…»); empieza con RCS. Jeff dice que más del 90 % de las preguntas no técnicas entran en esas categorías, sin aportar fuente.
@@ -108,3 +110,10 @@ Un video de febrero de 2022 enumera siete preguntas. Sus cifras iniciales —52 
 5. Guarda preguntas y respuestas en un solo documento.
 
 **Criterio del capítulo:** Cada historia real contiene contexto, tus acciones, un resultado medible o sinceramente imperfecto y un aprendizaje aplicado después. Ante un supuesto, sabes reformular, hacer una aclaración útil y dividir el problema según el puesto antes de responder.
+
+**Fuentes:** videos de Jeff Su [«What are Your Greatest Strengths - 3 Mistakes to Avoid!»](https://www.youtube.com/watch?v=jSjOO0ekQ20) (2020); [«Tell me a time You Handled a Difficult Situation (Interview Question)»](https://www.youtube.com/watch?v=-7OIk2ZXBCg) (2021); [«Tell Me About a Time You Failed (Sample Answer included)»](https://www.youtube.com/watch?v=yidXECtZCOg) (2021); [«How to Answer an Interview Question you DIDN'T Prepare For»](https://www.youtube.com/watch?v=ZqNorUIgIe8) (2021); [«What is Your Biggest Weakness? (Ace this Interview Question!)»](https://www.youtube.com/watch?v=6ehslpTtlEo) (2022); [«7 Job Interview Questions to Prepare For!»](https://www.youtube.com/watch?v=VbugqgTtF-Q) (2022); [«You’re Not Unqualified: How to Pass 90% of Your Interviews»](https://www.youtube.com/watch?v=QrmDmQ7ZivM) (2024). Lista completa en [Fuentes](./sources.md).
+
+## Notas relacionadas
+
+- [Capítulo 1: Qué quieren saber realmente los empleadores](./chapter-1-what-employers-are-really-asking.md)
+- [Guía Day Day Up, capítulo 3: Cómo responder preguntas de entrevista](../day-day-up-playbook/chapter-3-answering-interview-questions.md)

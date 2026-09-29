@@ -58,3 +58,8 @@ tags: [trinity-college-dublin, research, library, ethics, funding]
 5. 维护 RSS／ORCID 研究档案。
 6. 将资源需要匹配到经费项目并尽早准备。
 7. 用申请过程检验目标、方法、可行性和影响。
+
+## 相关笔记
+
+- [学术诚信：引用、相似度与文献管理](./academic-integrity.md)
+- [Trinity 创新与创业指南](./innovation-entrepreneurship.md)

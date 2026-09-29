@@ -5,7 +5,9 @@ description: Formula preguntas útiles, detecta reservas y escribe un agradecimi
 
 # Capítulo 7 — El cierre de la entrevista y el seguimiento
 
-## 7.1 Por qué importan tus preguntas
+Aprovecha los últimos minutos de la entrevista y los días siguientes: pregunta lo que solo el entrevistador puede responder, anota un detalle concreto y consigue su dirección para enviar un agradecimiento específico, y haz seguimiento sin resultar insistente.
+
+## 7.1 ¿Por qué importan tus preguntas?
 
 Los últimos minutos también forman parte de la evaluación. Jeff cita a Mark Cuban: las preguntas revelan tu preparación; el mayor error es preguntar algo disponible en internet. Pregunta lo que solo esa persona sabe y adapta la formulación con uno o dos detalles, para que surja una conversación real.
 
@@ -62,3 +64,11 @@ Envía el agradecimiento **dentro de 24 horas**, regla de Jeff ante opiniones di
 Puedes aclarar una respuesta débil o una reserva que salió en la entrevista, en una o dos frases. Por ejemplo, si pidieron marketing de contenidos: «Aunque mi función principal era marketing de producto, también redacto nuestro boletín trimestral, con una tasa de apertura del 48 %, un 9 % superior a la media del equipo»; las cifras del ejemplo son hipotéticas. Trata solo algo que ya hablasteis, no una propuesta nueva. Preguntar por reservas durante la entrevista y abordarlas después por correo son pasos consecutivos.
 
 **Criterio del capítulo:** Sales habiendo hecho al menos dos preguntas que no responde una web, con un detalle concreto anotado y una dirección o un reclutador que remita el correo. Envías el agradecimiento dentro de 24 horas, incluyes ese detalle y aclaras como máximo una reserva expresada durante la charla.
+
+**Fuentes:** videos de Jeff Su [«5 Questions You MUST Ask During a Job Interview!»](https://www.youtube.com/watch?v=P0sew9TBPJ0) (2022); [«Write a PERFECT Interview Thank You Email!»](https://www.youtube.com/watch?v=gSbV3q_MMbg) (2022). Lista completa en [Fuentes](./sources.md).
+
+## Notas relacionadas
+
+- [Capítulo 1: Qué quieren saber realmente los empleadores](./chapter-1-what-employers-are-really-asking.md)
+- [Capítulo 5: Respuestas conductuales y situacionales](./chapter-5-behavioral-and-situational-answers.md)
+- [Guía Day Day Up, capítulo 4: Dinámica de la entrevista y seguimiento](../day-day-up-playbook/chapter-4-interview-dynamics-follow-up.md)

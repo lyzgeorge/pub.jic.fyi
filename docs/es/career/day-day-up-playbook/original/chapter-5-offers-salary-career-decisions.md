@@ -9,7 +9,7 @@ tags: [career, job-search, workplace]
 # Capítulo 5 - Ofertas, salario y decisiones de carrera
 
 > **Título original:** Chapter 5 - Offers, Salary & Career Decisions
-> **Fuente:** Traducción del capítulo correspondiente de la edición original completa (en inglés) de *The Day Day Up Career Playbook in Action*.
+> **Fuente:** Traducción del capítulo correspondiente de la edición original completa (en inglés) de *The Day Day Up Career Playbook in Action*, compilada a partir de los [videos de asesoría profesional de Jonathan Lee](https://www.youtube.com/@MrJonathanCareer).
 
 > Este capítulo aborda el tramo de la búsqueda de empleo que la mayoría de los candidatos trata como un trámite y que el coach considera la conversación de mayor riesgo de todo el proceso: la pregunta sobre el salario, la oferta verbal y escrita, el correo de respuesta y la decisión entre ofertas. Su tesis central es que negociar el salario no es un único momento al final, sino un juego de tres rondas que empieza la primera vez que un reclutador pregunta "¿cuál es tu expectativa salarial?", y que "no negociar" es "el mayor error financiero que puedes cometer en toda tu vida". También argumenta, desde su propia experiencia como gerente de contratación que hizo crecer equipos de cero a más de cien personas, que las empresas esperan que negocies, rara vez retiran una oferta por una contraoferta respetuosa, y pagan lo máximo a quienes consideran los mejores candidatos. El capítulo pasa luego a lo que realmente contiene una oferta -título, nivel, compensación garantizada frente a variable, beneficios- y a cómo elegir entre ofertas según lo que es duradero y no según lo que brilla más.
 
@@ -509,3 +509,7 @@ Aceptar:   gratitud → confirma el sí → entusiasmo (tres líneas,
 - "Los candidatos inteligentes no persiguen ofertas. Las eligen."
 
 ---
+
+## Notas relacionadas
+
+- Versión concisa: [Capítulo 5 - Ofertas, salario y decisiones de carrera](../chapter-5-offers-salary-career-decisions.md)

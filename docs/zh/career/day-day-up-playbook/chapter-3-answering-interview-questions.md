@@ -9,7 +9,7 @@ tags: [career, job-search]
 
 > **原文标题：** Chapter 3 - Answering Interview Questions
 >
-> **来源：** 摘译自基于 Jonathan Lee 职业辅导视频整理的《The Day Day Up Career Playbook》精简版
+> **来源：** 摘译自基于 [Jonathan Lee 职业辅导视频](https://www.youtube.com/@MrJonathanCareer)整理的《The Day Day Up Career Playbook》精简版
 
 选择合适的回答形式，让自己的贡献清晰可见，并把证据与岗位需求对应起来。把范例脚本当作起点，而不是需要背诵的台词。
 
@@ -123,3 +123,8 @@ STAR 仍然是检查完整性的实用清单。教练提出的 **HEALER** 框架
 对于 AI 相关的问题，描述一个你用 AI 解决的真实问题、你如何核查输出结果，以及哪些部分你仍然保留在人工判断之下。避免只是罗列工具而没有结果。
 
 **结束回答前检查：** 确认自己回答了问题、明确了自己的角色、提供了可信的证据，并把结果与面试官关心的问题联系了起来。然后停下来，留出追问的空间。
+
+## 相关笔记
+
+- 完整讲义版：[第三章 - 回答面试问题（原版全文）](./original/chapter-3-answering-interview-questions.md)
+- Jeff Su 求职与职场指南：[第五章：用事实回答行为与情境问题](../jeff-su-playbook/chapter-5-behavioral-and-situational-answers.md)

@@ -9,7 +9,7 @@ tags: [career, job-search]
 
 > **原文标题：** Chapter 1 - Resume & Application Materials
 >
-> **来源：** 摘译自基于 Jonathan Lee 职业辅导视频整理的《The Day Day Up Career Playbook》精简版
+> **来源：** 摘译自基于 [Jonathan Lee 职业辅导视频](https://www.youtube.com/@MrJonathanCareer)整理的《The Day Day Up Career Playbook》精简版
 
 让你的相关价值容易被看到，然后通过多条渠道触达招聘方。
 
@@ -102,3 +102,9 @@ tags: [career, job-search]
 当出现合适的岗位机会时，在原有的对话中回复，说明具体岗位以及你经历中任何有意义的更新。面试后续跟进的内容见第四章。
 
 **具备投递条件的标志：** 你有一份易于阅读的简历、经得起追问的影响力条目、与岗位核心需求的清晰匹配度，以及一个能通过不止一条渠道触达招聘方的求职计划。
+
+## 相关笔记
+
+- 相关章节：[第四章 - 面试互动与后续跟进](./chapter-4-interview-dynamics-follow-up.md)
+- 完整讲义版：[第一章 - 简历与求职材料（原版全文）](./original/chapter-1-resume-application-materials.md)
+- Jeff Su 求职与职场指南：[第三章：在 LinkedIn 建立人脉与主动联系](../jeff-su-playbook/chapter-3-networking-and-outreach-on-linkedin.md)

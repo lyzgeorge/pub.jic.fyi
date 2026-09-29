@@ -9,7 +9,7 @@ tags: [career, job-search]
 
 > **原文标题：** Chapter 4 - Interview Dynamics & Follow-up
 >
-> **来源：** 摘译自基于 Jonathan Lee 职业辅导视频整理的《The Day Day Up Career Playbook》精简版
+> **来源：** 摘译自基于 [Jonathan Lee 职业辅导视频](https://www.youtube.com/@MrJonathanCareer)整理的《The Day Day Up Career Playbook》精简版
 
 利用这场对话去了解真正重要的信息，展示你的工作方式，并明确下一步的安排。
 
@@ -86,3 +86,8 @@ tags: [career, job-search]
 被拒绝之后，感谢那些投入了时间的人，在合适的情况下请求反馈，并询问是否可以保持联系。当出现相关机会或有意义的新进展时，再重新打开原来的对话。尊重对方明确的拒绝。
 
 **每次面试结束时应该带走的东西：** 对这个岗位更深入的理解、可获得的清晰下一步安排，以及一条记录下来的、用于下次对话改进的经验。
+
+## 相关笔记
+
+- 完整讲义版：[第四章 - 面试互动与面试官心理（原版全文）](./original/chapter-4-interview-dynamics-interviewer-mind.md)
+- Jeff Su 求职与职场指南：[第七章：结束面试与后续跟进](../jeff-su-playbook/chapter-7-closing-the-interview-and-following-up.md)

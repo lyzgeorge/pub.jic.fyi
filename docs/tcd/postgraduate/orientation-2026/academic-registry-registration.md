@@ -56,3 +56,9 @@ Use Academic Registry for registration, records, documents, cards, finance admin
 5. Check the student record and use the formal route for protected personal details.
 6. Follow current TCard instructions only after registration is complete.
 7. Ask early: use ask.tcd.ie or the Academic Registry Service Desk in the Watts Building.
+
+## Related notes
+
+- [Postgraduate Fees, Sponsorship, and Student Finance](./fees-and-student-finance.md)
+- [Postgraduate General Orientation](./postgraduate-general-orientation.md)
+- [International Student Orientation](./international-student-orientation.md)

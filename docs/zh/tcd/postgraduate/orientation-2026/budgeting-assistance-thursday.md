@@ -55,3 +55,8 @@ Benefactions 和 bursaries 按课程、背景、活动或处境设不同条件�
 6. 提前准备收入、银行、房租、托儿和医疗证明。
 7. 分别搜索 benefactions、levy 减免、家长支持和学生会援助。
 8. 计划外紧急情况也要主动报告。
+
+## 相关笔记
+
+- [研究生学费、资助方与学生财务](./fees-and-student-finance.md)
+- [在 Trinity 就读期间工作](./working-in-trinity.md)

@@ -7,6 +7,8 @@ tags: [career, job-search, workplace]
 
 # Chapter 4 - Interview Dynamics & the Interviewer's Mind
 
+> **Source:** Original (full lecture-style) edition of *The Day Day Up Career Playbook in Action*, compiled from [Jonathan Lee's career-coaching videos](https://www.youtube.com/@MrJonathanCareer).
+
 > Chapters 2 and 3 taught you what to prepare and how to build answers. This chapter is about everything that happens *around* the answers: what the interviewer is actually thinking, which kind of interviewer you are facing, how to hear the real question behind the polite one, how to open and close the room, what to ask back, what to write afterwards, and what to do when the answer is no. The coach's central claim is that hiring managers run two evaluations at once - "can you do the job?" and "do I want to work with you?" - and that the second, which no rubric measures, usually decides the offer. Chinese candidates, he observes, prepare relentlessly for the first and almost never for the second. This chapter is the preparation for the second.
 
 **What you'll be able to do**
@@ -585,3 +587,6 @@ After rejection a gap clearly exists - the best moment for real feedback; appeal
 
 ---
 
+## Related notes
+
+- Concise version: [Chapter 4 - Interview Dynamics & Follow-up](../chapter-4-interview-dynamics-follow-up.md)

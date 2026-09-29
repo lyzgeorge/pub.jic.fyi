@@ -1,3 +1,8 @@
+---
+title: "Chapter 8: AI-Assisted Preparation"
+description: "How to use ChatGPT or Gemini prompt chains to draft interview answers, tailor resumes and cover letters, and pick LinkedIn keywords, then verify."
+---
+
 # Chapter 8 — AI-Assisted Preparation
 
 This chapter lets you use a chatbot to draft interview answers, find likely questions, tailor application documents, and pick LinkedIn keywords, using short prompt chains that start from the employer's needs and end with your own check of every line.
@@ -113,3 +118,11 @@ Jeff builds in some checks ("Do not make information up," the difference table) 
 **Chapter standard:** Every AI-assisted draft starts from a real job description, uses a named framework in the prompt, and passes a line-by-line check against your own record before you use it. You can explain, in your own words and without the draft in front of you, every claim it contains.
 
 ---
+
+**Sources:** Jeff Su, [“Land a Job using ChatGPT: The Definitive Guide!”](https://www.youtube.com/watch?v=pmnY5V16GSE) (2023); [“Tell Me About Yourself (The BEST Way to Answer this Interview Question)”](https://www.youtube.com/watch?v=jZJKb-obz1E) (2023); [“You’re Not Unqualified: How to Pass 90% of Your Interviews”](https://www.youtube.com/watch?v=QrmDmQ7ZivM) (2024); [“5 LinkedIn Profile Tips that Get You Hired (backed by data)”](https://www.youtube.com/watch?v=OKF7ZeWNrfg) (2024). Full list: [Sources](./sources.md).
+
+## Related notes
+
+- [Chapter 4 — Opening and Motivation Answers](./chapter-4-opening-and-motivation-answers.md)
+- [Chapter 5 — Behavioral and Situational Answers](./chapter-5-behavioral-and-situational-answers.md)
+- [Day Day Up playbook, Chapter 2 — Interview Preparation](../day-day-up-playbook/chapter-2-interview-preparation.md)

@@ -6,7 +6,7 @@ tags: [career, job-search]
 ---
 # Chapter 1 - Resume & Application Materials
 
-> **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on Jonathan Lee's career-coaching videos.
+> **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on [Jonathan Lee's career-coaching videos](https://www.youtube.com/@MrJonathanCareer).
 
 Make your relevant value easy to find, then use several routes to reach the people hiring.
 
@@ -99,3 +99,9 @@ After a substantive interview process, reply to a rejection with appreciation an
 When a suitable opening appears, reply on the existing thread with the role and any meaningful update to your experience. See Chapter 4 for interview follow-up.
 
 **Ready to apply:** You have a readable resume, defensible impact bullets, a clear match to the role’s core needs, and a search plan that reaches people through more than one channel.
+
+## Related notes
+
+- Related: [Chapter 4 - Interview Dynamics & Follow-up](./chapter-4-interview-dynamics-follow-up.md)
+- Full lecture version: [Chapter 1 - Resume & Application Materials (Original Edition)](./original/chapter-1-resume-application-materials.md)
+- From Jeff Su's Career Playbook: [Chapter 3 — Networking and Outreach on LinkedIn](../jeff-su-playbook/chapter-3-networking-and-outreach-on-linkedin.md)

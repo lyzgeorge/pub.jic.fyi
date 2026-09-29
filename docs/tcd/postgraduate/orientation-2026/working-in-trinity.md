@@ -37,7 +37,7 @@ A Trinity student taking occasional work also becomes an employee in the relevan
 
 After HR setup, the worker receives a staff identifier distinct from the student number. Hours must then be claimed using the current payroll process. Forms require the employee’s signature and identifying information; missing fields or late manager approval can defer payment. Pay categories and rates are centrally defined, so confirm the category with the manager rather than entering a self-selected rate.
 
-## Where to find opportunities
+## Where can students find work opportunities?
 
 ![Slide listing sources of student work at Trinity, including teaching, the Library, invigilation, ambassador work, the Students’ Union, newsletters, and MyCareer](/assets/tcd/postgraduate/orientation-2026/working-in-trinity/job-sources.jpg)
 
@@ -69,3 +69,8 @@ Before taking a role, compare its timetable with classes, laboratory work, super
 5. Submit accurate hours early enough for approval and retain a copy.
 6. Check payslips, tax, leave, and statutory rights.
 7. Search School channels, MyCareer, Library, Academic Registry, Global Room, union, and postgraduate newsletters.
+
+## Related notes
+
+- [International Student Orientation](./international-student-orientation.md)
+- [Postgraduate Fees, Sponsorship, and Student Finance](./fees-and-student-finance.md)

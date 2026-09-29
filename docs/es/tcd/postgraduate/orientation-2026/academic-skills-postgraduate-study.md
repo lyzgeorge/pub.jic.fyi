@@ -69,3 +69,9 @@ Su lección central es hacer explícito el razonamiento. Toda afirmación import
 - Construir afirmaciones con evidencia adecuada y registrar las fuentes al investigar.
 - Revisar formalidad, claridad, objetividad, cohesión y razonamiento explícito.
 - Comprobar qué implica cada afirmación importante.
+
+## Notas relacionadas
+
+- [Integridad académica: citas, similitud y gestión de referencias](./academic-integrity.md)
+- [Construir una relación eficaz entre estudiante y supervisor](./student-supervisor-relationship.md)
+- [Diseñar un espacio de trabajo que apoye el estudio](./designing-workspace.md)

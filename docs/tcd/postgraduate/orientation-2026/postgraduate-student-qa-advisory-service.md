@@ -67,3 +67,8 @@ Comparing progress with other students hides differences in disciplines, project
 Postgraduate study can be stressful, but it can also develop judgement, experience, friendships, and professional networks. The durable principle from the session is simple: know the available options, ask early, and protect enough health, money, and time to remain engaged with the opportunity.
 
 The Postgraduate Advisory Service can be contacted at **postgrad.support@tcd.ie** and through **@TCDPGAdvisory**.
+
+## Related notes
+
+- [Student Budgeting and Financial Assistance](./budgeting-and-assistance.md)
+- [Developing Resilience: Stress, Coping, and Self-Compassion](./developing-resilience.md)

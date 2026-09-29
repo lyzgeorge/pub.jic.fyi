@@ -1,3 +1,8 @@
+---
+title: "Sources for Jeff Su's Career Playbook"
+description: "The Jeff Su YouTube videos behind Chapters 1–9, with titles, upload dates and links, plus Michael Seibel's Y Combinator lecture for Chapter 10."
+---
+
 # Sources
 
 Jeff Su's YouTube channel. Tags group the interview, LinkedIn, and workplace videos. Titles, upload dates, and lengths were retrieved with yt-dlp on 2026-09-27.

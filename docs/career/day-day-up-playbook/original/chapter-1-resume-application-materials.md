@@ -1,11 +1,13 @@
 ---
 title: Chapter 1 - Resume & Application Materials
-description: Full lecture-style chapter on treating the resume as a sales document, writing bullets that pass the boss test, ATS-safe formatting, removing red flags, and the four-channel job search system.
+description: Full lecture-style chapter on resumes as sales documents, the boss test for bullets, ATS-safe formatting, red flags, and a four-channel job search.
 date: 2026-09-23
 tags: [career, job-search, workplace]
 ---
 
 # Chapter 1 - Resume & Application Materials
+
+> **Source:** Original (full lecture-style) edition of *The Day Day Up Career Playbook in Action*, compiled from [Jonathan Lee's career-coaching videos](https://www.youtube.com/@MrJonathanCareer).
 
 > This chapter covers everything that happens before an interviewer ever speaks to you: the resume, the LinkedIn profile and filters, the decision to apply, and the outreach that gets a human to look at you. The coach's central claim is that most Chinese and non-native candidates in North America lose at this stage for reasons that have nothing to do with ability. They write resumes that describe responsibilities ("I'm the same as everyone else who had this job - nothing to see here"), they leave in details that trigger a recruiter's quiet doubts about fit, they reject themselves before HR does, and they spend 100% of their hours in the single most crowded channel - online applications. The fix is to treat the resume as a sales document and the job search as a system with four channels, not one.
 
@@ -441,3 +443,6 @@ Hi [name],
 
 ---
 
+## Related notes
+
+- Concise version: [Chapter 1 - Resume & Application Materials](../chapter-1-resume-application-materials.md)

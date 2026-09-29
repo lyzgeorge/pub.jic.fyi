@@ -218,3 +218,8 @@ Every discipline has a subject librarian. Library HITS sessions cover library ba
 - [TCD Library](https://www.tcd.ie/library/)
 - [Library borrowing](https://www.tcd.ie/library/using-library/borrowing/)
 - [Library skills training](https://www.tcd.ie/library/support/skills-training.php)
+
+## Related notes
+
+- [Registration and the Academic Registry](./academic-registry-registration.md)
+- [International Student Orientation](./international-student-orientation.md)

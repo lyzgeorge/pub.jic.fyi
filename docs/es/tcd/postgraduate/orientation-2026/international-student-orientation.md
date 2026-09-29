@@ -19,6 +19,8 @@ tags:
 > **Fecha de la sesión:** 7 de septiembre de 2026  
 > **Fuente:** [Grabación en Panopto](https://tcd.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6cd67c9f-7681-4439-99ae-b4b700e99f2b)
 
+Los estudiantes internacionales en Trinity deben gestionar el registro migratorio, el permiso de trabajo, la banca, el seguro médico y la seguridad mientras se adaptan a una nueva cultura académica. Quienes no son ciudadanos de la UE, el EEE, el Reino Unido o Suiza suelen registrarse con Immigration Service Delivery (ISD) dentro de los 90 días posteriores a la llegada, y la Trinity Global Room ofrece orientación entre pares, consultas de inmigración y apoyo comunitario.
+
 ## Apoyo para estudiantes internacionales
 
 ### Trinity Global Room
@@ -157,3 +159,9 @@ La comunicación irlandesa puede ser indirecta. Expresiones como `That's interes
 - [Citizens Information: PPS number](https://www.citizensinformation.ie/en/social-welfare/irish-social-welfare-system/personal-public-service-number/)
 - [TCD jargon buster](https://www.tcd.ie/students/jargon-buster/)
 - [TCD Welcome Guide 2026](https://www.tcd.ie/study/assets/pdfs/Welcome-To-Trinity-2026.pdf)
+
+## Notas relacionadas
+
+- [Orientación general de posgrado](./postgraduate-general-orientation.md)
+- [Trabajar mientras estudias en Trinity](./working-in-trinity.md)
+- [Vivir y tener citas en Dublín: guía práctica para estudiantes](./living-and-dating-in-dublin.md)

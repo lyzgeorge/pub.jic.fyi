@@ -9,7 +9,7 @@ tags: [career, job-search]
 
 > **Título original:** Chapter 4 - Interview Dynamics & Follow-up
 >
-> **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los videos de asesoría profesional de Jonathan Lee
+> **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los [videos de asesoría profesional de Jonathan Lee](https://www.youtube.com/@MrJonathanCareer)
 
 Usa la conversación para aprender qué es lo que realmente importa, mostrar cómo trabajas y dejar claros los próximos pasos.
 
@@ -86,3 +86,8 @@ Entre rondas, pídele al reclutador retroalimentación y el enfoque de la siguie
 Después de un rechazo, agradece a las personas que invirtieron tiempo, pide retroalimentación si es apropiado y solicita permiso para mantenerte en contacto. Reabre la conversación existente cuando surja una oportunidad relevante o una actualización significativa. Respeta un no claro.
 
 **Termina cada entrevista con:** una mejor comprensión del puesto, próximos pasos claros cuando estén disponibles, y una mejora concreta registrada para tu próxima conversación.
+
+## Notas relacionadas
+
+- Versión completa: [Capítulo 4 - Dinámica de la entrevista y la mente del entrevistador (Edición Original)](./original/chapter-4-interview-dynamics-interviewer-mind.md)
+- De la Guía profesional de Jeff Su: [Capítulo 7 — El cierre de la entrevista y el seguimiento](../jeff-su-playbook/chapter-7-closing-the-interview-and-following-up.md)

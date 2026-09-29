@@ -9,7 +9,7 @@ tags: [career, workplace, promotion]
 
 > **原文标题：** Chapter 8 - Influence, Conflict & Promotion
 >
-> **来源：** 摘译自基于 Jonathan Lee 职业辅导视频整理的《The Day Day Up Career Playbook》精简版
+> **来源：** 摘译自基于 [Jonathan Lee 职业辅导视频](https://www.youtube.com/@MrJonathanCareer)整理的《The Day Day Up Career Playbook》精简版
 
 把你的工作与业务优先事项联系起来，帮助别人能够据此采取行动，并让能证明你影响力的证据，被真正需要看到它的人看到。
 
@@ -121,3 +121,8 @@ tags: [career, workplace, promotion]
 持续投入与业务优先事项相关的工作。不要为了晋升而生造出一些没有任何决策者真正看重的"副业项目"。如果尽管证据充分、也反复沟通过，晋升路径依然含糊不清，那就该去比较外部的机会，而不是无限期地等待下去。
 
 **每周的关注重点：** 确定你最重要的一个产出目标，跑一个小的"学习-调整"循环，并沟通清楚发生了哪些变化。做得更多，并不自动等于影响力更大。
+
+## 相关笔记
+
+- 完整讲义版：[第八章 - 职场影响力、冲突与晋升（原版全文）](./original/chapter-8-workplace-influence-conflict-promotion.md)
+- Jeff Su 求职与职场指南：[第九章：入职后脱颖而出——善用资源](../jeff-su-playbook/chapter-9-standing-out-at-work-resourcefulness.md)

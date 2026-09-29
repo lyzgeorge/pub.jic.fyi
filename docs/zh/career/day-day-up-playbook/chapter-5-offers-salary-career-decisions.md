@@ -1,6 +1,6 @@
 ---
 title: 第五章 - Offer、薪资与职业决策
-description: 弄清楚薪资区间、评估整体offer，并在接受之前提出具体的诉求。教练主张主动谈判，但最终结果仍取决于雇主、岗位、预算和你自己的其他选择。
+description: 弄清薪资区间、评估整份offer，并在接受之前提出具体的诉求。
 date: 2026-09-23
 source_title: Chapter 5 - Offers, Salary & Career Decisions
 tags: [career, negotiation]
@@ -9,7 +9,7 @@ tags: [career, negotiation]
 
 > **原文标题：** Chapter 5 - Offers, Salary & Career Decisions
 >
-> **来源：** 摘译自基于 Jonathan Lee 职业辅导视频整理的《The Day Day Up Career Playbook》精简版
+> **来源：** 摘译自基于 [Jonathan Lee 职业辅导视频](https://www.youtube.com/@MrJonathanCareer)整理的《The Day Day Up Career Playbook》精简版
 
 弄清楚薪资区间，评估整份offer的全貌，并在接受之前提出具体的诉求。教练主张要主动进行谈判；但最终结果仍然取决于雇主、岗位、预算，以及你自己手上有哪些其他选择。
 
@@ -90,3 +90,7 @@ tags: [career, negotiation]
 | 接受 | "非常感谢。我很高兴按照已商定的条款接受这份offer，期待在[日期]入职。请告诉我接下来需要做什么。" |
 
 **在发送接受回复之前：** 解决好所有重要的疑问，核对最终的书面条款，并确保你的措辞准确反映了你真正想做出的决定。
+
+## 相关笔记
+
+- 完整讲义版：[第五章 - Offer、薪资与职业决策（原版全文）](./original/chapter-5-offers-salary-career-decisions.md)

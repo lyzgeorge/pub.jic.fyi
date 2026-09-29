@@ -21,13 +21,13 @@ A reasonable accommodation removes or reduces a substantial disadvantage caused 
 
 ![Slide contrasting equality with equity and listing examples such as extra exam time, smaller venues, recording, respite spaces, assistive technology, and occupational therapy](/assets/tcd/postgraduate/orientation-2026/reasonable-accommodations/equity-and-accommodations.jpg)
 
-## Who can contact the service
+## Who can contact the disAbility Service?
 
 The disAbility Service works across broad disability categories and with both confirmed and suspected disabilities. The session explicitly says that difficulty obtaining a current diagnostic report should not prevent a student from making contact. Documentation can be reviewed with the service; non-English documents may need translation.
 
 Registration leads to an assigned contact, but students may approach other team members. Needs can change over a programme, so accommodations can be revisited rather than fixed permanently at the first meeting.
 
-## How registration works
+## How does registration work?
 
 ![Slide showing the route through my.tcd.ie to the My Disability Service tab](/assets/tcd/postgraduate/orientation-2026/reasonable-accommodations/registration-route.jpg)
 
@@ -65,3 +65,9 @@ One-to-one and group support can address routine, workload, deadlines, sensory e
 6. Revisit arrangements when needs change.
 7. Report implementation barriers to the service.
 8. Use practical, technological, peer, sensory, health, and counselling support as relevant.
+
+## Related notes
+
+- [Designing a Workspace That Supports Study](./designing-workspace.md)
+- [Health and Wellbeing During Postgraduate Study](./health-and-wellbeing.md)
+- [Equality, Diversity, Equity, and Inclusion at Trinity](./equality-diversity-inclusion.md)

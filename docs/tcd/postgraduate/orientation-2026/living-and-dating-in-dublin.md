@@ -65,3 +65,8 @@ For a first meeting:
 - leave if the situation feels unsafe or consent is not respected.
 
 Students affected by bullying, harassment, or sexual misconduct can contact Trinity’s Dignity, Respect & Consent Service for information and support.
+
+## Related notes
+
+- [Positive Sexual Experiences, Consent, and Bystander Action](./positive-sexual-experiences.md)
+- [International Student Orientation](./international-student-orientation.md)

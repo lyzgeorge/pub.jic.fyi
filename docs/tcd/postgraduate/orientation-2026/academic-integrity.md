@@ -66,3 +66,9 @@ Reference managers centralize records, import metadata from catalogues and datab
 5. Review every similarity match rather than targeting a score.
 6. Confirm whether and how AI may be used, then acknowledge it as required.
 7. Verify every reference against the source before submission.
+
+## Related notes
+
+- [Generative AI in Postgraduate Study](./genai-postgraduate-studies.md)
+- [Academic Skills for Successful Postgraduate Study](./academic-skills-postgraduate-study.md)
+- [Research Practice at Trinity: Evidence, Ethics, Profiles, and Funding](./research-practice.md)

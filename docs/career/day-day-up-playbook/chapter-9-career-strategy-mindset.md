@@ -6,7 +6,7 @@ tags: [career, workplace]
 ---
 # Chapter 9 - Career Strategy & Mindset
 
-> **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on Jonathan Lee's career-coaching videos.
+> **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on [Jonathan Lee's career-coaching videos](https://www.youtube.com/@MrJonathanCareer).
 
 Choose a direction you can sustain, gather evidence through action, and distinguish problems you can improve from environments you may need to leave.
 
@@ -120,3 +120,9 @@ The coach’s stakes test is useful: **If this goes wrong, how bad is it?** Rout
 Build on capabilities others already value in you-judgment, domain context, relationships, communication-and use AI to free time or improve those capabilities. For writing and interview preparation, retain ownership of the message and verify the output.
 
 **Career decision standard:** You can explain what you are pursuing, why it fits, what it costs, what evidence supports it, and what would cause you to reconsider.
+
+## Related notes
+
+- Related: [Chapter 5 - Offers, Salary & Career Decisions](./chapter-5-offers-salary-career-decisions.md)
+- Full lecture version: [Chapter 9 - Career Strategy & Mindset (Original Edition)](./original/chapter-9-career-strategy-mindset.md)
+- From Jeff Su's Career Playbook: [Chapter 6 — Explaining Transitions](../jeff-su-playbook/chapter-6-explaining-transitions.md)

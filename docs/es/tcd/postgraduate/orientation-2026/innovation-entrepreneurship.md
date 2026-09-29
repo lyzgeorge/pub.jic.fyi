@@ -50,3 +50,9 @@ Las vías pueden combinarse. Una pregunta de investigación puede dar lugar a pr
 4. Probar la comunidad mediante una visita, una actividad o una jornada de hot-desking.
 5. Antes de divulgar una invención potencialmente valiosa, solicitar orientación sobre transferencia o propiedad intelectual.
 6. Confirmar con el Hub los programas, fechas y condiciones de acceso vigentes.
+
+## Notas relacionadas
+
+- [Práctica investigadora en Trinity: evidencia, ética, perfiles y financiación](./research-practice.md)
+- [Desarrollo profesional en Trinity](./your-career.md)
+- [Sostenibilidad en Trinity](./sustainability.md)

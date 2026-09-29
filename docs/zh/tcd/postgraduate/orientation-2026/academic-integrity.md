@@ -66,3 +66,9 @@ Turnitin 会把提交内容与网页、出版物、图书和学生论文比较�
 5. 逐项检查相似匹配，不以分数为目标。
 6. 确认 AI 的许可范围并按要求声明。
 7. 对照原始资料核验每条参考文献。
+
+## 相关笔记
+
+- [研究生学习中的生成式 AI](./genai-postgraduate-studies.md)
+- [成功完成研究生学习所需的学术技能](./academic-skills-postgraduate-study.md)
+- [Trinity 研究实践：证据、伦理、研究档案与经费](./research-practice.md)

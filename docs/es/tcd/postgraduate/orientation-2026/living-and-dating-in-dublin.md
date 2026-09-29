@@ -65,3 +65,8 @@ En un primer encuentro:
 - marcharse si la situación no es segura o no se respeta el consentimiento.
 
 Quien sufra acoso, hostigamiento o conducta sexual inapropiada puede acudir al Dignity, Respect & Consent Service de Trinity.
+
+## Notas relacionadas
+
+- [Experiencias sexuales positivas, consentimiento y acción de testigos](./positive-sexual-experiences.md)
+- [Orientación para estudiantes internacionales](./international-student-orientation.md)

@@ -1,6 +1,6 @@
 ---
 title: Capítulo 1 - Currículum y materiales de postulación
-description: Trata el currículum como un documento de ventas y no como una lista de responsabilidades, usa la "prueba del jefe" y la fórmula de oro para reescribir cada viñeta, elimina las señales de alerta que hacen dudar a un reclutador occidental, y sustituye un único canal de postulación por un sistema de cuatro canales.
+description: Capítulo completo estilo cátedra sobre el currículum como documento de ventas, la prueba del jefe, las señales de alerta y la búsqueda en cuatro canales.
 date: 2026-09-23
 source_title: Chapter 1 - Resume & Application Materials
 tags: [career, job-search, workplace]
@@ -9,7 +9,7 @@ tags: [career, job-search, workplace]
 # Capítulo 1 - Currículum y materiales de postulación
 
 > **Título original:** Chapter 1 - Resume & Application Materials
-> **Fuente:** Traducción del capítulo correspondiente de la edición original completa (en inglés) de *The Day Day Up Career Playbook in Action*.
+> **Fuente:** Traducción del capítulo correspondiente de la edición original completa (en inglés) de *The Day Day Up Career Playbook in Action*, compilada a partir de los [videos de asesoría profesional de Jonathan Lee](https://www.youtube.com/@MrJonathanCareer).
 
 > Este capítulo cubre todo lo que ocurre antes de que un entrevistador te dirija la palabra: el currículum, el perfil y los filtros de LinkedIn, la decisión de postularte, y el contacto directo que logra que una persona real se fije en ti. La afirmación central del coach es que la mayoría de los candidatos chinos y no nativos en Norteamérica pierden la oportunidad en esta etapa por razones que nada tienen que ver con su capacidad. Escriben currículums que describen responsabilidades ("soy igual que cualquiera que haya tenido este puesto, no hay nada que ver aquí"), dejan detalles que despiertan dudas silenciosas sobre su encaje, se autorrechazan antes de que lo haga Recursos Humanos, y dedican el 100% de su tiempo al canal más saturado de todos: las postulaciones en línea. La solución es tratar el currículum como un documento de ventas y la búsqueda de empleo como un sistema con cuatro canales, no uno solo.
 
@@ -454,3 +454,7 @@ charla rápida?" / "Hablemos."]
 **No hagas:** listar responsabilidades · mentir sobre logros · usar una plantilla con diseño · conservar cada empleo desde la graduación · autorrechazarte · esconderte en otro curso.
 
 ---
+
+## Notas relacionadas
+
+- Versión concisa: [Capítulo 1 - Currículum y materiales de postulación](../chapter-1-resume-application-materials.md)

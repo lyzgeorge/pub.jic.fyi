@@ -84,3 +84,8 @@ Postgraduate Advisory Support Service 和学生会能帮助学生独立理解可
 - 主动寻找学术、职业及 Triple I 发展机会。
 - 每项作业都核实 AI 与学术诚信要求。
 - 尽早提出困难，必要时按既定支持路径升级。
+
+## 相关笔记
+
+- [建立有效的学生-导师关系](./student-supervisor-relationship.md)
+- [研究生学习中的生成式 AI](./genai-postgraduate-studies.md)

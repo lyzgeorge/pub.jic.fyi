@@ -1,8 +1,13 @@
+---
+title: "Chapter 6: Explaining Transitions"
+description: "How to explain leaving a job, a layoff or an employment gap briefly and honestly, then move the answer to why you fit the new role."
+---
+
 # Chapter 6 — Explaining Transitions
 
 This chapter lets you answer the three questions about breaks in your story (why you are leaving, why you were laid off, and why there is a gap) briefly, honestly, and in a way that moves the conversation to the job in front of you.
 
-## 6.1 What the interviewer is worried about
+## 6.1 What is the interviewer worried about?
 
 A transition question is a risk check: will something in your past limit your performance in the new role? For gaps, Jeff says employers may worry about your reliability, your capabilities, and your commitment, "even if everything else about you looks great on paper." For leaving a job, the interviewer should end convinced that your reason for looking is "not going to be a limiting factor to your success in the new role."
 
@@ -98,3 +103,10 @@ Editorial guidance: the difference follows the situation. Someone still employed
 **Chapter standard:** A finished transition answer states the facts truthfully in one to three sentences, contains nothing negative about a former employer, and spends most of its length on skills that transfer and on researched reasons for this role. You should be able to say the past portion from memory and plug your "why here" answer in after the pivot.
 
 ---
+
+**Sources:** Jeff Su, [“Explain an Employment Gap in a Job Interview”](https://www.youtube.com/watch?v=cr6ptEK-Mgs) (2020); [“Why Are You Leaving Your Current Job? How to Answer Correctly”](https://www.youtube.com/watch?v=QSPGdAvnUv4) (2021); [“Why Did You Leave Your Last Job? (explain a layoff)”](https://www.youtube.com/watch?v=tPlJjtQkpM0) (2023). Full list: [Sources](./sources.md).
+
+## Related notes
+
+- [Chapter 4 — Opening and Motivation Answers](./chapter-4-opening-and-motivation-answers.md)
+- [Day Day Up playbook, Chapter 3 — Answering Interview Questions](../day-day-up-playbook/chapter-3-answering-interview-questions.md)

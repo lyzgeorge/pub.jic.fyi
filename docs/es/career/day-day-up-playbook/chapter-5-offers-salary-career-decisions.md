@@ -1,6 +1,6 @@
 ---
 title: Capítulo 5 - Ofertas, salario y decisiones de carrera
-description: Comprende el rango salarial, evalúa la oferta completa y haz peticiones específicas antes de aceptar. El coach favorece la negociación activa, aunque el resultado depende del empleador, el puesto, el presupuesto y tus alternativas.
+description: Comprende el rango salarial, evalúa la oferta completa y haz peticiones específicas antes de aceptar.
 date: 2026-09-23
 source_title: Chapter 5 - Offers, Salary & Career Decisions
 tags: [career, negotiation]
@@ -9,7 +9,7 @@ tags: [career, negotiation]
 
 > **Título original:** Chapter 5 - Offers, Salary & Career Decisions
 >
-> **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los videos de asesoría profesional de Jonathan Lee
+> **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los [videos de asesoría profesional de Jonathan Lee](https://www.youtube.com/@MrJonathanCareer)
 
 Comprende el rango salarial, evalúa la oferta en su conjunto y haz peticiones específicas antes de aceptar. El coach favorece la negociación activa; aun así, el resultado sigue dependiendo del empleador, el puesto, el presupuesto y las alternativas que tengas.
 
@@ -90,3 +90,7 @@ Investiga a quien sería tu gerente con preguntas concretas sobre delegación y 
 | Aceptar | "Gracias. Acepto con gusto la oferta en los términos acordados y espero incorporarme el [fecha]. Por favor, avíseme cuáles son los siguientes pasos." |
 
 **Antes de enviar una aceptación:** Resuelve tus preguntas importantes, revisa los términos finales por escrito y asegúrate de que tu redacción refleje realmente la decisión que quieres tomar.
+
+## Notas relacionadas
+
+- Versión completa: [Capítulo 5 - Ofertas, salario y decisiones de carrera (Edición Original)](./original/chapter-5-offers-salary-career-decisions.md)

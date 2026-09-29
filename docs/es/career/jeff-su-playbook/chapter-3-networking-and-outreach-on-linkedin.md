@@ -7,7 +7,7 @@ description: Encuentra personas relevantes, escribe solicitudes personales y man
 
 Busca personas cercanas al puesto que te interesa, establece un contacto que tenga sentido para ellas y mantente visible con aportaciones útiles. Prepara primero tu [perfil](./chapter-2-the-linkedin-profile.md): lo consultarán antes de responder.
 
-## 3.1 El valor de los vínculos débiles
+## 3.1 ¿Por qué importan los vínculos débiles?
 
 Las personas conocidas pueden abrirte más oportunidades que tus amistades íntimas, que suelen compartir tus fuentes de información. Jeff atribuye la «fuerza de los vínculos débiles» a Mark Granovetter y afirma que el 84 % de los participantes de un influyente estudio encontró empleo mediante un vínculo débil; no identifica el artículo. Él llegó a Google por alguien que entonces era poco más que un conocido. Es un motivo para ampliar la red con criterio, no para pedir favores al azar.
 
@@ -82,3 +82,10 @@ Según una reclutadora amiga de Jeff en 2020, varias solicitudes de mala calidad
 | Búsqueda de personas | Alumni y grupos; después búsqueda booleana, publicaciones y filtros | Métodos acumulativos |
 
 **Criterio del capítulo:** Tienes una lista breve de personas próximas al puesto objetivo; cada solicitud es personal; comentas a un ritmo que responde a tu situación; has pedido al menos a un reclutador una presentación pertinente; y ningún mensaje tuyo debería impulsar a un desconocido a marcar «No conozco a esta persona».
+
+**Fuentes:** videos de Jeff Su [«LinkedIn: How to Connect Like a Pro»](https://www.youtube.com/watch?v=9BdbGZtnFnQ) (2020); [«Reach out to Recruiters on LinkedIn (the right way!)»](https://www.youtube.com/watch?v=jnzh5QTKbsw) (2020); [«Top 3 Tips to STAND OUT on LinkedIn!»](https://www.youtube.com/watch?v=93exwIKifcw) (2020); [«Job Search on LinkedIn: The 1 Tip You Need to Know!»](https://www.youtube.com/watch?v=CwjwnHJE5sU) (2021); [«5 MUST-DO LinkedIn Profile Tips (that pay off forever)!»](https://www.youtube.com/watch?v=OHTRZKg2LS0) (2022); [«Job Seekers on LinkedIn Need to Know These 8 Things»](https://www.youtube.com/watch?v=D7DIHNK2DYw) (2023). Lista completa en [Fuentes](./sources.md).
+
+## Notas relacionadas
+
+- [Capítulo 7: El cierre de la entrevista y el seguimiento](./chapter-7-closing-the-interview-and-following-up.md)
+- [Guía Day Day Up, capítulo 1: Currículum y materiales de postulación](../day-day-up-playbook/chapter-1-resume-application-materials.md)

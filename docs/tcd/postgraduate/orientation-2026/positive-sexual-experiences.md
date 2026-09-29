@@ -1,6 +1,6 @@
 ---
 title: Positive Sexual Experiences, Consent, and Bystander Action
-description: A practical guide to positive sexual experiences, freely given and ongoing consent, online boundaries, bystander intervention, stalking, and Trinity support.
+description: A practical guide to positive sexual experiences, ongoing consent, online boundaries, bystander intervention, stalking, and Trinity support.
 date: 2026-09-07
 updated: 2026-09-08
 source_title: "Let's Talk About... Positive Sexual Experiences (Monday)"
@@ -23,7 +23,7 @@ tags:
 
 A positive sexual experience is one in which everyone can make a free choice, communicate boundaries, remain comfortable, and pursue connection or pleasure without pressure. Consent is therefore not only a safeguard against harm: ongoing communication can also improve trust, intimacy, and enjoyment.
 
-## What makes an experience positive
+## What makes a sexual experience positive?
 
 The session identifies several connected conditions:
 
@@ -119,3 +119,9 @@ The session also points students to DR&C online training, including a multi-modu
 6. Respect the original scope of permission for intimate images.
 7. Choose the safest useful bystander action, including seeking help or checking in later.
 8. Use support services for questions as well as incidents.
+
+## Related notes
+
+- [Living and Dating in Dublin: A Practical Student Guide](./living-and-dating-in-dublin.md)
+- [Being LGBTQ+ at Trinity and in Dublin](./lgbtq-trinity-dublin.md)
+- [Health and Wellbeing During Postgraduate Study](./health-and-wellbeing.md)

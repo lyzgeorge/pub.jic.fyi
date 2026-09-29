@@ -9,7 +9,7 @@ tags: [career, mindset]
 
 > **原文标题：** Chapter 9 - Career Strategy & Mindset
 >
-> **来源：** 摘译自基于 Jonathan Lee 职业辅导视频整理的《The Day Day Up Career Playbook》精简版
+> **来源：** 摘译自基于 [Jonathan Lee 职业辅导视频](https://www.youtube.com/@MrJonathanCareer)整理的《The Day Day Up Career Playbook》精简版
 
 选择一个你能够长期维持的方向，通过实际行动去积累证据，并区分清楚哪些问题是你可以改善的，哪些是你或许需要离开的环境。
 
@@ -123,3 +123,9 @@ tags: [career, mindset]
 在那些别人已经认可你的能力之上继续发展--比如判断力、领域背景知识、人际关系、沟通能力--并用 AI 来腾出时间或提升这些能力。在写作和面试准备方面，始终保留对最终表达内容的把控权，并核实 AI 输出的结果。
 
 **职业决策的标准：** 你能说清楚自己在追求什么、为什么这条路适合你、需要付出什么代价、有哪些证据支撑这个选择，以及在什么情况下你会重新考虑。
+
+## 相关笔记
+
+- 相关章节：[第五章 - Offer、薪资与职业决策](./chapter-5-offers-salary-career-decisions.md)
+- 完整讲义版：[第九章 - 职业策略与心态（原版全文）](./original/chapter-9-career-strategy-mindset.md)
+- Jeff Su 求职与职场指南：[第六章：解释离职、裁员与履历空档](../jeff-su-playbook/chapter-6-explaining-transitions.md)

@@ -61,3 +61,8 @@ MyCareer 汇集活动日历、一对一咨询、简历与 LinkedIn 诊所、模�
 5. 通过招聘会、雇主活动、校友交流或指导计划建立一项真实联系。
 6. 如有帮助，注册 Career Skills Award，并把已有经历归入三类要求。
 7. 涉及移民或工作许可时，向 Global Room 或主管机构核实现行规则。
+
+## 相关笔记
+
+- [Trinity 创新与创业指南](./innovation-entrepreneurship.md)
+- [Trinity 研究生学习之旅](./postgraduate-journey.md)

@@ -1,6 +1,6 @@
 ---
 title: 第六章 - 清晰的职场沟通
-description: 以让对方理解并做出有效回应为目标。简单的语言、明确的重点和具体的诉求，比华丽的措辞更重要。
+description: 以让对方理解并有效回应为目标，用简单的语言、明确的重点和具体的诉求取代华丽的措辞。
 date: 2026-09-23
 source_title: Chapter 6 - Clear Workplace Communication
 tags: [career, workplace, communication]
@@ -9,7 +9,7 @@ tags: [career, workplace, communication]
 
 > **原文标题：** Chapter 6 - Clear Workplace Communication
 >
-> **来源：** 摘译自基于 Jonathan Lee 职业辅导视频整理的《The Day Day Up Career Playbook》精简版
+> **来源：** 摘译自基于 [Jonathan Lee 职业辅导视频](https://www.youtube.com/@MrJonathanCareer)整理的《The Day Day Up Career Playbook》精简版
 
 以"让对方理解，并做出有效回应"为优化目标。简单的语言、明确的重点和具体的诉求，比精心雕琢的措辞更重要。
 
@@ -119,3 +119,7 @@ tags: [career, workplace, communication]
 把修改后的结果大声读出来。把那些你自己实际不会说的措辞改回来，并确认修改没有改变你原本的承诺程度或确定性。工作相关的内容要使用公司批准的工具。
 
 **发送或发言之前：** 核心信息容易被找到，证据能支撑这个信息，对方清楚需要做出什么回应，而且这些话听起来确实像是你自己会说的话。
+
+## 相关笔记
+
+- 完整讲义版：[第六章 - 非母语者与华人职场沟通（原版全文）](./original/chapter-6-communication-non-native-chinese-professionals.md)

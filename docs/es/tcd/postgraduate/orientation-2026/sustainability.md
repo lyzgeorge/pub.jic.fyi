@@ -104,3 +104,8 @@ La acción individual funciona mejor cuando existe infraestructura. Los mapas de
 
 - [Trinity Sustainability](https://www.tcd.ie/sustainability/)
 - [TFI Live](https://www.transportforireland.ie/available-apps/tfi-live/)
+
+## Notas relacionadas
+
+- [Innovación y emprendimiento en Trinity](./innovation-entrepreneurship.md)
+- [Pertenencia y participación en la vida de posgrado](./belonging-and-participation.md)

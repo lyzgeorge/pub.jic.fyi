@@ -21,11 +21,11 @@ Una adaptación razonable reduce una desventaja sustancial causada por discapaci
 
 ![Diapositiva que contrasta igualdad y equidad y enumera tiempo extra, salas pequeñas, grabación, descanso, tecnología y terapia ocupacional](/assets/tcd/postgraduate/orientation-2026/reasonable-accommodations/equity-and-accommodations.jpg)
 
-## Quién puede contactar
+## ¿Quién puede contactar con el disAbility Service?
 
 El servicio atiende categorías amplias y discapacidades confirmadas o sospechadas. No disponer de un informe reciente no debe impedir el contacto; la documentación puede revisarse con el equipo y quizá deba traducirse. Las necesidades pueden cambiar y las medidas revisarse.
 
-## Registro
+## ¿Cómo funciona el registro?
 
 ![Ruta desde my.tcd.ie hasta My Disability Service](/assets/tcd/postgraduate/orientation-2026/reasonable-accommodations/registration-route.jpg)
 
@@ -57,3 +57,9 @@ El apoyo individual y grupal puede tratar rutinas, carga, plazos, entorno sensor
 6. Revisar medidas cuando cambien las circunstancias.
 7. Comunicar barreras de implantación.
 8. Usar apoyos tecnológicos, sociales, sensoriales y sanitarios pertinentes.
+
+## Notas relacionadas
+
+- [Diseñar un espacio de trabajo que apoye el estudio](./designing-workspace.md)
+- [Salud y bienestar durante el posgrado](./health-and-wellbeing.md)
+- [Igualdad, diversidad, equidad e inclusión en Trinity](./equality-diversity-inclusion.md)

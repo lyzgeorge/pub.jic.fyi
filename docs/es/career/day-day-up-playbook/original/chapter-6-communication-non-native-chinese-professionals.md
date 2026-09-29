@@ -1,6 +1,6 @@
 ---
 title: Capítulo 6 - Comunicación para profesionales no nativos y chinos
-description: Capítulo extenso de cátedra sobre estructura, calibración, eliminación de palabras débiles, entrenamiento de voz, participación en reuniones y traducción cultural.
+description: Capítulo completo estilo cátedra sobre estructura, calibración, palabras débiles, voz, reuniones y traducción cultural para profesionales no nativos.
 date: 2026-09-23
 source_title: Chapter 6 - Communication for Non-Native & Chinese Professionals
 tags: [career, job-search, workplace]
@@ -9,7 +9,7 @@ tags: [career, job-search, workplace]
 # Capítulo 6 - Comunicación para profesionales no nativos y chinos
 
 > **Título original:** Chapter 6 - Communication for Non-Native & Chinese Professionals
-> **Fuente:** Traducción del capítulo correspondiente de la edición original completa (en inglés) de *The Day Day Up Career Playbook in Action*.
+> **Fuente:** Traducción del capítulo correspondiente de la edición original completa (en inglés) de *The Day Day Up Career Playbook in Action*, compilada a partir de los [videos de asesoría profesional de Jonathan Lee](https://www.youtube.com/@MrJonathanCareer).
 
 > Este capítulo trata sobre la brecha entre lo que sabes y cómo te escuchan. El diagnóstico recurrente del coach, extraído de una década contratando personal, gestionando una organización de datos de 500 personas y asesorando a profesionales chinos en Norteamérica, es que la retroalimentación "necesitas fortalecer tu comunicación" o "habilidades de comunicación deficientes" casi nunca tiene que ver con el inglés. Tiene que ver con la estructura (das el contexto primero y la conclusión al final), la calibración (matizas lo que estás seguro y exageras lo que no lo estás), la voz (plana, tenue, con entonación ascendente al final) y un patrón cultural por defecto de deferencia ("perdón", "solo", "intentar", "trabajador incansable") que los managers occidentales interpretan como "no está listo para liderar". Su tesis: "Deja de competir en inglés, empieza a competir en claridad". Cada lección de este capítulo aborda una de estas brechas, explica por qué el coach dice que te cuesta caro, ofrece el método, y muestra las palabras exactas que él usa.
 
@@ -664,3 +664,7 @@ Lo que hay que copiar es la estructura: un gancho específico y actual; una brev
 - Sube el volumen. No te disculpes por ocupar espacio.
 
 ---
+
+## Notas relacionadas
+
+- Versión concisa: [Capítulo 6 - Comunicación clara en el trabajo](../chapter-6-clear-workplace-communication.md)

@@ -70,3 +70,8 @@ Trinity Sport 应用是查询和办理体育活动的主要入口。它连接社
 4. 查看项目日历，确认时间、地点、体验期和预约要求。
 5. 访学学生应请 Sports Centre 前台核实费用与账户权限。
 6. 如需便利安排、适应性活动或高水平运动支持，应尽早联系 Trinity Sport。
+
+## 相关笔记
+
+- [研究生阶段的健康与福祉](./health-and-wellbeing.md)
+- [研究生生活中的归属与参与](./belonging-and-participation.md)

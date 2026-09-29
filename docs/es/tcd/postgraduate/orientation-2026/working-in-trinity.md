@@ -37,7 +37,7 @@ El empleo ocasional requiere alta en RR. HH. mediante el proceso vigente, descri
 
 Tras el alta se asigna un staff ID distinto del número de estudiante. Las horas deben reclamarse con firma e identificación y aprobarse a tiempo; datos incompletos retrasan el pago. Las categorías salariales son centrales y deben confirmarse con el responsable.
 
-## Dónde buscar
+## ¿Dónde buscar oportunidades de trabajo?
 
 ![Diapositiva con fuentes de empleo en Trinity: docencia, biblioteca, vigilancia de exámenes, embajadores, sindicato, boletines y MyCareer](/assets/tcd/postgraduate/orientation-2026/working-in-trinity/job-sources.jpg)
 
@@ -56,3 +56,8 @@ Con varios empleos, el límite migratorio suele aplicarse al total de horas. Má
 5. Presentar horas exactas con antelación y guardar copia.
 6. Revisar nómina, impuestos, vacaciones y derechos.
 7. Consultar School, MyCareer, Biblioteca, Academic Registry, Global Room, sindicato y boletines.
+
+## Notas relacionadas
+
+- [Orientación para estudiantes internacionales](./international-student-orientation.md)
+- [Tasas de posgrado, patrocinio y finanzas estudiantiles](./fees-and-student-finance.md)

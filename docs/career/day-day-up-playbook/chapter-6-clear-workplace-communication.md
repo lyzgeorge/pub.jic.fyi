@@ -6,7 +6,7 @@ tags: [career, workplace]
 ---
 # Chapter 6 - Clear Workplace Communication
 
-> **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on Jonathan Lee's career-coaching videos.
+> **Source:** Condensed from *The Day Day Up Career Playbook* (concise edition), based on [Jonathan Lee's career-coaching videos](https://www.youtube.com/@MrJonathanCareer).
 
 Optimize for understanding and a useful response. Simple language, a clear point, and a specific ask matter more than elaborate phrasing.
 
@@ -116,3 +116,7 @@ The coach’s preferred approach is to decide the content yourself, write it in 
 Read the result aloud. Restore wording you would actually use and verify that the edit did not change your commitment or certainty. Use company-approved tools for work material.
 
 **Before sending or speaking:** The main point is easy to find, the evidence supports it, the audience knows what response is needed, and the language sounds like something you would say.
+
+## Related notes
+
+- Full lecture version: [Chapter 6 - Communication for Non-Native & Chinese Professionals (Original Edition)](./original/chapter-6-communication-non-native-chinese-professionals.md)

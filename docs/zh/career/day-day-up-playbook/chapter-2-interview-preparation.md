@@ -9,7 +9,7 @@ tags: [career, job-search]
 
 > **原文标题：** Chapter 2 - Interview Preparation
 >
-> **来源：** 摘译自基于 Jonathan Lee 职业辅导视频整理的《The Day Day Up Career Playbook》精简版
+> **来源：** 摘译自基于 [Jonathan Lee 职业辅导视频](https://www.youtube.com/@MrJonathanCareer)整理的《The Day Day Up Career Playbook》精简版
 
 准备工作应该产出一套关于自己是否契合的清晰论证，以及一小批可以灵活调用的证据，而不是为每一个可能出现的问题都准备一套台词。
 
@@ -102,3 +102,8 @@ AI 可以帮助翻译行业黑话、建议可能的优先事项。但要把它�
 每次面试结束后，记录被问到了什么、哪些内容效果好、哪里造成了对方的困惑，以及下一次交流中可以改进的一点。这个改进点要具体："先说出我的建议，再讲背景"这样的表述是可操作的；"表现得更自信一点"则不是。
 
 **准备完成的标志：** 你能说清楚这个岗位的需求、给出一段相关的自我介绍、在不编造细节的前提下灵活调整你的故事、坦诚地谈论自己主要的差距，并提出能帮助双方判断是否契合的问题。
+
+## 相关笔记
+
+- 完整讲义版：[第二章 - 面试心态与准备（原版全文）](./original/chapter-2-interview-mindset-preparation.md)
+- Jeff Su 求职与职场指南：[第一章：招聘方真正想了解什么](../jeff-su-playbook/chapter-1-what-employers-are-really-asking.md)

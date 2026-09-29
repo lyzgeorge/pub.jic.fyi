@@ -19,7 +19,7 @@ tags: [trinity-college-dublin, postgraduate, students-union, representation]
 
 Trinity College Dublin Students’ Union (TCDSU) is the representative body for the university’s students. Founded in 1968, it reported about 23,000 members in 2026. Its independence allows elected representatives to advocate for positions set by students rather than by College management.
 
-## What the union does
+## What does the Students’ Union do?
 
 TCDSU combines four functions:
 
@@ -97,3 +97,9 @@ Trinity Ents runs daytime and evening programmes ranging from pub quizzes and mu
 - Escalate School- or Faculty-wide issues through convenors and assemblies.
 - Follow union communications for elections, committee vacancies, events, services, and short-lived offers.
 - When the institutional vocabulary or responsible office is unclear, ask the union to route the query rather than leaving it unresolved.
+
+## Related notes
+
+- [Belonging and Participation in Postgraduate Life](./belonging-and-participation.md)
+- [Managing Conflict in Shared Housing](./managing-conflict-shared-housing.md)
+- [Being LGBTQ+ at Trinity and in Dublin](./lgbtq-trinity-dublin.md)

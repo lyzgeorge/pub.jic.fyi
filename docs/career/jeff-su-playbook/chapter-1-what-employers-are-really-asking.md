@@ -1,3 +1,8 @@
+---
+title: "Chapter 1: What Employers Are Really Asking"
+description: "How to decode what an interview question really tests, then research the role through insiders, job-description keywords, metrics and transferable skills."
+---
+
 # Chapter 1 — What Employers Are Really Asking
 
 This chapter shows you how to work out what an employer is actually testing, and how to find that out from people and job descriptions before you write a single answer.
@@ -100,3 +105,11 @@ For a hypothetical Tesla operations role, Jeff admits his supply-chain experienc
 **Chapter standard:** Before you draft any answer, you can name the concern behind the question, one insight you got from someone in the role, the top keywords from a targeted set of job descriptions, and one metric and one transferable skill that prove your fit. Editorial guidance: if any of these five is missing, go back to research before you write.
 
 ---
+
+**Sources:** This chapter synthesizes points that recur across Jeff Su's videos, especially [“Why Are You a Good Fit for this Role - How to Answer”](https://www.youtube.com/watch?v=-HfeTdf2gSw) (2020); [“Why Do You Want to Work Here? (Answer this Tricky Question)”](https://www.youtube.com/watch?v=x-4MewJpaso) (2020); [“What are Your Greatest Strengths - 3 Mistakes to Avoid!”](https://www.youtube.com/watch?v=jSjOO0ekQ20) (2020); [“5 Questions You MUST Ask During a Job Interview!”](https://www.youtube.com/watch?v=P0sew9TBPJ0) (2022). Keyword extraction also draws on the LinkedIn videos cited in Chapter 2. Full list: [Sources](./sources.md).
+
+## Related notes
+
+- [Chapter 4 — Opening and Motivation Answers](./chapter-4-opening-and-motivation-answers.md)
+- [Chapter 8 — AI-Assisted Preparation](./chapter-8-ai-assisted-preparation.md)
+- [Day Day Up playbook, Chapter 2 — Interview Preparation](../day-day-up-playbook/chapter-2-interview-preparation.md)

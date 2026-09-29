@@ -1,8 +1,13 @@
+---
+title: "第三章：在 LinkedIn 建立人脉与主动联系"
+description: "在 LinkedIn 找到与目标岗位相关的人，写出对方愿意接受的邀请，用评论保持可见，并请招聘人员引荐。"
+---
+
 # 第三章：在 LinkedIn 建立人脉与主动联系
 
 先找到与目标岗位有关的人，再用有针对性的交流建立联系，并持续让对方看到你的专业思考。联系前先完善第二章所述的档案，因为对方会查看它。
 
-## 3.1 弱关系为何有用
+## 3.1 弱关系为何有用？
 
 熟人有时比密友更可能带来新工作机会：密友往往接触相同信息。Jeff 将“弱关系的力量”归于 Mark Granovetter，并引述“84% 受访者通过弱关系得到工作”，但未指出具体论文。他进入 Google，也得益于当时只能算泛泛之交的朋友。这里的重点不是向陌生人索取，而是有目的地建立真实联系。
 
@@ -80,4 +85,9 @@ Jeff 在 2020 年转述一位招聘朋友的经验：若每次添加联系人都
 
 **本章检验标准：** 你已有一份按岗位筛出的短名单；每条邀请都针对对方，明确采用适合的写法；评论节奏符合自己的处境；至少尝试向一位招聘人员请求岗位同事引荐。消息应真诚到陌生人不会想点“不认识此人”。
 
-[← 上一章](./chapter-2-the-linkedin-profile.md) · [目录](./index.md) · [下一章 →](./chapter-4-opening-and-motivation-answers.md)
+**来源：** Jeff Su 的视频 [“LinkedIn: How to Connect Like a Pro”](https://www.youtube.com/watch?v=9BdbGZtnFnQ)（2020）、[“Reach out to Recruiters on LinkedIn (the right way!)”](https://www.youtube.com/watch?v=jnzh5QTKbsw)（2020）、[“Top 3 Tips to STAND OUT on LinkedIn!”](https://www.youtube.com/watch?v=93exwIKifcw)（2020）、[“Job Search on LinkedIn: The 1 Tip You Need to Know!”](https://www.youtube.com/watch?v=CwjwnHJE5sU)（2021）、[“5 MUST-DO LinkedIn Profile Tips (that pay off forever)!”](https://www.youtube.com/watch?v=OHTRZKg2LS0)（2022）、[“Job Seekers on LinkedIn Need to Know These 8 Things”](https://www.youtube.com/watch?v=D7DIHNK2DYw)（2023）。完整列表见[视频来源](./sources.md)。
+
+## 相关笔记
+
+- [第七章：结束面试与后续跟进](./chapter-7-closing-the-interview-and-following-up.md)
+- [每天向上职场指南·第一章：简历与求职材料](../day-day-up-playbook/chapter-1-resume-application-materials.md)

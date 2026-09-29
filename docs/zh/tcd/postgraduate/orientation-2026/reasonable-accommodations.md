@@ -21,11 +21,11 @@ tags: [trinity-college-dublin, disability, accessibility, reasonable-accommodati
 
 ![对比 equality 与 equity，并列出延长考试时间、小型考场、录课、休息空间、辅助技术和职业治疗等便利](/assets/tcd/postgraduate/orientation-2026/reasonable-accommodations/equity-and-accommodations.jpg)
 
-## 谁可以联系服务
+## 谁可以联系 disAbility Service？
 
 服务面向多类残障，也接纳已确诊或怀疑存在残障的学生。难以取得最新诊断报告不应成为联系障碍；已有文件可与团队共同审阅，非英文资料可能需要翻译。需求会随课程变化，便利措施可以重新评估。
 
-## 注册流程
+## 如何注册？
 
 ![通过 my.tcd.ie 进入 My Disability Service 的路径](/assets/tcd/postgraduate/orientation-2026/reasonable-accommodations/registration-route.jpg)
 
@@ -57,3 +57,9 @@ tags: [trinity-college-dublin, disability, accessibility, reasonable-accommodati
 6. 需求变化后重新评估。
 7. 执行受阻时通知服务。
 8. 按需使用技术、同伴、感官、医疗和咨询支持。
+
+## 相关笔记
+
+- [设计真正支持学习的工作空间](./designing-workspace.md)
+- [研究生阶段的健康与福祉](./health-and-wellbeing.md)
+- [Trinity 的平等、多元、公平与包容](./equality-diversity-inclusion.md)

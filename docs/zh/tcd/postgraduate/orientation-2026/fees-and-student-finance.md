@@ -53,3 +53,9 @@ Academic Registry 的 Student Finance 负责开具学费账单、收款、管理
 6. 所有付款和咨询都写八位学号。
 7. 核实美国资助的最新项目资格。
 8. 在问题阻碍注册或产生逾期前提出。
+
+## 相关笔记
+
+- [注册手续与 Academic Registry](./academic-registry-registration.md)
+- [学生预算与经济援助](./budgeting-and-assistance.md)
+- [在 Trinity 就读期间工作](./working-in-trinity.md)

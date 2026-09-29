@@ -1,6 +1,6 @@
 ---
 title: 'Developing Resilience: Stress, Coping, and Self-Compassion'
-description: A practical framework for understanding stress responses, widening the window of tolerance, stepping back from thoughts, protecting life balance, communicating assertively, and softening self-criticism.
+description: A practical framework for understanding stress, widening the window of tolerance, stepping back from thoughts, and easing self-criticism.
 date: 2026-09-09
 updated: 2026-09-09
 source_title: Developing Resilience
@@ -86,3 +86,9 @@ A three-step practice is to notice the exact words of self-criticism, deliberate
 - Do I need professional, academic, medical, or emergency support rather than another self-help technique?
 
 Resilience practices complement rather than replace care. Trinity Student Counselling, College Health, Disability Service, chaplaincy, academic tutors, and out-of-hours or emergency services serve different needs; seek help early and use urgent support where safety is at risk.
+
+## Related notes
+
+- [Health and Wellbeing During Postgraduate Study](./health-and-wellbeing.md)
+- [Being a Postgraduate Student at Trinity: Practical Advice from Students and Advisers](./postgraduate-student-qa-advisory-service.md)
+- [Building an Effective Student–Supervisor Relationship](./student-supervisor-relationship.md)

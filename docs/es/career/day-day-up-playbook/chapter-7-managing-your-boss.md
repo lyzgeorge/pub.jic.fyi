@@ -1,6 +1,6 @@
 ---
 title: Capítulo 7 - Cómo gestionar a tu jefe
-description: Usa la relación para establecer expectativas compartidas, hacer que el avance sea predecible y plantear temas difíciles antes de que se conviertan en sorpresas.
+description: Establece expectativas compartidas con tu jefe, haz predecible el avance y plantea temas difíciles antes de que se conviertan en sorpresas.
 date: 2026-09-23
 source_title: Chapter 7 - Managing Your Boss
 tags: [career, workplace, manager]
@@ -9,7 +9,7 @@ tags: [career, workplace, manager]
 
 > **Título original:** Chapter 7 - Managing Your Boss
 >
-> **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los videos de asesoría profesional de Jonathan Lee
+> **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los [videos de asesoría profesional de Jonathan Lee](https://www.youtube.com/@MrJonathanCareer)
 
 Usa la relación para establecer expectativas compartidas, hacer que el avance sea predecible y plantear temas difíciles antes de que se conviertan en sorpresas.
 
@@ -115,3 +115,7 @@ El coach distingue entre un proceso genuino de mejora y uno pensado para conduci
 **Nota editorial de precaución:** Los acuerdos de PIP, renuncia, indemnización y referencias dependen del empleador y de la jurisdicción. No renuncies asumiendo que habrá una indemnización; busca el asesoramiento adecuado y cualquier acuerdo por escrito antes de actuar.
 
 **Estándar de trabajo:** Las expectativas son explícitas, los riesgos se hacen visibles con anticipación y las decisiones importantes no dependen de recuerdos contradictorios sobre una misma conversación.
+
+## Notas relacionadas
+
+- Versión completa: [Capítulo 7 - Cómo gestionar a tu jefe y la comunicación ascendente (Edición Original)](./original/chapter-7-managing-your-boss-upward-communication.md)

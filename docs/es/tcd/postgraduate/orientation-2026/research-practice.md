@@ -58,3 +58,8 @@ Hay que definir necesidad, etapa, elegibilidad, costes, ubicación, socios y pla
 5. Mantener perfiles RSS/ORCID.
 6. Vincular necesidades con convocatorias y empezar pronto.
 7. Usar la propuesta para afinar objetivos, métodos, viabilidad e impacto.
+
+## Notas relacionadas
+
+- [Integridad académica: citas, similitud y gestión de referencias](./academic-integrity.md)
+- [Innovación y emprendimiento en Trinity](./innovation-entrepreneurship.md)

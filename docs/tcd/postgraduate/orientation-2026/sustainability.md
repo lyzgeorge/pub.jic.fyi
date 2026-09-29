@@ -105,3 +105,8 @@ Individual action is most effective when infrastructure supports it. Trinity's s
 
 - [Trinity Sustainability](https://www.tcd.ie/sustainability/)
 - [TFI Live](https://www.transportforireland.ie/available-apps/tfi-live/)
+
+## Related notes
+
+- [Innovation and Entrepreneurship at Trinity](./innovation-entrepreneurship.md)
+- [Belonging and Participation in Postgraduate Life](./belonging-and-participation.md)

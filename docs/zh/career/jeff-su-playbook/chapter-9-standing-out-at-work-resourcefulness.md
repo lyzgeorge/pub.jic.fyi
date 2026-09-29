@@ -1,3 +1,8 @@
+---
+title: "第九章：入职后脱颖而出——善用资源"
+description: "用免费工具和可复用材料在工作中脱颖而出：演示文稿、邮件合并、Canva 素材与入职指引。"
+---
+
 # 第九章：入职后脱颖而出——善用资源
 
 利用免费工具和可复用材料，解决团队反复遇到的问题，能让工作既有用又可见。本章也提醒你在推广前测试、注明来源并遵守公司规定。
@@ -94,4 +99,9 @@ Jeff 管理客户时每季度向 200 多位客户发邮件，按各自行业与�
 
 **本章检验标准：** 一项善用资源的工作应解决多人共有的问题，一次帮助多人；在别人看到之前已测试、注明来源并符合公司规定。如果说不清除了自己还有谁受益，就还不算有效的可见成果。
 
-[← 上一章](./chapter-8-ai-assisted-preparation.md) · [目录](./index.md) · [下一章 →](./chapter-10-building-product.md) · [视频来源](./sources.md)
+**来源：** Jeff Su 的视频 [“4 FREE Tools to Improve Your Next Presentation!”](https://www.youtube.com/watch?v=5c9SapE_YNU)（2021）、[“7 Creative Ways to use Canva!”](https://www.youtube.com/watch?v=w0Bf4u-u9AQ)（2021）、[“Stand Out in the Workplace by Doing THIS!”](https://www.youtube.com/watch?v=7-xgf536_oc)（2021）、[“Send Personalized BULK Emails in Gmail (for FREE)!”](https://www.youtube.com/watch?v=LJV-Uuj3RwU)（2021）、[“3 FREE Tools to Create ENGAGING Presentations!”](https://www.youtube.com/watch?v=Fq1Yb4kepLo)（2022）。完整列表见[视频来源](./sources.md)。
+
+## 相关笔记
+
+- [第三章：在 LinkedIn 建立人脉与主动联系](./chapter-3-networking-and-outreach-on-linkedin.md)
+- [每天向上职场指南·第八章：影响力、冲突与晋升](../day-day-up-playbook/chapter-8-influence-conflict-promotion.md)

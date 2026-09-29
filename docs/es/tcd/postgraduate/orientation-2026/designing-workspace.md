@@ -52,3 +52,9 @@ Terapia ocupacional del Disability Service puede tratar entorno y rutina incluso
 5. Conservar lo útil y descartar consejos genéricos ineficaces.
 6. Planificar reservas y transiciones semanales.
 7. Pedir apoyo ante barreras persistentes.
+
+## Notas relacionadas
+
+- [Adaptaciones razonables y apoyo a la discapacidad](./reasonable-accommodations.md)
+- [Competencias académicas para cursar con éxito un posgrado](./academic-skills-postgraduate-study.md)
+- [Salud y bienestar durante el posgrado](./health-and-wellbeing.md)

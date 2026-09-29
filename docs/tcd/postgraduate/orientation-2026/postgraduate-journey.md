@@ -94,3 +94,8 @@ The Postgraduate Advisory Support Service and Students’ Union can help student
 - Plan for scholarly, professional, international, intersectoral, or interdisciplinary development.
 - Check the exact AI and academic-integrity rules for each piece of work.
 - Raise difficulties early and escalate through the defined support structure when necessary.
+
+## Related notes
+
+- [Building an Effective Student–Supervisor Relationship](./student-supervisor-relationship.md)
+- [Generative AI in Postgraduate Study](./genai-postgraduate-studies.md)

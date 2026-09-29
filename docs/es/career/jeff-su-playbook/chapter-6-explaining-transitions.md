@@ -7,7 +7,7 @@ description: Responde con brevedad y honestidad sobre salidas, despidos y perío
 
 Al preguntar por una salida, un despido o un período sin empleo, la empresa evalúa si algo de tu pasado limitará tu desempeño ahora. Jeff atribuye a Chris Voss, antiguo negociador del FBI, que las preguntas con «por qué» nos ponen a la defensiva; no aporta fuente. Preparar una respuesta breve evita ese efecto.
 
-## 6.1 La preocupación en cada caso
+## 6.1 ¿Qué preocupa al entrevistador en cada caso?
 
 | Situación | Duda del entrevistador |
 |---|---|
@@ -78,3 +78,10 @@ Las preguntas «¿por qué dejas tu empleo actual?» (ETP, 2021) y «¿por qué 
 La diferencia responde a la situación: alguien todavía empleado puede expresar selectividad; quien ya perdió el empleo debe mostrar criterio en su siguiente paso.
 
 **Criterio del capítulo:** Relatas los hechos en una a tres frases verdaderas, sin ataques al empleador anterior, y dedicas la mayor parte a competencias transferibles y razones concretas para este puesto. Puedes decir de memoria la primera parte y enlazarla con tu respuesta «por qué aquí».
+
+**Fuentes:** videos de Jeff Su [«Explain an Employment Gap in a Job Interview»](https://www.youtube.com/watch?v=cr6ptEK-Mgs) (2020); [«Why Are You Leaving Your Current Job? How to Answer Correctly»](https://www.youtube.com/watch?v=QSPGdAvnUv4) (2021); [«Why Did You Leave Your Last Job? (explain a layoff)»](https://www.youtube.com/watch?v=tPlJjtQkpM0) (2023). Lista completa en [Fuentes](./sources.md).
+
+## Notas relacionadas
+
+- [Capítulo 4: Cómo presentarte y explicar tu motivación](./chapter-4-opening-and-motivation-answers.md)
+- [Guía Day Day Up, capítulo 3: Cómo responder preguntas de entrevista](../day-day-up-playbook/chapter-3-answering-interview-questions.md)

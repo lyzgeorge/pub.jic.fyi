@@ -1,3 +1,8 @@
+---
+title: "Chapter 4: Opening and Motivation Answers"
+description: "How to answer “tell me about yourself”, “why are you a good fit”, “why do you want to work here” and “where do you see yourself in five years”."
+---
+
 # Chapter 4 — Opening and Motivation Answers
 
 This chapter shows you how to build the four answers that set up most interviews: "tell me about yourself," "why are you a good fit," "why do you want to work here," and "where do you see yourself in five years."
@@ -94,3 +99,10 @@ Jeff's EY answer also names a skill he brings (project management from a KPMG in
 **Chapter standard:** Each of your four answers should respond to the hidden question, fit within about two minutes, contain at least one objective metric or specific research finding, and end on a clear link to this role. Your "why here" answer should be written as a reusable module, and every highlight should have a full story behind it that you can tell on request.
 
 ---
+
+**Sources:** Jeff Su, [“Tell Me About Yourself - Structure a Strong Answer”](https://www.youtube.com/watch?v=es7XtrloDIQ) (2020); [“Why Are You a Good Fit for this Role - How to Answer”](https://www.youtube.com/watch?v=-HfeTdf2gSw) (2020); [“Why Do You Want to Work Here? (Answer this Tricky Question)”](https://www.youtube.com/watch?v=x-4MewJpaso) (2020); [“Where Do You See Yourself in 5 Years - How to Answer”](https://www.youtube.com/watch?v=ClmHniKlt6k) (2020); [“Tell Me About Yourself (The BEST Way to Answer this Interview Question)”](https://www.youtube.com/watch?v=jZJKb-obz1E) (2023). Full list: [Sources](./sources.md).
+
+## Related notes
+
+- [Chapter 6 — Explaining Transitions](./chapter-6-explaining-transitions.md)
+- [Day Day Up playbook, Chapter 3 — Answering Interview Questions](../day-day-up-playbook/chapter-3-answering-interview-questions.md)

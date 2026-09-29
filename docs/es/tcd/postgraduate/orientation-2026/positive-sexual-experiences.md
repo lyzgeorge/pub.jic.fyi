@@ -1,6 +1,6 @@
 ---
 title: Experiencias sexuales positivas, consentimiento y acción de testigos
-description: Guía sobre experiencias sexuales positivas, consentimiento libre y continuo, límites en línea, intervención de testigos, acoso persistente y apoyo en Trinity.
+description: Guía sobre experiencias sexuales positivas, consentimiento continuo, límites en línea, intervención de testigos, acoso persistente y apoyo en Trinity.
 date: 2026-09-07
 updated: 2026-09-08
 source_title: "Let's Talk About... Positive Sexual Experiences (Monday)"
@@ -23,7 +23,7 @@ tags:
 
 Una experiencia sexual positiva permite que todas las personas elijan libremente, comuniquen sus límites, se sientan cómodas y busquen conexión o placer sin presión. El consentimiento no es solo una protección frente al daño: la comunicación continua también puede mejorar la confianza, la intimidad y el disfrute.
 
-## Condiciones de una experiencia positiva
+## ¿Qué hace que una experiencia sea positiva?
 
 - **Consentimiento:** todas las personas eligen participar.
 - **Comodidad y límites:** cada persona puede expresar sus límites y estos se reciben con respeto.
@@ -115,3 +115,9 @@ DR&C también ofrece formación en línea, incluido un curso de varios módulos 
 6. Respetar el alcance original del permiso sobre imágenes íntimas.
 7. Elegir la acción de testigo más segura y útil, incluida pedir ayuda o comprobar después cómo está la persona.
 8. Acudir a los servicios de apoyo también para resolver dudas, no solo después de un incidente.
+
+## Notas relacionadas
+
+- [Vivir y tener citas en Dublín: guía práctica para estudiantes](./living-and-dating-in-dublin.md)
+- [Ser LGBTQ+ en Trinity y en Dublín](./lgbtq-trinity-dublin.md)
+- [Salud y bienestar durante el posgrado](./health-and-wellbeing.md)

@@ -1,0 +1,13 @@
+- Write English pages under `docs/`, Chinese under `docs/zh/`, and Spanish under `docs/es/`. Keep matching relative paths across translations.
+- Apply content and navigation edits consistently to existing translations.
+- Include a localized frontmatter title and description, one H1, and H2/H3 section headings. Use relative `.md` links between pages.
+- Check `docs/.vitepress/config.mts` and `docs/.vitepress/sidebar.mts` before changing navigation.
+- Use VitePress's generated menus, sidebar, page outline, and previous/next footer. Do not add manual navigation bars, page tables of contents, or back-to-index links.
+- Keep `index.md` pages focused on introductions, reading guidance, and sources. Omit exhaustive chapter lists that repeat the sidebar.
+- Retain task-based overview groups and selected starting points. Avoid repeating their descriptions in the introduction.
+- Use “Related notes” for contextual links across topics, playbooks, or concise/full editions.
+- Compare related links with the actual generated previous/next destinations. Remove matching links regardless of their labels, and remove empty related sections.
+- Set `prev: false` in overview frontmatter when the generated previous page belongs to another book, edition, or section.
+- Preserve source citations. Link to the source catalogue only once per overview page.
+- Run `npm run docs:build` and `git diff --check`. Check affected pages for broken links, duplicate navigation, and updated Markdown exports.
+- Keep generated `.vitepress/dist/` and `.vitepress/cache/` files out of commits.

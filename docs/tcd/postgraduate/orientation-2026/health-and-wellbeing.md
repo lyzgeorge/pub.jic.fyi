@@ -70,3 +70,9 @@ College Health provides healthcare and can advise on sexual health, contraceptio
 5. Adjust for disability, medication, culture, finances, and caring responsibilities.
 6. Seek help when self-management is insufficient.
 7. Use emergency support immediately when safety is at risk.
+
+## Related notes
+
+- [Developing Resilience: Stress, Coping, and Self-Compassion](./developing-resilience.md)
+- [Trinity Sport: Clubs, Recreation, Facilities, and Inclusive Participation](./trinity-sport.md)
+- [Positive Sexual Experiences, Consent, and Bystander Action](./positive-sexual-experiences.md)

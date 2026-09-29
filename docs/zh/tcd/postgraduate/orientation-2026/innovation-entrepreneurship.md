@@ -50,3 +50,9 @@ Innovation Hub 与 Local Enterprise Office（LEO）并非同一机构。双方�
 4. 通过参观、活动或共享工位体验，判断该社群是否适合。
 5. 在公开可能有价值的发明前，先咨询知识转移或知识产权专业人员。
 6. 向 Hub 核实最新项目、日期、开放程度和访问安排。
+
+## 相关笔记
+
+- [Trinity 研究实践：证据、伦理、研究档案与经费](./research-practice.md)
+- [Trinity 职业发展指南](./your-career.md)
+- [Trinity 可持续发展实践](./sustainability.md)

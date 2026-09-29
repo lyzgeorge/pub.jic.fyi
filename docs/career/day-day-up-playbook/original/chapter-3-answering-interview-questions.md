@@ -1,11 +1,13 @@
 ---
 title: Chapter 3 - Answering Interview Questions
-description: Full lecture-style chapter on reading the question beneath the question, the HEALER storytelling framework, and answering weakness and experience-gap questions.
+description: Full lecture-style chapter on reading the question beneath the question, the HEALER storytelling framework, and weakness and experience-gap answers.
 date: 2026-09-23
 tags: [career, job-search, workplace]
 ---
 
 # Chapter 3 - Answering Interview Questions
+
+> **Source:** Original (full lecture-style) edition of *The Day Day Up Career Playbook in Action*, compiled from [Jonathan Lee's career-coaching videos](https://www.youtube.com/@MrJonathanCareer).
 
 > This chapter is about what you actually say once the interviewer stops talking. The coach's recurring diagnosis of Chinese and other non-native candidates in North American interviews is not "weak English" but a mismatch in *what the answer is for*: candidates report facts when the interviewer wants to be persuaded, answer the literal question when the interviewer is asking a hidden one, and explain the past when the interviewer is deciding about the future. "Offers don't go to the best candidates. They go to the best storytellers". Part A builds the universal machinery - reading the real question, telling a story instead of filing a report, owning your impact, and the one-sentence "principle" that lets you improvise any behavioral or situational answer. Part B applies that machinery to the specific questions the corpus covers again and again: the self-introduction, the motivation trio (why here / why leaving / five years), weaknesses and gaps, competency questions, final-round values questions, and the 2026 AI questions - each with model answers quoted or adapted from the coach's videos.
 
@@ -760,3 +762,6 @@ Where the videos differ: the March videos accept a task-level domain example ins
 
 ---
 
+## Related notes
+
+- Concise version: [Chapter 3 - Answering Interview Questions](../chapter-3-answering-interview-questions.md)

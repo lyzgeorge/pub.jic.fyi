@@ -50,3 +50,9 @@ These routes overlap. A research question may develop into protected intellectua
 4. Visit the Trinity East space and use an event or hot-desk day to test whether the community is useful.
 5. Before disclosing a potentially valuable invention, seek appropriate knowledge-transfer or IP guidance.
 6. Confirm all current programmes, dates, occupancy and access arrangements with the Hub.
+
+## Related notes
+
+- [Research Practice at Trinity: Evidence, Ethics, Profiles, and Funding](./research-practice.md)
+- [Career Development at Trinity](./your-career.md)
+- [Sustainability at Trinity](./sustainability.md)

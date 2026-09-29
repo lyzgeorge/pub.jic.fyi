@@ -70,3 +70,8 @@ Participation initiatives include Women in Sport programmes, Movember and Pride 
 4. Check the programme calendar for times, locations, trial periods, and booking requirements.
 5. Ask Sports Centre reception to confirm visiting-student fees or account access.
 6. Contact Trinity Sport early if accommodations, adapted activity, or high-performance support are needed.
+
+## Related notes
+
+- [Health and Wellbeing During Postgraduate Study](./health-and-wellbeing.md)
+- [Belonging and Participation in Postgraduate Life](./belonging-and-participation.md)

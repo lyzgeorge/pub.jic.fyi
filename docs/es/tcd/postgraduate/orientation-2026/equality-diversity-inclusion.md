@@ -42,7 +42,7 @@ Los nueve motivos presentados son género, estado civil, situación familiar, ed
 
 La situación socioeconómica no se presentó como un décimo motivo legal, pero sí como un factor importante que se cruza con los anteriores.
 
-## Interseccionalidad
+## ¿Qué es la interseccionalidad?
 
 La interseccionalidad analiza cómo varias identidades y condiciones sociales se combinan y producen experiencias que no siempre se explican estudiando cada categoría por separado.
 
@@ -90,3 +90,8 @@ Las convocatorias de participación suelen difundirse a través de las Schools o
 
 - [Trinity EDI](https://www.tcd.ie/equality/)
 - [Trinity Policy Hub](https://www.tcd.ie/about/policies/)
+
+## Notas relacionadas
+
+- [Ser LGBTQ+ en Trinity y en Dublín](./lgbtq-trinity-dublin.md)
+- [Adaptaciones razonables y apoyo a la discapacidad](./reasonable-accommodations.md)

@@ -1,3 +1,8 @@
+---
+title: "第十章：打造产品——Michael Seibel（Y Combinator）"
+description: "Michael Seibel 的 YC 产品讲座：先定义问题和首批用户，快速交付 MVP，衡量使用并短周期迭代。"
+---
+
 # 第十章：打造产品——Michael Seibel（Y Combinator）
 
 先说清要解决的问题和最初的用户，再做出能交给迫切需要它的人使用的最小可行产品（MVP）。观察他们实际做了什么，以简短、书面的开发周期反复改进。
@@ -112,4 +117,7 @@ Socialcam 当时采用两周周期，是因为向 App Store 提交应用需要�
 
 **本章检验标准：** 你能用一句话定义问题，指出最初迫切需要产品的用户及其需求频率和强度；能用事件数据说明他们是否真的使用产品，并说清当前短周期要推动哪个指标。在创业之外，只把这套方法用作类比。
 
-[← 上一章](./chapter-9-standing-out-at-work-resourcefulness.md) · [目录](./index.md) · [视频来源](./sources.md)
+## 相关笔记
+
+- [第一章：招聘方真正想了解什么](./chapter-1-what-employers-are-really-asking.md)
+- [每天向上职场指南·第九章：职业策略与心态](../day-day-up-playbook/chapter-9-career-strategy-mindset.md)

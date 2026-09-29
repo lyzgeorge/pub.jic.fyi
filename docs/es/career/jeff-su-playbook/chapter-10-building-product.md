@@ -116,3 +116,8 @@ En las preguntas posteriores, Seibel dice que la diferencia entre llamar a algo 
 **Comentario editorial:** Seibel habla para fundadores. Por analogía, sus preguntas pueden servir para evaluar una herramienta interna, un proyecto personal o un cambio de procedimiento: expresar el problema en una frase, identificar al primer usuario, averiguar con qué frecuencia e intensidad lo sufre, escoger la métrica que debería mejorar y fijar un ciclo breve para comprobarlo. En entrevistas de producto o casos prácticos, conviene pasar por problema, cliente, MVP y métrica antes de proponer funciones.
 
 **Criterio del capítulo:** Puedes expresar el problema en una frase, identificar al primer cliente que necesita urgentemente una solución y explicar con qué frecuencia e intensidad lo siente. Puedes mostrar los datos de eventos que indican si usa el producto y nombrar la métrica que el ciclo actual debe mejorar. Fuera de una empresa emergente, aplica estas ideas únicamente por analogía.
+
+## Notas relacionadas
+
+- [Capítulo 1: Qué quieren saber realmente los empleadores](./chapter-1-what-employers-are-really-asking.md)
+- [Guía Day Day Up, capítulo 9: Estrategia de carrera y mentalidad](../day-day-up-playbook/chapter-9-career-strategy-mindset.md)

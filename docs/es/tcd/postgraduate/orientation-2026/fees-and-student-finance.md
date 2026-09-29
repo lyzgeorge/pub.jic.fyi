@@ -51,3 +51,9 @@ La elegibilidad federal la determinan las reglas estadounidenses; Trinity admini
 6. Incluir el número de ocho dígitos.
 7. Verificar elegibilidad actual de ayuda estadounidense.
 8. Comunicar discrepancias antes de bloqueos o deuda vencida.
+
+## Notas relacionadas
+
+- [Matrícula y Academic Registry](./academic-registry-registration.md)
+- [Presupuesto estudiantil y asistencia económica](./budgeting-and-assistance.md)
+- [Trabajar mientras estudias en Trinity](./working-in-trinity.md)

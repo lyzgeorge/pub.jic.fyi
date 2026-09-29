@@ -49,7 +49,7 @@ tags: [trinity-college-dublin, postgraduate-research, supervision, feedback]
 
 这是学生自己的学位，因此有权进行尊重的质疑。可以请对方重复或解释，说明不同意见的理由，询问当前进展是否还有未指出的问题，并当场约定下次会议。坚定沟通既不同于被动接受，也不同于敌对攻击。
 
-## 指导关系失效时
+## 指导关系失效时怎么办？
 
 先明确问题属于会议难约、反馈含糊或延迟、预期冲突、学科不匹配、人际困难，还是更严重的边界或行为问题。在安全的情况下，可向导师提出具体问题和可执行的调整建议，同时保留必要记录。
 
@@ -64,3 +64,8 @@ tags: [trinity-college-dublin, postgraduate-research, supervision, feedback]
 - 对培训、规章、伦理和进度负责。
 - 必要时专业地质疑或表达不同意见。
 - 持续问题恶化前寻求独立支持。
+
+## 相关笔记
+
+- [Trinity 研究生学习之旅](./postgraduate-journey.md)
+- [培养韧性：压力、应对与自我关怀](./developing-resilience.md)

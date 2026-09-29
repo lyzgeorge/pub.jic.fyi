@@ -9,7 +9,7 @@ tags: [career, job-search]
 
 > **Título original:** Chapter 2 - Interview Preparation
 >
-> **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los videos de asesoría profesional de Jonathan Lee
+> **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los [videos de asesoría profesional de Jonathan Lee](https://www.youtube.com/@MrJonathanCareer)
 
 La preparación debe producir un caso claro sobre tu encaje con el puesto y un pequeño banco de evidencia que puedas adaptar. No debe producir un guion para cada pregunta posible.
 
@@ -102,3 +102,8 @@ Usa una simulación por defecto. Graba o comparte una entrevista real solo con e
 Después de cada entrevista, anota qué te preguntaron, qué funcionó bien, qué generó confusión y un cambio concreto para la próxima conversación. Mantén el cambio específico: "Dar mi recomendación antes del contexto" es accionable; "ser más seguro" no lo es.
 
 **La preparación está completa cuando:** puedes explicar las necesidades del puesto, dar una presentación relevante, adaptar tus historias sin inventar detalles, hablar con honestidad de tu principal vacío y hacer preguntas que ayuden a ambas partes a evaluar el encaje.
+
+## Notas relacionadas
+
+- Versión completa: [Capítulo 2 - Mentalidad y preparación para la entrevista (Edición Original)](./original/chapter-2-interview-mindset-preparation.md)
+- De la Guía profesional de Jeff Su: [Capítulo 1 — Qué quieren saber realmente los empleadores](../jeff-su-playbook/chapter-1-what-employers-are-really-asking.md)

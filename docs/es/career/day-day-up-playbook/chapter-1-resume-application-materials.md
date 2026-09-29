@@ -9,7 +9,7 @@ tags: [career, job-search]
 
 > **Título original:** Chapter 1 - Resume & Application Materials
 >
-> **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los videos de asesoría profesional de Jonathan Lee
+> **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los [videos de asesoría profesional de Jonathan Lee](https://www.youtube.com/@MrJonathanCareer)
 
 Haz que tu valor relevante sea fácil de encontrar y luego usa varias vías para llegar a quienes contratan.
 
@@ -102,3 +102,9 @@ Después de un proceso de entrevistas sustancial, responde a un rechazo con agra
 Cuando surja una oportunidad adecuada, responde en el mismo hilo existente con el puesto y cualquier actualización relevante de tu experiencia. Consulta el Capítulo 4 sobre el seguimiento tras la entrevista.
 
 **Listo para postularte:** Tienes un currículum legible, viñetas de impacto defendibles, un encaje claro con las necesidades centrales del puesto y un plan de búsqueda que llega a las personas por más de un canal.
+
+## Notas relacionadas
+
+- Relacionado: [Capítulo 4 - Dinámica de la entrevista y seguimiento](./chapter-4-interview-dynamics-follow-up.md)
+- Versión completa: [Capítulo 1 - Currículum y materiales de postulación (Edición Original)](./original/chapter-1-resume-application-materials.md)
+- De la Guía profesional de Jeff Su: [Capítulo 3 — Contactos y acercamiento en LinkedIn](../jeff-su-playbook/chapter-3-networking-and-outreach-on-linkedin.md)

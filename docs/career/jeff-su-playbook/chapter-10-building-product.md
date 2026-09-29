@@ -1,3 +1,8 @@
+---
+title: "Chapter 10: Building Product — Michael Seibel, Y Combinator"
+description: "Michael Seibel's Y Combinator lecture on building product: define the problem and first customer, ship an MVP, measure use and iterate quickly."
+---
+
 # Chapter 10 — Building Product (Michael Seibel, Y Combinator)
 
 Define the problem and the first customer before the solution, ship a quick MVP to desperate users, measure what they do, and iterate on a short, written, low-ego cycle.
@@ -106,3 +111,8 @@ In the Q&A, Seibel says beta-versus-MVP labels don't matter; what matters is whe
 Editorial guidance: Seibel speaks to founders. By analogy, the same questions can test an internal tool, side project or process change: a one-sentence problem, a named first user, how often and how intensely they feel it, the metric that should move, and a short cycle to find out. In product or case interviews, work through problem, customer, MVP and metric before features.
 
 **Chapter standard:** You can state the problem in one sentence, name the first desperate customer and how often and how badly they feel it, show the event data that says whether they use the product, and name the metric your current short cycle should move. Outside startups, use it only as an analogy.
+
+## Related notes
+
+- [Chapter 1 — What Employers Are Really Asking](./chapter-1-what-employers-are-really-asking.md)
+- [Day Day Up playbook, Chapter 9 — Career Strategy & Mindset](../day-day-up-playbook/chapter-9-career-strategy-mindset.md)

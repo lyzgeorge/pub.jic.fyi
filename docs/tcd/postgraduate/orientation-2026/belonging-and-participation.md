@@ -59,3 +59,9 @@ Every enrolled student is represented by the Students’ Union. The union can he
 5. Use evidence and disciplinary skill to serve society and challenge weak assumptions.
 6. Contact staff, services, or student representatives early when support is needed.
 7. Allow belonging to develop; initial uncertainty does not predict the eventual outcome.
+
+## Related notes
+
+- [Trinity Students’ Union: Representation, Support, and Participation](./students-union.md)
+- [Your Postgraduate Journey at Trinity](./postgraduate-journey.md)
+- [Faith, Spirituality, and Community at Trinity](./faith-and-spirituality.md)

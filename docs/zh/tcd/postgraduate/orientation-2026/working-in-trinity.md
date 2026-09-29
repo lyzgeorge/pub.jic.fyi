@@ -37,7 +37,7 @@ tags: [trinity-college-dublin, postgraduate, employment, student-work]
 
 HR 完成设置后会发放不同于学号的 staff ID。之后必须按当前工资流程申报工时；缺少签名、识别信息或经理未及时批准，都可能延迟付款。工资类别由学校统一规定，应在入职时向经理确认。
 
-## 寻找岗位
+## 去哪里寻找岗位？
 
 ![列出 Trinity 学生工作来源的幻灯片，包括教学、图书馆、监考、大使项目、学生会、通讯和 MyCareer](/assets/tcd/postgraduate/orientation-2026/working-in-trinity/job-sources.jpg)
 
@@ -56,3 +56,8 @@ HR 完成设置后会发放不同于学号的 staff ID。之后必须按当前�
 5. 提前准确申报工时并留存副本。
 6. 核查工资单、税务、假期和法定权益。
 7. 关注 School、MyCareer、图书馆、Academic Registry、Global Room、学生会和研究生通讯。
+
+## 相关笔记
+
+- [国际学生迎新](./international-student-orientation.md)
+- [研究生学费、资助方与学生财务](./fees-and-student-finance.md)

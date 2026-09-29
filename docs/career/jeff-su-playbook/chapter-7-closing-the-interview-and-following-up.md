@@ -1,8 +1,13 @@
+---
+title: "Chapter 7: Closing the Interview and Following Up"
+description: "Which questions to ask at the end of an interview, how to surface reservations, and how to write a specific thank-you email within 24 hours."
+---
+
 # Chapter 7 — Closing the Interview and Following Up
 
 This chapter lets you use the last minutes of an interview and the days after it: asking questions that only the interviewer can answer, collecting the detail and the address you need for a thank-you email, and following up without becoming a nuisance.
 
-## 7.1 Why your questions matter
+## 7.1 Why do your questions matter?
 
 Your answer to "Do you have any questions for me?" is part of the evaluation. Jeff quotes Mark Cuban: "the questions you ask tell... whoever more about you than anything else you do. In particular, [it] tells me about your preparation. The biggest mistake you make is to ask questions you can find the answer to online."
 
@@ -83,3 +88,11 @@ Only address a topic you both discussed; don't pitch something new.
 **Chapter standard:** You leave every interview with at least two questions asked that no website could answer, one specific detail about the interviewer written down, and their email address or a recruiter willing to forward your note. Your thank-you email goes out within 24 hours, names that detail, and addresses at most one concern that came up in the conversation.
 
 ---
+
+**Sources:** Jeff Su, [“5 Questions You MUST Ask During a Job Interview!”](https://www.youtube.com/watch?v=P0sew9TBPJ0) (2022); [“Write a PERFECT Interview Thank You Email!”](https://www.youtube.com/watch?v=gSbV3q_MMbg) (2022). Full list: [Sources](./sources.md).
+
+## Related notes
+
+- [Chapter 1 — What Employers Are Really Asking](./chapter-1-what-employers-are-really-asking.md)
+- [Chapter 5 — Behavioral and Situational Answers](./chapter-5-behavioral-and-situational-answers.md)
+- [Day Day Up playbook, Chapter 4 — Interview Dynamics & Follow-up](../day-day-up-playbook/chapter-4-interview-dynamics-follow-up.md)

@@ -54,3 +54,9 @@ my.tcd.ie 中的注册证明可用于银行开户、PPSN、IRP 和地址证明�
 5. 核对学籍，敏感资料通过正式流程修改。
 6. 正式注册后再按最新说明申领 TCard。
 7. 尽早求助：使用 ask.tcd.ie 或 Watts Building 的 Service Desk。
+
+## 相关笔记
+
+- [研究生学费、资助方与学生财务](./fees-and-student-finance.md)
+- [研究生综合迎新指南](./postgraduate-general-orientation.md)
+- [国际学生迎新](./international-student-orientation.md)

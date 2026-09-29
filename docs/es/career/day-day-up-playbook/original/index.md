@@ -1,6 +1,7 @@
 ---
+prev: false
 title: Guía de carrera Day Day Up en Acción - Edición Original
-description: Manual de estilo lectura completo basado en los videos de asesoría de carrera de Jonathan Lee, con el razonamiento del coach, guiones prácticos, ejercicios y fichas de repaso en nueve capítulos.
+description: Manual completo estilo cátedra basado en los videos de Jonathan Lee, con el razonamiento del coach, guiones, ejercicios y fichas de repaso.
 date: 2026-09-23
 tags: [career, job-search, workplace]
 ---
@@ -9,7 +10,7 @@ tags: [career, job-search, workplace]
 
 ### Un manual orientado a la práctica, en formato de clase
 
-*Compilado el 2026-09-23 a partir de 270 videos transcritos (YouTube @MrJonathanCareer, canales de Bilibili y Xiaohongshu; ~188,000 palabras habladas). Cada afirmación de este libro proviene de esas transcripciones; no se ha añadido nada ajeno al corpus.*
+*Compilado el 2026-09-23 a partir de 270 videos transcritos ([YouTube @MrJonathanCareer](https://www.youtube.com/@MrJonathanCareer), canales de Bilibili y Xiaohongshu; ~188,000 palabras habladas). Cada afirmación de este libro proviene de esas transcripciones; no se ha añadido nada ajeno al corpus.*
 
 ## Cómo usar este libro
 
@@ -21,15 +22,3 @@ tags: [career, job-search, workplace]
 Cuando dos videos difieren (el consejo del coach evolucionó entre 2018 y 2026), el texto lo indica.
 
 **¿Prefieres la versión corta primero?** Consulta la [Edición Concisa](../index.md) para una lectura condensada y orientada a la acción.
-
-## Índice
-
-- [Capítulo 1 - Currículum y materiales de postulación](./chapter-1-resume-application-materials.md)
-- [Capítulo 2 - Mentalidad y preparación para la entrevista](./chapter-2-interview-mindset-preparation.md)
-- [Capítulo 3 - Cómo responder preguntas de entrevista](./chapter-3-answering-interview-questions.md)
-- [Capítulo 4 - Dinámica de la entrevista y la mente del entrevistador](./chapter-4-interview-dynamics-interviewer-mind.md)
-- [Capítulo 5 - Ofertas, salario y decisiones de carrera](./chapter-5-offers-salary-career-decisions.md)
-- [Capítulo 6 - Comunicación para profesionales no nativos y chinos](./chapter-6-communication-non-native-chinese-professionals.md)
-- [Capítulo 7 - Cómo gestionar a tu jefe y la comunicación ascendente](./chapter-7-managing-your-boss-upward-communication.md)
-- [Capítulo 8 - Influencia, conflicto y promoción en el trabajo](./chapter-8-workplace-influence-conflict-promotion.md)
-- [Capítulo 9 - Estrategia de carrera y mentalidad](./chapter-9-career-strategy-mindset.md)

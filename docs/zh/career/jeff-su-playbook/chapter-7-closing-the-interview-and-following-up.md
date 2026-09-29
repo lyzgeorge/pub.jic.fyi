@@ -1,8 +1,13 @@
+---
+title: "第七章：结束面试与后续跟进"
+description: "面试结尾该问哪些问题、如何了解对方顾虑，以及如何在 24 小时内写出具体的感谢邮件。"
+---
+
 # 第七章：结束面试与后续跟进
 
 面试最后几分钟和之后几天仍有用武之地：问对方才答得出的事，记下一个具体细节，及时发出有内容的感谢邮件。
 
-## 7.1 提问也在受评估
+## 7.1 为什么你的提问也会被评估？
 
 Jeff 引 Mark Cuban 的话：你问的问题能透露准备程度；最大的错误是问网上就能查到的事。因此，问只有这位面试官能回答的问题，并加入一两个与其经历有关的细节。好的问题还能自然追问，使对话不只是机械的一问一答。
 
@@ -68,4 +73,10 @@ Jeff 的经验规则是：**24 小时内**发送感谢邮件；若招聘人员�
 
 **本章检验标准：** 每次面试至少问两个网页答不了的问题，记下关于面试官的具体细节，并取得其邮箱或愿意转发的招聘人员。24 小时内发感谢邮件，写进细节，最多回应一个当场出现的顾虑。
 
-[← 上一章](./chapter-6-explaining-transitions.md) · [目录](./index.md) · [下一章 →](./chapter-8-ai-assisted-preparation.md)
+**来源：** Jeff Su 的视频 [“5 Questions You MUST Ask During a Job Interview!”](https://www.youtube.com/watch?v=P0sew9TBPJ0)（2022）、[“Write a PERFECT Interview Thank You Email!”](https://www.youtube.com/watch?v=gSbV3q_MMbg)（2022）。完整列表见[视频来源](./sources.md)。
+
+## 相关笔记
+
+- [第一章：招聘方真正想了解什么](./chapter-1-what-employers-are-really-asking.md)
+- [第五章：用事实回答行为与情境问题](./chapter-5-behavioral-and-situational-answers.md)
+- [每天向上职场指南·第四章：面试互动与后续跟进](../day-day-up-playbook/chapter-4-interview-dynamics-follow-up.md)

@@ -70,3 +70,8 @@ Las iniciativas de participación incluyen Women in Sport, las campañas Movembe
 4. Revisar el calendario para confirmar horarios, lugares, periodos de prueba y requisitos de reserva.
 5. Pedir en recepción que comprueben las tarifas y el acceso si se es estudiante visitante.
 6. Contactar con Trinity Sport cuanto antes si se necesitan adaptaciones, deporte adaptado o apoyo de alto rendimiento.
+
+## Notas relacionadas
+
+- [Salud y bienestar durante el posgrado](./health-and-wellbeing.md)
+- [Pertenencia y participación en la vida de posgrado](./belonging-and-participation.md)

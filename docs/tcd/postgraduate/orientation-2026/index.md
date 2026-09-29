@@ -1,4 +1,5 @@
 ---
+prev: false
 title: TCD Postgraduate Orientation 2026
 description: Reconstructed reference notes from Trinity College Dublin postgraduate orientation sessions.
 date: 2026-09-08

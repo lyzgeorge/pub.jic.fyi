@@ -1,6 +1,6 @@
 ---
 title: Capítulo 9 - Estrategia de carrera y mentalidad
-description: Elige una dirección que puedas sostener, reúne evidencia mediante la acción y distingue los problemas que puedes mejorar de los entornos que quizás debas dejar.
+description: Elige una dirección sostenible, reúne evidencia mediante la acción y distingue los problemas que puedes mejorar de los entornos que quizás debas dejar.
 date: 2026-09-23
 source_title: Chapter 9 - Career Strategy & Mindset
 tags: [career, mindset]
@@ -9,7 +9,7 @@ tags: [career, mindset]
 
 > **Título original:** Chapter 9 - Career Strategy & Mindset
 >
-> **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los videos de asesoría profesional de Jonathan Lee
+> **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los [videos de asesoría profesional de Jonathan Lee](https://www.youtube.com/@MrJonathanCareer)
 
 Elige una dirección que puedas sostener en el tiempo, reúne evidencia mediante la acción y distingue los problemas que puedes mejorar de los entornos que quizás necesites dejar.
 
@@ -123,3 +123,9 @@ La prueba de riesgo del coach es útil: **Si esto sale mal, ¿qué tan grave ser
 Construye sobre las capacidades que otros ya valoran en ti -criterio, contexto de dominio, relaciones, comunicación- y usa la IA para liberar tiempo o mejorar esas capacidades. Para la escritura y la preparación de entrevistas, conserva la propiedad del mensaje y verifica el resultado.
 
 **Estándar para una decisión de carrera:** Puedes explicar qué estás persiguiendo, por qué encaja contigo, qué te cuesta, qué evidencia lo respalda y qué te haría reconsiderarlo.
+
+## Notas relacionadas
+
+- Relacionado: [Capítulo 5 - Ofertas, salario y decisiones de carrera](./chapter-5-offers-salary-career-decisions.md)
+- Versión completa: [Capítulo 9 - Estrategia de carrera y mentalidad (Edición Original)](./original/chapter-9-career-strategy-mindset.md)
+- De la Guía profesional de Jeff Su: [Capítulo 6 — Cómo explicar los cambios de trayectoria](../jeff-su-playbook/chapter-6-explaining-transitions.md)

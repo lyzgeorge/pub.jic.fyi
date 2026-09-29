@@ -1,6 +1,6 @@
 ---
 title: Capítulo 6 - Comunicación clara en el trabajo
-description: Optimiza para la comprensión y una respuesta útil. Un lenguaje simple, un punto claro y una petición específica importan más que una redacción elaborada.
+description: Optimiza para la comprensión con un lenguaje simple, un punto claro y una petición específica en lugar de una redacción elaborada.
 date: 2026-09-23
 source_title: Chapter 6 - Clear Workplace Communication
 tags: [career, workplace, communication]
@@ -9,7 +9,7 @@ tags: [career, workplace, communication]
 
 > **Título original:** Chapter 6 - Clear Workplace Communication
 >
-> **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los videos de asesoría profesional de Jonathan Lee
+> **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los [videos de asesoría profesional de Jonathan Lee](https://www.youtube.com/@MrJonathanCareer)
 
 Optimiza para que te entiendan y obtener una respuesta útil. Un lenguaje simple, un punto claro y una petición específica importan más que una redacción elaborada.
 
@@ -119,3 +119,7 @@ El enfoque preferido del coach es decidir el contenido tú mismo, escribirlo con
 Lee el resultado en voz alta. Recupera las palabras que realmente usarías y verifica que la edición no haya cambiado tu compromiso ni tu nivel de certeza. Usa herramientas aprobadas por la empresa para el material de trabajo.
 
 **Antes de enviar o hablar:** El punto principal es fácil de encontrar, la evidencia lo respalda, la audiencia sabe qué respuesta se necesita y el lenguaje suena a algo que tú realmente dirías.
+
+## Notas relacionadas
+
+- Versión completa: [Capítulo 6 - Comunicación para profesionales no nativos y chinos (Edición Original)](./original/chapter-6-communication-non-native-chinese-professionals.md)

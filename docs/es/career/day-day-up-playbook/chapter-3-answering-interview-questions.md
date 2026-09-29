@@ -9,7 +9,7 @@ tags: [career, job-search]
 
 > **Título original:** Chapter 3 - Answering Interview Questions
 >
-> **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los videos de asesoría profesional de Jonathan Lee
+> **Fuente:** Traducción adaptada de la edición concisa de *The Day Day Up Career Playbook*, basada en los [videos de asesoría profesional de Jonathan Lee](https://www.youtube.com/@MrJonathanCareer)
 
 Elige la forma de respuesta adecuada, haz que tu contribución sea clara y conecta tu evidencia con el puesto. Usa los guiones como punto de partida, no como líneas para recitar.
 
@@ -123,3 +123,8 @@ Si te despidieron o prescindieron de ti, expón los hechos de forma breve. Cuand
 Para preguntas sobre IA, describe un problema real que resolviste usando IA, cómo verificaste el resultado y qué parte mantuviste bajo criterio humano. Evita enumerar herramientas sin un resultado.
 
 **Antes de terminar una respuesta:** Comprueba que respondiste la pregunta, que dejaste claro tu papel, que ofreciste evidencia creíble y que conectaste el resultado con la preocupación de quien entrevista. Luego detente y permite una pregunta de seguimiento.
+
+## Notas relacionadas
+
+- Versión completa: [Capítulo 3 - Cómo responder preguntas de entrevista (Edición Original)](./original/chapter-3-answering-interview-questions.md)
+- De la Guía profesional de Jeff Su: [Capítulo 5 — Respuestas conductuales y situacionales](../jeff-su-playbook/chapter-5-behavioral-and-situational-answers.md)

@@ -1,4 +1,5 @@
 ---
+prev: false
 title: TCD 2026 研究生迎新
 description: 基于 Trinity College Dublin 研究生迎新活动整理的结构化参考笔记。
 date: 2026-09-08

@@ -7,6 +7,8 @@ tags: [career, job-search, workplace]
 
 # Chapter 5 - Offers, Salary & Career Decisions
 
+> **Source:** Original (full lecture-style) edition of *The Day Day Up Career Playbook in Action*, compiled from [Jonathan Lee's career-coaching videos](https://www.youtube.com/@MrJonathanCareer).
+
 > This chapter covers the stretch of the job search that most candidates treat as a formality and that the coach treats as the highest-stakes conversation of the whole process: the salary question, the verbal and written offer, the reply email, and the decision between offers. His central claim is that salary negotiation is not a single moment at the end but a three-round game that starts the first time a recruiter asks "what's your expected salary?", and that "not negotiating" is "the biggest financial mistake that you could make in your entire life". He also argues, from his own experience as a hiring manager who grew teams from zero to over a hundred people, that companies expect you to negotiate, rarely withdraw an offer over a respectful ask, and pay top dollar to the people they believe are top candidates. The chapter then turns to what is actually in an offer - title, level, guaranteed versus variable pay, benefits - and how to choose between offers on what is durable rather than what is shiny.
 
 **What you'll be able to do**
@@ -495,3 +497,6 @@ Accept:     gratitude → confirm the yes → excitement (three lines, future fo
 
 ---
 
+## Related notes
+
+- Concise version: [Chapter 5 - Offers, Salary & Career Decisions](../chapter-5-offers-salary-career-decisions.md)
